@@ -1,438 +1,424 @@
-#EXTM3U generation-date="2025.04.30 14:52:56 MSK" url-tvg="http://epg.team/tvteam.3.1.xml"
-#EXTINF:0 tvg-name="IL: Aruch Sdarot Hahodiot" tvg-logo="http://team.ga/images/chIcons/2934.png" tvg-rec="5", IL: Aruch Sdarot Hahodiot
+#EXTM3U generation-date="2025.05.23 15:15:08 MSK" url-tvg="http://epg.team/tvteam.3.1.xml"
+#EXTINF:0 tvg-name="IL: Channel 9 HD" tvg-logo="http://team.ga/images/chIcons/427.png" tvg-rec="6", IL: Channel 9 HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2934/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JMMLH7FKn4Qrs93qJ1F8bwrV-z3WCj9C9rl8doo1agJA.dubldot
-#EXTINF:0 tvg-name="IL: Aruch Sdarot Hahodiot 2" tvg-logo="http://team.ga/images/chIcons/2935.png" tvg-rec="5", IL: Aruch Sdarot Hahodiot 2
+http://3.team.ga:80/ch427/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Vcih9-kJcSylLdUULIMfbLDNNec2FYXYJZ9qAmLsuVW
+#EXTINF:0 tvg-name="IL: Channel 11 HD" tvg-logo="http://team.ga/images/chIcons/428.png" tvg-rec="6", IL: Channel 11 HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2935/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Jvnt9GXk-GbekGZQt1Fs2Yq9PruFtqqTWQ2AzyWHLSTw.dubldot
-#EXTINF:0 tvg-name="IL: Animal Planet HD" tvg-logo="http://team.ga/images/chIcons/2624.png" tvg-rec="6", IL: Animal Planet HD
+http://3.team.ga:80/ch428/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7TE27qFAZNOAUCwqkDI_CULu-3MK5l7W0EwUClavEIIY
+#EXTINF:0 tvg-name="IL: Channel 12 HD" tvg-logo="http://team.ga/images/chIcons/429.png" tvg-rec="6", IL: Channel 12 HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2624/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JXQmcnXTzqGT5ighP1BMrSWk21b2itIdbWN4lCU8JqVg.dubldot
-#EXTINF:0 tvg-name="IL: Big" tvg-logo="http://team.ga/images/chIcons/2032.png" tvg-rec="0", IL: Big
+http://3.team.ga:80/ch429/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7fTc_DBhzYxOcae6rPwer-T6rGOUKN15o1ayDRM4rcTT
+#EXTINF:0 tvg-name="IL: Channel 13 HD" tvg-logo="http://team.ga/images/chIcons/430.png" tvg-rec="6", IL: Channel 13 HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2032/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LBiCvNIpZ1L-DWvedvzmrYmYrPjhTuYJOatcv1pVEd5A.dubldot
-#EXTINF:0 tvg-name="IL: Baby TV" tvg-logo="http://team.ga/images/chIcons/1118.png" tvg-rec="6", IL: Baby TV
+http://3.team.ga:80/ch430/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7QQ_S1XBmDTf9mMFAQlkbLV3WLRTTsw11L0fYltoQy0A
+#EXTINF:0 tvg-name="IL: Channel 14 HD" tvg-logo="http://team.ga/images/chIcons/1119.png" tvg-rec="6", IL: Channel 14 HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch1118/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J1OZqzPk5NNpyU7KWt-nhNJDem61tDSuGGHWtQOHa6WQ.dubldot
-#EXTINF:0 tvg-name="Il: Bollywood HD" tvg-logo="http://team.ga/images/chIcons/2616.png" tvg-rec="6", Il: Bollywood HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2616/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LEb052pV5dZ4BrkhuClY-5mb3sK0Qucpmqix1qsvdWew.dubldot
-#EXTINF:0 tvg-name="IL: Channel 9" tvg-logo="http://team.ga/images/chIcons/427.png" tvg-rec="6", IL: Channel 9
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch427/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IFlsYIzYsieGpwb298sFMZ5r9HBo8pO2OZ0AS1VJ3hyQ.dubldot
-#EXTINF:0 tvg-name="IL: Channel 11" tvg-logo="http://team.ga/images/chIcons/428.png" tvg-rec="6", IL: Channel 11
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch428/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IwnNu4e1GFRg0atMR6VxQthsUDun784KL-miYsASl1xA.dubldot
-#EXTINF:0 tvg-name="IL: Channel 12" tvg-logo="http://team.ga/images/chIcons/429.png" tvg-rec="6", IL: Channel 12
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch429/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JN7QTrXIcA2tpNhrU8BB3PWefUjJTHpOqhVDuiJXaJnA.dubldot
-#EXTINF:0 tvg-name="IL: Channel 13" tvg-logo="http://team.ga/images/chIcons/430.png" tvg-rec="6", IL: Channel 13
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch430/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JAcFldZqLVUNa8RrNhXOHMWei1h5ANXRsDK0LpdrPOYA.dubldot
-#EXTINF:0 tvg-name="IL: Channel 14" tvg-logo="http://team.ga/images/chIcons/1119.png" tvg-rec="6", IL: Channel 14
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1119/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LE5UuVcf5UnB-uyr4JN7Hwri2rKjUAtPk7OEg37-dNgA.dubldot
-#EXTINF:0 tvg-name="IL: Channel 24" tvg-logo="http://team.ga/images/chIcons/1142.png" tvg-rec="6", IL: Channel 24
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1142/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KhRn2kGhRuuiCa_l9zsh_rt2zWO-W6UUXEbCPEZ9sffA.dubldot
-#EXTINF:0 tvg-name="IL: Cellcom Israel" tvg-logo="http://team.ga/images/chIcons/2499.png" tvg-rec="6", IL: Cellcom Israel
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2499/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IG1fJM_agDGzO26rLWrHZMsM6wUoi2KAL5PDZjuLj9jA.dubldot
-#EXTINF:0 tvg-name="IL: Cellcom Rus" tvg-logo="http://team.ga/images/chIcons/2494.png" tvg-rec="6", IL: Cellcom Rus
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2494/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J-cmBn6noLeNOcdLfwezd_xQZtDMYb8Nj8-ZVmcmJp9A.dubldot
-#EXTINF:0 tvg-name="IL: Cellcom Sratim" tvg-logo="http://team.ga/images/chIcons/2495.png" tvg-rec="6", IL: Cellcom Sratim
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2495/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8ItjcQQPV8syXM6IPqLtQWzhICpW8hbwzjJaMkD70vRTA.dubldot
-#EXTINF:0 tvg-name="IL: Cellcom Yeladim" tvg-logo="http://team.ga/images/chIcons/1194.png" tvg-rec="6", IL: Cellcom Yeladim
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1194/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I1mhE6x7yf38JY7eAo-UlMigH2kQ5qP5KFu7Lk7qyNwg.dubldot
-#EXTINF:0 tvg-name="IL: Cellcom HBO HD" tvg-logo="http://team.ga/images/chIcons/2639.png" tvg-rec="5", IL: Cellcom HBO HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2639/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KMJMTFh5gGo3l8M-aajoHIccesh3r9APjiXh6bJ2Gjzg.dubldot
-#EXTINF:0 tvg-name="IL: Cellcom Doco HD" tvg-logo="http://team.ga/images/chIcons/2640.png" tvg-rec="5", IL: Cellcom Doco HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2640/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JLnONcV20OMLHMW8Pa9_JZtniRZVNCchotD4kFISXNwQ.dubldot
-#EXTINF:0 tvg-name="IL: CBS Reality" tvg-logo="http://team.ga/images/chIcons/2628.png" tvg-rec="6", IL: CBS Reality
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2628/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LvSXRc-O2OumMAqhPV_BHOrap2XP_7XuBsffnJAE7F5A.dubldot
-#EXTINF:0 tvg-name="IL: Discovery Channel HD" tvg-logo="http://team.ga/images/chIcons/1120.png" tvg-rec="6", IL: Discovery Channel HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1120/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JPp-u3Ull0RjMtdqxvlIZBugH9hhl2oFkAI4s1-hUl0A.dubldot
-#EXTINF:0 tvg-name="IL: Disney Channel HD" tvg-logo="http://team.ga/images/chIcons/1121.png" tvg-rec="5", IL: Disney Channel HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1121/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JyhW_3xzMVcymt6-VQ39GI_6dIiD8auEvg2j5iOpJFqw.dubldot
-#EXTINF:0 tvg-name="IL: Disney Jr." tvg-logo="http://team.ga/images/chIcons/1162.png" tvg-rec="6", IL: Disney Jr.
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1162/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Jn8F1adwxCtNOMHKqNy7qNrEBEJ1nTqD8UO8Q-yTLCjQ.dubldot
-#EXTINF:0 tvg-name="IL: E!" tvg-logo="http://team.ga/images/chIcons/1122.png" tvg-rec="6", IL: E!
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1122/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KYYJTqQYaqM6yL8rtnZlUkTGubGXqUtiGca6DVEMxo9Q.dubldot
-#EXTINF:0 tvg-name="IL: Ego Total" tvg-logo="http://team.ga/images/chIcons/2498.png" tvg-rec="5", IL: Ego Total
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2498/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Lstg9qEDt6jZ7Fdb_Md_CJydky9ScQH6I9OrGnZyPc-Q.dubldot
+http://3.team.ga:80/ch1119/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7ata4lCKsMbe2JErOOnmY1YK_5d2KF1cbsXaymDeNnU-
 #EXTINF:0 tvg-name="IL: Eurosport 1 HD" tvg-logo="http://team.ga/images/chIcons/2496.png" tvg-rec="6", IL: Eurosport 1 HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2496/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IcqI_otZFX6uu9gyC4M21zkaQK1bAnDW3zbObOIy63xQ.dubldot
+http://3.team.ga:80/ch2496/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7UbUtfrJagNV5ELGC6H4vnwOimIxsuzkWDuY0nT66iMm
 #EXTINF:0 tvg-name="IL: Eurosport 2 HD" tvg-logo="http://team.ga/images/chIcons/2497.png" tvg-rec="6", IL: Eurosport 2 HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2497/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KiYJixxvkXMQWkexpO_jDhyOPwo3GZOsG3CDRnJS6dpA.dubldot
-#EXTINF:0 tvg-name="IL: Edge Sport HD" tvg-logo="http://team.ga/images/chIcons/2629.png" tvg-rec="5", IL: Edge Sport HD
+http://3.team.ga:80/ch2497/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7WlJXDKW567Mq-m7MPSCsYilPvn-ahdW2BR-OrzikOY2
+#EXTINF:0 tvg-name="IL: Big" tvg-logo="http://team.ga/images/chIcons/2032.png" tvg-rec="0", IL: Big
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2629/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KXtConAOSbLOzfDu8CBf5JhbCOxNPUT5EuhRNGHyg4Ow.dubldot
-#EXTINF:0 tvg-name="IL: Erez Nehederet HD" tvg-logo="http://team.ga/images/chIcons/2544.png" tvg-rec="5", IL: Erez Nehederet HD
+http://3.team.ga:80/ch2032/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7X5VhoVi-OEJXJm-6hZRbvF6Aze0PZh7JF67YAOP4QSk
+#EXTINF:0 tvg-name="IL: Channel 24" tvg-logo="http://team.ga/images/chIcons/1142.png" tvg-rec="6", IL: Channel 24
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2544/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L4oOojpwcI8L2mbiXnkZV4UCiEXfbB1cMY5Mi4MmuQpg.dubldot
-#EXTINF:0 tvg-name="IL: Free Tv Drama HD" tvg-logo="http://team.ga/images/chIcons/2539.png" tvg-rec="5", IL: Free Tv Drama HD
+http://3.team.ga:80/ch1142/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7ZH5QoCdiMjtk3kPde780JzqO9_PnBkeolMGHZejdazY
+#EXTINF:0 tvg-name="IL: Baby TV" tvg-logo="http://team.ga/images/chIcons/1118.png" tvg-rec="6", IL: Baby TV
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2539/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JRSoZ4oY90pzXpXmXT3Y7fNdOgvjS1x2Jh_xc_EUvYRg.dubldot
-#EXTINF:0 tvg-name="IL: Free Tv Comedy HD" tvg-logo="http://team.ga/images/chIcons/2540.png" tvg-rec="5", IL: Free Tv Comedy HD
+http://3.team.ga:80/ch1118/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7SRqjaSmJiYCfvqE0p2RXy4QUEwE4UjVOHvgp4lYKenb
+#EXTINF:0 tvg-name="IL: Cellcom Israel" tvg-logo="http://team.ga/images/chIcons/2499.png" tvg-rec="6", IL: Cellcom Israel
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2540/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kvfi9W0NswANlG0V6D-2dI2g9MiJUw33R6e_wrCdmN_g.dubldot
-#EXTINF:0 tvg-name="IL: Free Tv Lifestyle HD" tvg-logo="http://team.ga/images/chIcons/2541.png" tvg-rec="5", IL: Free Tv Lifestyle HD
+http://3.team.ga:80/ch2499/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7b4hMEbwwT_GPcQvLgcSI-nPA4YBFr1_iD5kJC20qhwh
+#EXTINF:0 tvg-name="IL: Cellcom Rus" tvg-logo="http://team.ga/images/chIcons/2494.png" tvg-rec="6", IL: Cellcom Rus
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2541/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LV_18ldm1Bv5Ro6o1jKa0hqaYPtMfHA66KRmJx4Rmexg.dubldot
-#EXTINF:0 tvg-name="IL: Free Tv Cooking HD" tvg-logo="http://team.ga/images/chIcons/2542.png" tvg-rec="5", IL: Free Tv Cooking HD
+http://3.team.ga:80/ch2494/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7S2E9ixYpi4TVzeEfwzr6LDQcSgfB5ZpMNTvs_e7mj_H
+#EXTINF:0 tvg-name="IL: Cellcom Sratim" tvg-logo="http://team.ga/images/chIcons/2495.png" tvg-rec="6", IL: Cellcom Sratim
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2542/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IGw82xdqloiR8fjw7KRjleHj3zLS6a4TTw7Ggmh9YnAQ.dubldot
-#EXTINF:0 tvg-name="IL: Free Tv Doco HD" tvg-logo="http://team.ga/images/chIcons/2543.png" tvg-rec="5", IL: Free Tv Doco HD
+http://3.team.ga:80/ch2495/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7bT_Glc4FCmhcVFqeXuau9dOg4il9AOsU2rlOkcxT4Tg
+#EXTINF:0 tvg-name="IL: Cellcom Yeladim" tvg-logo="http://team.ga/images/chIcons/1194.png" tvg-rec="6", IL: Cellcom Yeladim
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2543/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LFPwYZhvN6o1bJ_rcKDx-ErDet22EGWCAJfk49nj4TKA.dubldot
-#EXTINF:0 tvg-name="IL: Free Tv Hatuna HD" tvg-logo="http://team.ga/images/chIcons/1183.png" tvg-rec="5", IL: Free Tv Hatuna HD
+http://3.team.ga:80/ch1194/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7cAV7fxyD7MHZZBHQLQuPmGvhN-vCQuoPG3E1qdNNmgB
+#EXTINF:0 tvg-name="IL: Discovery Channel HD" tvg-logo="http://team.ga/images/chIcons/1120.png" tvg-rec="6", IL: Discovery Channel HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch1183/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KxOT3Qb1E1zdEhekFjcBMmjzBoQio7ZAvT7vBhzSlNGg.dubldot
-#EXTINF:0 tvg-name="IL: Free Tv Karaoke HD" tvg-logo="http://team.ga/images/chIcons/2086.png" tvg-rec="5", IL: Free Tv Karaoke HD
+http://3.team.ga:80/ch1120/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7axB-yBj02QZaBezcCgQfuDSJtBoBU6hB2tTYjooKxXw
+#EXTINF:0 tvg-name="IL: Disney Channel HD" tvg-logo="http://team.ga/images/chIcons/1121.png" tvg-rec="6", IL: Disney Channel HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2086/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JTuSulIp2wql-T6j4U-BWlJdoXk3Ad4aetqC1KZGPddQ.dubldot
-#EXTINF:0 tvg-name="IL: Free Tv Kohav Haba HD" tvg-logo="http://team.ga/images/chIcons/2087.png" tvg-rec="5", IL: Free Tv Kohav Haba HD
+http://3.team.ga:80/ch1121/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7fKTjvnW3yPKVpy_F1KwExWGFPydzeDR-fq8TGvUBrnW
+#EXTINF:0 tvg-name="IL: Disney Jr." tvg-logo="http://team.ga/images/chIcons/1162.png" tvg-rec="6", IL: Disney Jr.
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2087/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KIjINGgQyFYlj6Jas_V0DenXMxAegnFOMXwaMerKXYfw.dubldot
-#EXTINF:0 tvg-name="IL: Free Tv Feel Good" tvg-logo="http://team.ga/images/chIcons/3036.png" tvg-rec="6", IL: Free Tv Feel Good
+http://3.team.ga:80/ch1162/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7a8U1zwfERFVWVWTl4EpC5FRFvLEEW2ub_5JgpOhYR66
+#EXTINF:0 tvg-name="IL: E!" tvg-logo="http://team.ga/images/chIcons/1122.png" tvg-rec="6", IL: E!
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch3036/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KQogQ5gtvNfVkUA7CjVq9zBjEQ2Zg3w_nQfVepCDxwqg.dubldot
-#EXTINF:0 tvg-name="IL: Free Series Global HD" tvg-logo="http://team.ga/images/chIcons/2533.png" tvg-rec="5", IL: Free Series Global HD
+http://3.team.ga:80/ch1122/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7eD4gn21c30xGDITmXw9w38dtQbyL_Trw123EnmSRpl-
+#EXTINF:0 tvg-name="IL: Ego Total" tvg-logo="http://team.ga/images/chIcons/2498.png" tvg-rec="6", IL: Ego Total
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2533/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JBEqCZUcgqbtLFZXy0ifFIhOG6411v1O9S-xpsgNgpDg.dubldot
-#EXTINF:0 tvg-name="IL: Free Movies Action HD" tvg-logo="http://team.ga/images/chIcons/2537.png" tvg-rec="5", IL: Free Movies Action HD
+http://3.team.ga:80/ch2498/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7d6LyaC0GRvvYrYaaLMKGD06DfyrxV0Fifhs0BA44E9V
+#EXTINF:0 tvg-name="IL: Free Movies Comedy HD" tvg-logo="http://team.ga/images/chIcons/1193.png" tvg-rec="6", IL: Free Movies Comedy HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2537/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8K8sv0ng753WJexUrVPkdVRvKJWtopN20pSqweQX4ZtCw.dubldot
-#EXTINF:0 tvg-name="IL: Free Movies Comedy HD" tvg-logo="http://team.ga/images/chIcons/1193.png" tvg-rec="5", IL: Free Movies Comedy HD
+http://3.team.ga:80/ch1193/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7cfHSwrDYJMYK5aVSzNF9xV4D_7F3QUIlqrNc17gIjQZ
+#EXTINF:0 tvg-name="IL: Food Channel HD" tvg-logo="http://team.ga/images/chIcons/1124.png" tvg-rec="6", IL: Food Channel HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch1193/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IWRLDG90bRjKyxVcHJ1CRgGN28F25dzG-dKnAdNLiE4g.dubldot
-#EXTINF:0 tvg-name="IL: Free Movies Drama HD" tvg-logo="http://team.ga/images/chIcons/2534.png" tvg-rec="5", IL: Free Movies Drama HD
+http://3.team.ga:80/ch1124/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7U24tY_rll_nLfPifnuqkTHsvsK-ivvffkhIIDB8Dybp
+#EXTINF:0 tvg-name="IL: Good Life TV HD" tvg-logo="http://team.ga/images/chIcons/1141.png" tvg-rec="6", IL: Good Life TV HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2534/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Jl8KCoQaUh3PIZC8HnBWldovkMBKh8AjJkCAh1dAllzg.dubldot
-#EXTINF:0 tvg-name="IL: Free Movies Horror HD" tvg-logo="http://team.ga/images/chIcons/2535.png" tvg-rec="5", IL: Free Movies Horror HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2535/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LBdqW5NH9ouD0pCoXug6Sn5Vm3m8RFiYDUXg4WsdsIRg.dubldot
-#EXTINF:0 tvg-name="IL: Free Movies Romantic HD" tvg-logo="http://team.ga/images/chIcons/2536.png" tvg-rec="5", IL: Free Movies Romantic HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2536/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J8kYO-aW8FG2iSHQvaN09LhxnhAWsAfWI3Z2iyeII76Q.dubldot
-#EXTINF:0 tvg-name="IL: Free Movies Family HD" tvg-logo="http://team.ga/images/chIcons/2617.png" tvg-rec="5", IL: Free Movies Family HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2617/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JmGIHECo8xCw5kl7-k2wX3vzzBi4byWYMPKhW10FXnLQ.dubldot
-#EXTINF:0 tvg-name="IL: Free Movies 10 Stars HD" tvg-logo="http://team.ga/images/chIcons/3224.png" tvg-rec="6", IL: Free Movies 10 Stars HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch3224/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IpNOO45MlzxCZK2I_mNXjHMubTB61e0sqGB8_66Xa92g.dubldot
-#EXTINF:0 tvg-name="IL: Free Israeli Movies HD" tvg-logo="http://team.ga/images/chIcons/2538.png" tvg-rec="6", IL: Free Israeli Movies HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2538/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I3qpNKb0DT1fI_qq_xZJoKD1JxoxIpD30IOrmADy3Neg.dubldot
-#EXTINF:0 tvg-name="IL: Food Channel HD" tvg-logo="http://team.ga/images/chIcons/1124.png" tvg-rec="5", IL: Food Channel HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1124/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LYn0SBcPFYjLd6q0OSeYnSoL2w9owH_UCQgBJKQ7bprA.dubldot
-#EXTINF:0 tvg-name="IL: Foody HD" tvg-logo="http://team.ga/images/chIcons/2630.png" tvg-rec="6", IL: Foody HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2630/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JPbyivWqJQa--MHJnDm-TViKSWRbTS4u38qnbqpyuVLw.dubldot
-#EXTINF:0 tvg-name="IL: Fomo" tvg-logo="http://team.ga/images/chIcons/2627.png" tvg-rec="6", IL: Fomo
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2627/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LMSUIdshPpAXQvMOEYP1zXYxuC8Yxbmb_CI5oI-w0-qA.dubldot
-#EXTINF:0 tvg-name="IL: Fashion" tvg-logo="http://team.ga/images/chIcons/2642.png" tvg-rec="6", IL: Fashion
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2642/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I7pNA0ZkoHedS08g8GxJsqr0TX4JvBfZR8VPsv4dMIAA.dubldot
-#EXTINF:0 tvg-name="IL: Good Life TV HD" tvg-logo="http://team.ga/images/chIcons/1141.png" tvg-rec="5", IL: Good Life TV HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1141/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JtVVaDrtt0byK4B8DlfiFCNrnCfkSbBcDEfa7yLLVW4A.dubldot
+http://3.team.ga:80/ch1141/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7ew01XI0yf4dUsKZcmbX8wQTEEGXEO3SghqboU9R2K7H
 #EXTINF:0 tvg-name="IL: Hop" tvg-logo="http://team.ga/images/chIcons/1154.png" tvg-rec="6", IL: Hop
 #EXTGRP:20. Israel
-http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
-#EXTINF:0 tvg-name="IL: Hop Israeli Childhood" tvg-logo="http://team.ga/images/chIcons/2138.png" tvg-rec="0", IL: Hop Israeli Childhood
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2138/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KeEoWmgw-6Y12owcRQzSP7R1zwthraBPtj8_utgdylQA.dubldot
-#EXTINF:0 tvg-name="IL: Hop Pele HD" tvg-logo="http://team.ga/images/chIcons/2003.png" tvg-rec="0", IL: Hop Pele HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2003/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JUXqO7kS8nE8vmYoDM6nPnypWGNaFJAKdKD5SgLvCdoQ.dubldot
+http://3.team.ga:80/ch1154/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7caEzIVd59PYCYIEf0knydbY6G7AtJVKFVUqEvc0gtLt
 #EXTINF:0 tvg-name="IL: History HD" tvg-logo="http://team.ga/images/chIcons/1143.png" tvg-rec="6", IL: History HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch1143/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Jvr6UkhV9nTi-lN5tQ_41RhFWqxr3CovMTdInUZ8bW-g.dubldot
-#EXTINF:0 tvg-name="IL: Health Channel HD" tvg-logo="http://team.ga/images/chIcons/1176.png" tvg-rec="5", IL: Health Channel HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1176/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8K7hZCe8Jxa0ZBVp9zB-Wmf5AOB1720TKYYrFMbzlzZxA.dubldot
-#EXTINF:0 tvg-name="IL: Humor Channel" tvg-logo="http://team.ga/images/chIcons/1178.png" tvg-rec="6", IL: Humor Channel
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1178/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JRnf7mbTVJoxEFimu-tdxmuAHl1xAQyDoQWkw4nb3UYQ.dubldot
-#EXTINF:0 tvg-name="IL: i24 News" tvg-logo="http://team.ga/images/chIcons/2824.png" tvg-rec="6", IL: i24 News
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2824/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JWwPqoOJMu0ZN6KQ_dkbxjxI83dYYUVsPjtjkjhf3AUg.dubldot
-#EXTINF:0 tvg-name="IL: HOT Cinema 1 HD" tvg-logo="http://team.ga/images/chIcons/1161.png" tvg-rec="6", IL: HOT Cinema 1 HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1161/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8K8CuaTPA38Vr5L49TZrGlhT4V85pZjYzr-I2lsLHwCNQ.dubldot
-#EXTINF:0 tvg-name="IL: HOT Cinema 1 HD (ru)" tvg-logo="http://team.ga/images/chIcons/2633.png" tvg-rec="6", IL: HOT Cinema 1 HD (ru)
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2633/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L80kne7O-TqHtdsZ9FK1CCXRqrcjdHma5BMIRVEcaWow.dubldot
-#EXTINF:0 tvg-name="IL: HOT Cinema 2 HD" tvg-logo="http://team.ga/images/chIcons/1172.png" tvg-rec="6", IL: HOT Cinema 2 HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1172/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JyCq88dMEGbYJhQjrHuB0mjjs1k1PCuK52YigXLOrowg.dubldot
-#EXTINF:0 tvg-name="IL: HOT Cinema 2 HD (ru)" tvg-logo="http://team.ga/images/chIcons/2634.png" tvg-rec="6", IL: HOT Cinema 2 HD (ru)
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2634/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IW8d7K1HfpGJrwiUt0lez8mLnEJXvVBpF8kJpK0ZHu2A.dubldot
-#EXTINF:0 tvg-name="IL: HOT Cinema 3 HD" tvg-logo="http://team.ga/images/chIcons/1140.png" tvg-rec="6", IL: HOT Cinema 3 HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1140/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LszT1AQPB-5enrjldCkJqQsBKZTdEhQNETU5y45O8P2Q.dubldot
-#EXTINF:0 tvg-name="IL: HOT Cinema 3 HD (ru)" tvg-logo="http://team.ga/images/chIcons/2635.png" tvg-rec="6", IL: HOT Cinema 3 HD (ru)
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2635/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I9RZvsSF1FhLwgwmFZRjzjfVTWANNhjSSVbT40mmlaUg.dubldot
-#EXTINF:0 tvg-name="IL: HOT Cinema 4 HD" tvg-logo="http://team.ga/images/chIcons/1192.png" tvg-rec="6", IL: HOT Cinema 4 HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1192/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kl8SALz7Fq8Eakl6MBIvGXTnZwf3Ran1HoT5-SW4oucA.dubldot
-#EXTINF:0 tvg-name="IL: HOT Cinema 4 HD (ru)" tvg-logo="http://team.ga/images/chIcons/2636.png" tvg-rec="6", IL: HOT Cinema 4 HD (ru)
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2636/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LkHDC1meiuMp8lla086dJKSjYEPQl-260JXidCOnIiIw.dubldot
-#EXTINF:0 tvg-name="IL: HOT Cinema Israeli HD" tvg-logo="http://team.ga/images/chIcons/1133.png" tvg-rec="6", IL: HOT Cinema Israeli HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1133/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J6w7A0F0O1NN3J3AOueMykU5uZn6ZscUoXZjRpYfB7qw.dubldot
-#EXTINF:0 tvg-name="IL: HOT Cinema Family HD" tvg-logo="http://team.ga/images/chIcons/1153.png" tvg-rec="6", IL: HOT Cinema Family HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1153/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I9kTM587xyn45dknW0_v4USuCn3rU2RN9VBAiqnVr5MA.dubldot
-#EXTINF:0 tvg-name="IL: HOT Zone HD" tvg-logo="http://team.ga/images/chIcons/1139.png" tvg-rec="6", IL: HOT Zone HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1139/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Joh5NspvWapqsJ55YuySE_dp7NJ__qq7GkqBbsAmm5Lw.dubldot
-#EXTINF:0 tvg-name="IL: HOT Zone HD (ru)" tvg-logo="http://team.ga/images/chIcons/2638.png" tvg-rec="5", IL: HOT Zone HD (ru)
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2638/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JzBmCtmAj5VsTZFdMZM4-HOpC81S9Ijmnf2aLsj55Kyg.dubldot
-#EXTINF:0 tvg-name="IL: HOT 3 HD" tvg-logo="http://team.ga/images/chIcons/1147.png" tvg-rec="6", IL: HOT 3 HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1147/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I-qOt6sGjlMIWtkN9_APApv_1jutL1BfotaWo7CAfSuQ.dubldot
-#EXTINF:0 tvg-name="IL: HOT 8 HD" tvg-logo="http://team.ga/images/chIcons/1144.png" tvg-rec="6", IL: HOT 8 HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1144/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JMoWknfoT0seijNeQ-W9jSaNqUN4g1OLq5zoeH_FbaOw.dubldot
-#EXTINF:0 tvg-name="IL: HOT Bidur HD" tvg-logo="http://team.ga/images/chIcons/1163.png" tvg-rec="6", IL: HOT Bidur HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1163/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KnHh9_7Zw8hv4neKde9d6vMJTEgFIVQ0zwA3my0Foehg.dubldot
-#EXTINF:0 tvg-name="IL: HOT Comedy Central HD" tvg-logo="http://team.ga/images/chIcons/1174.png" tvg-rec="6", IL: HOT Comedy Central HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1174/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IGPKM2GDgcDNIQxqaoqDEWWSe8Gi2PGLiiOGCerr5Uzg.dubldot
-#EXTINF:0 tvg-name="IL: HOT Real HD" tvg-logo="http://team.ga/images/chIcons/1173.png" tvg-rec="6", IL: HOT Real HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1173/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IYlgbiiTvaEjEyG2nm5Hf07E-E0InV61ogtEUypLtI0Q.dubldot
-#EXTINF:0 tvg-name="IL: HOT Senior HD" tvg-logo="http://team.ga/images/chIcons/2613.png" tvg-rec="6", IL: HOT Senior HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2613/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JkOhccREWdyubY7K7OOtBi8uU9rmI8SzQTwKyuj1PV9A.dubldot
-#EXTINF:0 tvg-name="IL: HOT Buzz HD" tvg-logo="http://team.ga/images/chIcons/2614.png" tvg-rec="6", IL: HOT Buzz HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2614/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LOsFIPl02mfKQ1n607MJ5j61XDTvbt7pZbBstn1DJ4nA.dubldot
-#EXTINF:0 tvg-name="IL: HOT HBO HD" tvg-logo="http://team.ga/images/chIcons/1175.png" tvg-rec="6", IL: HOT HBO HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1175/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Jf_kU9JwQgyFGWoNR9xKCw5IyWJA-txBCNNTxqfE61kQ.dubldot
-#EXTINF:0 tvg-name="IL: Home Plus" tvg-logo="http://team.ga/images/chIcons/2631.png" tvg-rec="6", IL: Home Plus
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2631/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IbQgSItJGtPDfS0iZPJuwMdsJ8EGNeS2w96-PcOQOqgw.dubldot
-#EXTINF:0 tvg-name="IL: Junior" tvg-logo="http://team.ga/images/chIcons/1184.png" tvg-rec="6", IL: Junior
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1184/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LPRvZVmEFWPt3GwPEQjfSsO4PHWaBmIUOtlauof1T5cQ.dubldot
-#EXTINF:0 tvg-name="IL: Jim Jam" tvg-logo="http://team.ga/images/chIcons/2645.png" tvg-rec="6", IL: Jim Jam
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2645/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8K7aJTtVEDC8PWeCOzWBovWjDDfu_L_JAF7BoOVwc4ihw.dubldot
-#EXTINF:0 tvg-name="IL: Kan Chinuchit 23" tvg-logo="http://team.ga/images/chIcons/1171.png" tvg-rec="6", IL: Kan Chinuchit 23
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1171/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Luxntfc_jwgqgumw0mVGy8yY3j_yplnCQF6W_L16yiqg.dubldot
-#EXTINF:0 tvg-name="IL: Kalkala 10 HD" tvg-logo="http://team.ga/images/chIcons/3134.png" tvg-rec="6", IL: Kalkala 10 HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch3134/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Iifv_4IQL2bYzKv0tr8jqvuceg8f38LBWhhUwXtrn3cg.dubldot
-#EXTINF:0 tvg-name="IL: Love Island" tvg-logo="http://team.ga/images/chIcons/2004.png" tvg-rec="0", IL: Love Island
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2004/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LrXuiHO7_3vBxnhIAC6XgaGaJsWXv1G2wA3n9XGPYBZw.dubldot
-#EXTINF:0 tvg-name="IL: Luli" tvg-logo="http://team.ga/images/chIcons/1170.png" tvg-rec="6", IL: Luli
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1170/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JwP8oru-AYvpyWGa5vz2ii3GVP9aMxJHy-FNidBC12cQ.dubldot
-#EXTINF:0 tvg-name="IL: Logi" tvg-logo="http://team.ga/images/chIcons/2626.png" tvg-rec="5", IL: Logi
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2626/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I46MPUGUUQauqEqW-lCGn8ezQf4B8k05Qx4okL4zAkUA.dubldot
-#EXTINF:0 tvg-name="IL: MTV HD" tvg-logo="http://team.ga/images/chIcons/2623.png" tvg-rec="6", IL: MTV HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2623/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JDAuu6raIsSezJvo5dPVs_U0VSQ8Af9CJaGl-jP-oOPQ.dubldot
-#EXTINF:0 tvg-name="IL: Makan 33 HD" tvg-logo="http://team.ga/images/chIcons/1181.png" tvg-rec="6", IL: Makan 33 HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1181/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LThLzKFn0q8LlqlTd_Hkz9ib4lOIS8E5688NJDAF-mpw.dubldot
-#EXTINF:0 tvg-name="IL: Nick HD" tvg-logo="http://team.ga/images/chIcons/1185.png" tvg-rec="6", IL: Nick HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1185/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IQIWvRENwtaySxbp-jZ6rWX-SgmDuNfy19dsxfbdGsVg.dubldot
-#EXTINF:0 tvg-name="IL: Nick Jr HD" tvg-logo="http://team.ga/images/chIcons/2637.png" tvg-rec="6", IL: Nick Jr HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2637/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8ISOp4sXXlBebPB2tBbBy0manZ8Gxa6iE5q6DoawFaLtg.dubldot
-#EXTINF:0 tvg-name="IL: Nat Geo HD" tvg-logo="http://team.ga/images/chIcons/1126.png" tvg-rec="6", IL: Nat Geo HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1126/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Ll0u74ZPTWVOq8M9JmKIrvo2GYZBlnTC8VBASLvDQ8Ag.dubldot
-#EXTINF:0 tvg-name="IL: Nat Geo Wild" tvg-logo="http://team.ga/images/chIcons/1138.png" tvg-rec="6", IL: Nat Geo Wild
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1138/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I8sZnqUHPft_BRyzJBGIvnuEm-rCFkpkbqvOGiwSu4CA.dubldot
-#EXTINF:0 tvg-name="IL: ONE Doco" tvg-logo="http://team.ga/images/chIcons/1195.png" tvg-rec="6", IL: ONE Doco
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1195/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kqy2vykusMYHAFOEcYiTGttjVuLvUzokSwazCSRcpm_Q.dubldot
-#EXTINF:0 tvg-name="IL: ONE 1 HD" tvg-logo="http://team.ga/images/chIcons/1186.png" tvg-rec="6", IL: ONE 1 HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1186/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LCI2KLid69iYhHHWWswd9bz2i2R6GFjOdkGeRmIXJeJw.dubldot
-#EXTINF:0 tvg-name="IL: ONE 2 HD" tvg-logo="http://team.ga/images/chIcons/1145.png" tvg-rec="6", IL: ONE 2 HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1145/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JVJ3gvo5KDPME2eTmNFW4Gyo9-chG-A8f5k2VgzPqEtA.dubldot
-#EXTINF:0 tvg-name="IL: Partner Yladim" tvg-logo="http://team.ga/images/chIcons/2608.png" tvg-rec="5", IL: Partner Yladim
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2608/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8ICe160LZz3HFuMkxnvY_9qddJKlAzv7S9KV0OXn8CTwA.dubldot
-#EXTINF:0 tvg-name="IL: Partner Sratim" tvg-logo="http://team.ga/images/chIcons/2609.png" tvg-rec="6", IL: Partner Sratim
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2609/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I4X3-KFDBKzbheLaw9Jkj3knHWXWkNSHZZAYL2sptTZA.dubldot
-#EXTINF:0 tvg-name="IL: Partner Sdarot" tvg-logo="http://team.ga/images/chIcons/2610.png" tvg-rec="5", IL: Partner Sdarot
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2610/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KcYoDPVH_q_2dOuQHU5uhxdsVHrSgIQrflIMK6Q8_Nyg.dubldot
-#EXTINF:0 tvg-name="IL: Reality HD" tvg-logo="http://team.ga/images/chIcons/1182.png" tvg-rec="6", IL: Reality HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1182/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KqOyj4A3Nbyl_j6e4YJ_8vBKoAjKMjrDuGsf6dJHAMyg.dubldot
-#EXTINF:0 tvg-name="IL: Sport 1 FHD" tvg-logo="http://team.ga/images/chIcons/1128.png" tvg-rec="6", IL: Sport 1 FHD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1128/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Knu7dHhWHNNLP5gJPhIUj9mZ6MNakHw1tjP4ut-Emvrw.dubldot
-#EXTINF:0 tvg-name="IL: Sport 2 FHD" tvg-logo="http://team.ga/images/chIcons/1129.png" tvg-rec="5", IL: Sport 2 FHD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1129/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Km7WvkSk2-9-ChzhTYIb6mEUuhkiO3TdTZxLSNDD4DkQ.dubldot
-#EXTINF:0 tvg-name="IL: Sport 3 FHD" tvg-logo="http://team.ga/images/chIcons/1130.png" tvg-rec="5", IL: Sport 3 FHD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1130/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LAgEdnXD7n55vitOwKWyy3M4cwbTyvCMtk8_PqwxlyBw.dubldot
-#EXTINF:0 tvg-name="IL: Sport 4 FHD" tvg-logo="http://team.ga/images/chIcons/1131.png" tvg-rec="5", IL: Sport 4 FHD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1131/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J4KlFDVU1BWCeXBrXpQcnmc-G1Ocgh-2xVHaA92beU7g.dubldot
-#EXTINF:0 tvg-name="IL: Sport 5" tvg-logo="http://team.ga/images/chIcons/1132.png" tvg-rec="6", IL: Sport 5
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1132/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LfHo55ylYLNBYW55l2mysqzY9SlpO9Wn3CUwiXZQ6jow.dubldot
-#EXTINF:0 tvg-name="IL: Sport 5 4K" tvg-logo="http://team.ga/images/chIcons/2211.png" tvg-rec="6", IL: Sport 5 4K
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2211/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JitATRSbjLAXhgkh73h9x2sSWJHgMX9vgGDnOr86OzRg.dubldot
-#EXTINF:0 tvg-name="IL: Sport 5 Livе" tvg-logo="http://team.ga/images/chIcons/1155.png" tvg-rec="5", IL: Sport 5 Livе
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1155/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kzklh-6A00u0VHn68pzZ9OTLWK6Oqyf8P4qh2vK33Kzw.dubldot
-#EXTINF:0 tvg-name="IL: Sport 5 Plus" tvg-logo="http://team.ga/images/chIcons/1134.png" tvg-rec="5", IL: Sport 5 Plus
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1134/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8InefV3J03DAx1SuJ1XIu0HslhjlTd8fVTkwYyHgQv2-A.dubldot
-#EXTINF:0 tvg-name="IL: Sport 5 Gold" tvg-logo="http://team.ga/images/chIcons/1135.png" tvg-rec="6", IL: Sport 5 Gold
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1135/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IwqorP-yuMUNwf13zOWabPMRX68sb_lFKnNNPwCIIdKQ.dubldot
-#EXTINF:0 tvg-name="IL: Sport 5 Stars" tvg-logo="http://team.ga/images/chIcons/1156.png" tvg-rec="5", IL: Sport 5 Stars
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1156/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LaHGg9SIMgiYIPSTIU3rB_xmiQj1LgIJxCL8RIQGKgAQ.dubldot
-#EXTINF:0 tvg-name="IL: Sport TO GO 1" tvg-logo="http://team.ga/images/chIcons/2618.png" tvg-rec="5", IL: Sport TO GO 1
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2618/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LLJAWcQ66YYJbRjGuiq2zNLmAIwl1glwWWg7zHa6plRQ.dubldot
-#EXTINF:0 tvg-name="IL: Sport TO GO 2" tvg-logo="http://team.ga/images/chIcons/2619.png" tvg-rec="5", IL: Sport TO GO 2
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2619/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KXveosJyMdUJijqcSJd1aKV8eWTeZ7lZW4sEUHa76RPw.dubldot
-#EXTINF:0 tvg-name="IL: Savri HD" tvg-logo="http://team.ga/images/chIcons/2545.png" tvg-rec="6", IL: Savri HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2545/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IBJL68dfrUPgudbC4XZmTolNvlZ2wKl7_DXea-hL1AKQ.dubldot
+http://3.team.ga:80/ch1143/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7QwVkNrkPxfUJFdA7gh8ftRl0k0UGaVSH3MPPLjIMLNV
 #EXTINF:0 tvg-name="IL: Star Channel" tvg-logo="http://team.ga/images/chIcons/1167.png" tvg-rec="6", IL: Star Channel
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch1167/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LmQbwOY36JJEH8kO08Z5RRh8Lj3fGO6YyQGnEm725jfw.dubldot
-#EXTINF:0 tvg-name="IL: Spanish Drama Channel 1 HD" tvg-logo="http://team.ga/images/chIcons/2641.png" tvg-rec="5", IL: Spanish Drama Channel 1 HD
+http://3.team.ga:80/ch1167/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7dBGPYs3VvMR3mSxOzwydJLCBhAaI3v18uL-lqdb55TA
+#EXTINF:0 tvg-name="IL: Health Channel HD" tvg-logo="http://team.ga/images/chIcons/1176.png" tvg-rec="6", IL: Health Channel HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2641/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JuoSJFDLTBmNiyMvqxFKX1y2v91z6TN0XTrnxaaSWmsw.dubldot
-#EXTINF:0 tvg-name="IL: Spanish Drama Channel 2 HD" tvg-logo="http://team.ga/images/chIcons/3133.png" tvg-rec="6", IL: Spanish Drama Channel 2 HD
+http://3.team.ga:80/ch1176/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7UZh_8mcOUCHh2ryc6FSoho7iqClzRX8Hn2RnfR66R6T
+#EXTINF:0 tvg-name="IL: Humor Channel" tvg-logo="http://team.ga/images/chIcons/1178.png" tvg-rec="6", IL: Humor Channel
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch3133/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LaZAVlxHiHW76QcspUCSJjIS0_lAneTWOexfN75E__iA.dubldot
-#EXTINF:0 tvg-name="IL: Travel Channel HD" tvg-logo="http://team.ga/images/chIcons/1136.png" tvg-rec="5", IL: Travel Channel HD
+http://3.team.ga:80/ch1178/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Wyjo3W5L23dACG475Jf6rN2D4hj3ds17E7_8_22pBdD
+#EXTINF:0 tvg-name="IL: HOT Cinema 1 HD" tvg-logo="http://team.ga/images/chIcons/1161.png" tvg-rec="6", IL: HOT Cinema 1 HD
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch1136/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L1kgracs-H-xQBCT_x17MpdYYgEygTk9vYWAbO4UMz2Q.dubldot
+http://3.team.ga:80/ch1161/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7fT7oWeEE7PI4ozsAcil-AJ4lpeQ3HaOjXyEmI4NfaHi
+#EXTINF:0 tvg-name="IL: HOT Cinema 2 HD" tvg-logo="http://team.ga/images/chIcons/1172.png" tvg-rec="6", IL: HOT Cinema 2 HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1172/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7U-4fieAlPPm9AHrOKa9tszJEmHbmN_axGjMHkPJlFUd
+#EXTINF:0 tvg-name="IL: HOT Cinema 3 HD" tvg-logo="http://team.ga/images/chIcons/1140.png" tvg-rec="6", IL: HOT Cinema 3 HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1140/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7SvJ69QkqQ8ytl8XpdyQ_lXIHi22bMjiAsnFuCzpgsZp
+#EXTINF:0 tvg-name="IL: HOT Cinema 4 HD" tvg-logo="http://team.ga/images/chIcons/1192.png" tvg-rec="6", IL: HOT Cinema 4 HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1192/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7YNkIYbosYGnMsK0equR8vhCzblaGKsXZmJaf-E9ZC6l
+#EXTINF:0 tvg-name="IL: HOT Cinema Israeli HD" tvg-logo="http://team.ga/images/chIcons/1133.png" tvg-rec="6", IL: HOT Cinema Israeli HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1133/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7WsJb9WUaAxdc3mIEOXj0QKcLZ3BmmSW9cKAIxmpIhLC
+#EXTINF:0 tvg-name="IL: HOT Cinema Family HD" tvg-logo="http://team.ga/images/chIcons/1153.png" tvg-rec="6", IL: HOT Cinema Family HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1153/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7SND1GDVVH-4oHh1VHp-Dwi7fTUh2X4EHWL2WIXczDs8
+#EXTINF:0 tvg-name="IL: HOT Zone HD" tvg-logo="http://team.ga/images/chIcons/1139.png" tvg-rec="6", IL: HOT Zone HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1139/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7fHtlL_B6KbVfOQXpgzF0Fyo0Ar-R46x0bC7lw6S2X9i
+#EXTINF:0 tvg-name="IL: HOT 3 HD" tvg-logo="http://team.ga/images/chIcons/1147.png" tvg-rec="6", IL: HOT 3 HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1147/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7abIqBOdckLGIG8HpzzkGjYdxho0j3wXQLutj_u3dgRv
+#EXTINF:0 tvg-name="IL: HOT 8 HD" tvg-logo="http://team.ga/images/chIcons/1144.png" tvg-rec="6", IL: HOT 8 HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1144/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Y4Hr4RCzzzoCo8X8oVDXBn6Ge6TcqDdiwSppNtIBiym
+#EXTINF:0 tvg-name="IL: HOT Bidur HD" tvg-logo="http://team.ga/images/chIcons/1163.png" tvg-rec="6", IL: HOT Bidur HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1163/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7QwJHI2-YOE2_nqxZSLtMKwaAm9X5buxHfmkU11Hf5w1
+#EXTINF:0 tvg-name="IL: HOT Comedy Central HD" tvg-logo="http://team.ga/images/chIcons/1174.png" tvg-rec="6", IL: HOT Comedy Central HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1174/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7YUmNnDscV8MVTELOI5NGKXmAe_jTdf2ynG_lT6gPZD6
+#EXTINF:0 tvg-name="IL: HOT Real HD" tvg-logo="http://team.ga/images/chIcons/1173.png" tvg-rec="6", IL: HOT Real HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1173/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7RAPZ0WPQ2CXguBVVy-OCwNslRgw-wf66NRzDRnTfgBs
+#EXTINF:0 tvg-name="IL: HOT HBO HD" tvg-logo="http://team.ga/images/chIcons/1175.png" tvg-rec="6", IL: HOT HBO HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1175/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7YLpTGCVqBrZQBcdQBSN0YfsRBDlaq6J6BzlBq8pT9wc
+#EXTINF:0 tvg-name="IL: Kan Chinuchit 23" tvg-logo="http://team.ga/images/chIcons/1171.png" tvg-rec="6", IL: Kan Chinuchit 23
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1171/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7due_z-z-k7sjTxuCYc6QjtYkVomV2oJGfWr2unjc8rG
+#EXTINF:0 tvg-name="IL: Luli" tvg-logo="http://team.ga/images/chIcons/1170.png" tvg-rec="6", IL: Luli
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1170/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7SCVKwTvEZyo4rLrTtXqAiwJSjOfGuROLddTapx-CJhG
+#EXTINF:0 tvg-name="IL: Makan 33 HD" tvg-logo="http://team.ga/images/chIcons/1181.png" tvg-rec="6", IL: Makan 33 HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1181/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7RlB-B5yT0RIsG2eLMssRRYt_yglsYnHzcW8Q5TZmElz
+#EXTINF:0 tvg-name="IL: Nick HD" tvg-logo="http://team.ga/images/chIcons/1185.png" tvg-rec="6", IL: Nick HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1185/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7fAzmS3eSshcYKCR6mttP_3zLyqMiTl1br27BQYrlaOs
+#EXTINF:0 tvg-name="IL: Nat Geo HD" tvg-logo="http://team.ga/images/chIcons/1126.png" tvg-rec="6", IL: Nat Geo HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1126/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7RZvIOXx4SKhSKpNoAC7PtYl0m-rgiG6PRPeS9B8nXYq
+#EXTINF:0 tvg-name="IL: Nat Geo Wild" tvg-logo="http://team.ga/images/chIcons/1138.png" tvg-rec="6", IL: Nat Geo Wild
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1138/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7d5ovfdOJeDzNZd5PR-0NxdG7VYKgfrfGEF7HevlePib
+#EXTINF:0 tvg-name="IL: ONE Doco" tvg-logo="http://team.ga/images/chIcons/1195.png" tvg-rec="6", IL: ONE Doco
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1195/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7ez003HwJSDzPMxRxu9HwiUU1kILFXNayJ17M-j5JKWk
+#EXTINF:0 tvg-name="IL: ONE 1 HD" tvg-logo="http://team.ga/images/chIcons/1186.png" tvg-rec="6", IL: ONE 1 HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1186/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7fLIOXnKORzxmlHlE1hvdROewSU4_khIgseBkvPB0eYT
+#EXTINF:0 tvg-name="IL: ONE 2 HD" tvg-logo="http://team.ga/images/chIcons/1145.png" tvg-rec="6", IL: ONE 2 HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1145/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7SVwbK_KbbeHQ3WwbsDX1hOqSPfB2tMPACPFmP09TzvA
+#EXTINF:0 tvg-name="IL: Reality HD" tvg-logo="http://team.ga/images/chIcons/1182.png" tvg-rec="6", IL: Reality HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1182/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7QpG5Or4tCL1lCqF334lPTEEvMT4XoJEjFQFT21bqKZz
+#EXTINF:0 tvg-name="IL: Sport 1 FHD" tvg-logo="http://team.ga/images/chIcons/1128.png" tvg-rec="6", IL: Sport 1 FHD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1128/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Ti_Gp8fEc72lXE1RFb3w_x7BEoSaC7JUsA_43rIVTwb
+#EXTINF:0 tvg-name="IL: Free Tv Hatuna HD" tvg-logo="http://team.ga/images/chIcons/1183.png" tvg-rec="6", IL: Free Tv Hatuna HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1183/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7TIT2dItk_l2PzqS8HOFNSXL51y_MlXrIkvHwdFZeK-Y
+#EXTINF:0 tvg-name="IL: Sport 2 FHD" tvg-logo="http://team.ga/images/chIcons/1129.png" tvg-rec="6", IL: Sport 2 FHD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1129/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7VMlmlX1y2HVdv38uRg6d5bVnFbMrlX-kvXy2IZ9fPJc
+#EXTINF:0 tvg-name="IL: Free Tv Karaoke HD" tvg-logo="http://team.ga/images/chIcons/2086.png" tvg-rec="6", IL: Free Tv Karaoke HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2086/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7c2nxNGQU3XH-h6Sls5zBHsNkwiR9w-ng_BqDFughk7R
+#EXTINF:0 tvg-name="IL: Sport 3 FHD" tvg-logo="http://team.ga/images/chIcons/1130.png" tvg-rec="6", IL: Sport 3 FHD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1130/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7TFBrWBBMItbRn2CEHRY3-cV2S7VckySil1JeQaj5JX4
+#EXTINF:0 tvg-name="IL: Free Tv Kohav Haba HD" tvg-logo="http://team.ga/images/chIcons/2087.png" tvg-rec="6", IL: Free Tv Kohav Haba HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2087/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7b9HcjGaSKYhJaVVCM-J_hBXFu5hQGcTlA6WTw0g9eGT
+#EXTINF:0 tvg-name="IL: Sport 4 FHD" tvg-logo="http://team.ga/images/chIcons/1131.png" tvg-rec="6", IL: Sport 4 FHD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1131/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Tu5yrzF7GdqmEBVbvfD2NZNG07JYWDk2spOWNOPh0Pt
+#EXTINF:0 tvg-name="IL: Sport 5" tvg-logo="http://team.ga/images/chIcons/1132.png" tvg-rec="6", IL: Sport 5
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1132/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7U2nejlecKIpabRaqciLKuf7f867fz-XJZVb7C2Jjfvz
+#EXTINF:0 tvg-name="IL: Sport 5 4K" tvg-logo="http://team.ga/images/chIcons/2211.png" tvg-rec="6", IL: Sport 5 4K
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2211/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7ZBkJaejWZSDj18dEYdV9Uj4YHDeEu0OHX6UJQ-vv-PY
+#EXTINF:0 tvg-name="IL: Sport 5 Livе" tvg-logo="http://team.ga/images/chIcons/1155.png" tvg-rec="6", IL: Sport 5 Livе
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1155/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7fCuxM4Ux3UWl_Ls4TZnfVuTZu-1pII9M5V4rv-CL2Ap
+#EXTINF:0 tvg-name="IL: Sport 5 Plus" tvg-logo="http://team.ga/images/chIcons/1134.png" tvg-rec="6", IL: Sport 5 Plus
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1134/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7ehlIeXZMgvJDH4jv9qrWttyh2nYzpYJ1AuL0_5ewGQY
+#EXTINF:0 tvg-name="IL: Sport 5 Gold" tvg-logo="http://team.ga/images/chIcons/1135.png" tvg-rec="6", IL: Sport 5 Gold
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1135/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7XfcNbA54egXmqaybfgg564s1YWTH05uWOXk4aajTsIB
+#EXTINF:0 tvg-name="IL: Sport 5 Stars" tvg-logo="http://team.ga/images/chIcons/1156.png" tvg-rec="6", IL: Sport 5 Stars
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1156/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7UcO-l8o_KIsX1TBTMu6EiXsh9S_wScQ5867uRw0wkm8
+#EXTINF:0 tvg-name="IL: Travel Channel HD" tvg-logo="http://team.ga/images/chIcons/1136.png" tvg-rec="6", IL: Travel Channel HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1136/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7VqrqSv9h_7iX3SDoTWH3uzGupYUeUWnoAh-aQIe_A6v
 #EXTINF:0 tvg-name="IL: Turkish Drama Plus" tvg-logo="http://team.ga/images/chIcons/2028.png" tvg-rec="6", IL: Turkish Drama Plus
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2028/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J2rfGVMyhBpx2kQ26hKuJisKXHDhMY3koVZeeX_21T2w.dubldot
+http://3.team.ga:80/ch2028/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7TnWGw_DytWAnjuWL4gL9NNIjRCReZlCl2f7ZbkzjOWG
 #EXTINF:0 tvg-name="IL: Turkish Drama 2" tvg-logo="http://team.ga/images/chIcons/2029.png" tvg-rec="6", IL: Turkish Drama 2
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2029/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IuQK6qVldHzFrLdASfeJ133Eqy5Jtr_B5DrRaC_uTQoA.dubldot
-#EXTINF:0 tvg-name="IL: Turkish Drama 3" tvg-logo="http://team.ga/images/chIcons/2611.png" tvg-rec="6", IL: Turkish Drama 3
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2611/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LfL43WexjXiiUZ1DXsUE7avedffzFTid810-uoT5IW6g.dubldot
-#EXTINF:0 tvg-name="IL: TeenNick" tvg-logo="http://team.ga/images/chIcons/2500.png" tvg-rec="6", IL: TeenNick
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2500/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IgMPZdENUymW_6M5aAjn_YmCJw_xWAMFNv8icJOwnFqw.dubldot
-#EXTINF:0 tvg-name="IL: TLC HD" tvg-logo="http://team.ga/images/chIcons/2632.png" tvg-rec="6", IL: TLC HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2632/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KDYmSO5inP-ZsT8yKzl7AryjPeTYNZ8w0pKVaiFVPLXw.dubldot
-#EXTINF:0 tvg-name="IL: Viva" tvg-logo="http://team.ga/images/chIcons/1189.png" tvg-rec="6", IL: Viva
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1189/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kuf6N17BoO0-sp-TLKqdPewyvLBpQE95-jvD8lBUuMnA.dubldot
-#EXTINF:0 tvg-name="IL: Viva+" tvg-logo="http://team.ga/images/chIcons/1190.png" tvg-rec="6", IL: Viva+
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1190/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J8zUhunr0o6EvWRd_-Ma6oYdNUrxEbzwZ-aIvRUV82EA.dubldot
-#EXTINF:0 tvg-name="IL: Viva Vintage" tvg-logo="http://team.ga/images/chIcons/1146.png" tvg-rec="5", IL: Viva Vintage
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1146/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IQ4hlqlA4m5lS6US65uvKlVgZXDJVYnL7G3cEtnvfvTA.dubldot
-#EXTINF:0 tvg-name="IL: Viva Premium HD" tvg-logo="http://team.ga/images/chIcons/1188.png" tvg-rec="5", IL: Viva Premium HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1188/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KVGNw5qPcYseAOQ3j7c_N-dYop5HanEDpMkwa52DKwTQ.dubldot
-#EXTINF:0 tvg-name="IL: YES Movies Action HD" tvg-logo="http://team.ga/images/chIcons/1148.png" tvg-rec="6", IL: YES Movies Action HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1148/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J1nzPkWY_u4D1Sf5Fwp-gnKF6h3h8MGMWBXNoXmdr2NQ.dubldot
-#EXTINF:0 tvg-name="IL: YES Movies Comedy HD" tvg-logo="http://team.ga/images/chIcons/1149.png" tvg-rec="5", IL: YES Movies Comedy HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1149/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Ji1SdeqNwGwpXJ17b0rKAjqSrPbZb14igwki2aG5Jf5Q.dubldot
-#EXTINF:0 tvg-name="IL: YES Movies Drama HD" tvg-logo="http://team.ga/images/chIcons/1150.png" tvg-rec="6", IL: YES Movies Drama HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1150/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IXcwEWPPQ1wvVfm6V4nSDIcJWFpo93qhFbrWa23Vh9yQ.dubldot
-#EXTINF:0 tvg-name="IL: YES Movies Kids HD" tvg-logo="http://team.ga/images/chIcons/1151.png" tvg-rec="6", IL: YES Movies Kids HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1151/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KQd5p9kMRI_HOeYngSDc9CFHCCkYlK2BNRkqCida6M8Q.dubldot
-#EXTINF:0 tvg-name="IL: YES TV Comedy HD" tvg-logo="http://team.ga/images/chIcons/1159.png" tvg-rec="6", IL: YES TV Comedy HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1159/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8I3n_JZ150qkhYM5qKtqYGn3fjiyLOARWr1cbXhw1EKcg.dubldot
-#EXTINF:0 tvg-name="IL: YES TV Action HD" tvg-logo="http://team.ga/images/chIcons/1158.png" tvg-rec="6", IL: YES TV Action HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1158/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8L5E0Z0W9N508iU-nFaUlDYZl1XAiSVac6VdIGGZk0r1A.dubldot
-#EXTINF:0 tvg-name="IL: YES TV Drama HD" tvg-logo="http://team.ga/images/chIcons/1160.png" tvg-rec="6", IL: YES TV Drama HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1160/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KGb_nQTcFbimHTG6ehU04ZTYRSBt9RYB3of2gGNsASig.dubldot
-#EXTINF:0 tvg-name="IL: YES Docu HD" tvg-logo="http://team.ga/images/chIcons/1137.png" tvg-rec="6", IL: YES Docu HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1137/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KERdaKEPC557JF3DnJ5nZ3r8SCE1kO_XZG8q90x6IS-g.dubldot
-#EXTINF:0 tvg-name="IL: YES Israeli Cinema HD" tvg-logo="http://team.ga/images/chIcons/2030.png" tvg-rec="6", IL: YES Israeli Cinema HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2030/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LUHUSQBuCkoQTWr6Hg6pdZpqWCqHQY9S4tTsbfXrDWeA.dubldot
-#EXTINF:0 tvg-name="IL: YES Plus Diamonds HD" tvg-logo="http://team.ga/images/chIcons/3030.png" tvg-rec="6", IL: YES Plus Diamonds HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch3030/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8KAcQShJjvxWDXg_FHsIZgYF7_46DUX6-xadOuUWw-8nA.dubldot
-#EXTINF:0 tvg-name="IL: YES Plus Cinema HD" tvg-logo="http://team.ga/images/chIcons/1915.png" tvg-rec="6", IL: YES Plus Cinema HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1915/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LPCZpG-25WetRLp7W1GJuQpLB0No8zIvsjdVp3DkjoNg.dubldot
-#EXTINF:0 tvg-name="IL: YES World Action HD" tvg-logo="http://team.ga/images/chIcons/3174.png" tvg-rec="5", IL: YES World Action HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch3174/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8ILQHPkEFDFEo0n_AAQe5ndwyeHq1gn_dWEwsVogowdEg.dubldot
-#EXTINF:0 tvg-name="IL: YES World Action 2 HD" tvg-logo="http://team.ga/images/chIcons/3175.png" tvg-rec="6", IL: YES World Action 2 HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch3175/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8IhaA56WgEt6wHSVncIww4BCZxiYSujjvCHdpqO9Bia6g.dubldot
-#EXTINF:0 tvg-name="IL: Yam Tihoni HD" tvg-logo="http://team.ga/images/chIcons/1191.png" tvg-rec="6", IL: Yam Tihoni HD
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1191/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8InjvpOni5yydbG6okYyoxtIs5MYfc69hV7_Hxh0LLmtQ.dubldot
-#EXTINF:0 tvg-name="IL: Yam Tihoni 2" tvg-logo="http://team.ga/images/chIcons/1164.png" tvg-rec="5", IL: Yam Tihoni 2
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch1164/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JEZ4ooLzSF6dkPrxxN_JgLG0ytNsC-StsZUqzYnZPA6g.dubldot
+http://3.team.ga:80/ch2029/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7XGY_PAcc5hO60AeJSdMWr9jCC9J6veKIe1gwYo_xgwb
 #EXTINF:0 tvg-name="IL: Yam Tihoni Plus" tvg-logo="http://team.ga/images/chIcons/1152.png" tvg-rec="6", IL: Yam Tihoni Plus
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch1152/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JCLzyU6_3z0HNNmrCxFlJMQms4xlKfM5UyduNJw7I6qg.dubldot
+http://3.team.ga:80/ch1152/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Rz0mPSmNHLZaUvHiMCkxL2w2Q_kVCMvMhop8QG8huSH
+#EXTINF:0 tvg-name="IL: TeenNick" tvg-logo="http://team.ga/images/chIcons/2500.png" tvg-rec="6", IL: TeenNick
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2500/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7SfDpw1UdIXj0UOhPW5z6CwroGDyjndpOcxc-4XVChne
+#EXTINF:0 tvg-name="IL: Viva" tvg-logo="http://team.ga/images/chIcons/1189.png" tvg-rec="6", IL: Viva
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1189/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7dhPfu9_GiDi4SsgYQS07yZPMyKn12AAR4xm1gfj_0tr
+#EXTINF:0 tvg-name="IL: Viva+" tvg-logo="http://team.ga/images/chIcons/1190.png" tvg-rec="6", IL: Viva+
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1190/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7a8xa2PaKOgFEPyvWpB1vpxhd40AQnZe_osthfuy_Q0N
+#EXTINF:0 tvg-name="IL: Viva Vintage" tvg-logo="http://team.ga/images/chIcons/1146.png" tvg-rec="6", IL: Viva Vintage
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1146/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7QWzFgWEO1i0pYuQM3qzYLCSRPYm3OLyQm3ixXQzUkex
+#EXTINF:0 tvg-name="IL: Viva Premium HD" tvg-logo="http://team.ga/images/chIcons/1188.png" tvg-rec="6", IL: Viva Premium HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1188/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7d3ULDgZ6PwXzH0FGxL8TcdVwLjzWFhAOFrn-PgNuIWy
+#EXTINF:0 tvg-name="IL: YES Movies Action HD" tvg-logo="http://team.ga/images/chIcons/1148.png" tvg-rec="6", IL: YES Movies Action HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1148/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7bxy0pmOInp2hNwUdOKIejsPdWonZVNU2MiRGYDfWw5L
+#EXTINF:0 tvg-name="IL: YES Movies Comedy HD" tvg-logo="http://team.ga/images/chIcons/1149.png" tvg-rec="6", IL: YES Movies Comedy HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1149/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7c43EyhRIgtEpe8RIR1pA8JSbOkvL7bHb2w_3JlANhA7
+#EXTINF:0 tvg-name="IL: YES Movies Drama HD" tvg-logo="http://team.ga/images/chIcons/1150.png" tvg-rec="6", IL: YES Movies Drama HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1150/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7alFHrNb4lVXhCREkz_ZLicu90UkxDXmbtX1IjF1YbTM
+#EXTINF:0 tvg-name="IL: YES Movies Kids HD" tvg-logo="http://team.ga/images/chIcons/1151.png" tvg-rec="6", IL: YES Movies Kids HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1151/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7RSZy8iWPa2mqvTlfG0seu9y-BR2ws9KKRGVeqvGf2aj
+#EXTINF:0 tvg-name="IL: YES TV Comedy HD" tvg-logo="http://team.ga/images/chIcons/1159.png" tvg-rec="6", IL: YES TV Comedy HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1159/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Sf3wCLGjMgPhwuxe-S-R25OhoAjJmyBpyAWx2kifiBs
+#EXTINF:0 tvg-name="IL: YES TV Action HD" tvg-logo="http://team.ga/images/chIcons/1158.png" tvg-rec="6", IL: YES TV Action HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1158/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7dLDzVdtW9PKPCIF3-lN9TIlYrTUaRgawX6-qIPu9Hpy
+#EXTINF:0 tvg-name="IL: YES TV Drama HD" tvg-logo="http://team.ga/images/chIcons/1160.png" tvg-rec="6", IL: YES TV Drama HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1160/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7UhdZ-1mIlSTYlT4JU1tpOhRZbJPHXvl80Oo7CTEtejY
+#EXTINF:0 tvg-name="IL: YES Docu HD" tvg-logo="http://team.ga/images/chIcons/1137.png" tvg-rec="6", IL: YES Docu HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1137/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7YHhlzQKsDFTPRo_0-36Wi0alatojghYv1_T2Z-k8k9q
+#EXTINF:0 tvg-name="IL: YES Israeli Cinema HD" tvg-logo="http://team.ga/images/chIcons/2030.png" tvg-rec="6", IL: YES Israeli Cinema HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2030/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7YA8szDrWOQ22UuvaCyYRXBLGbh1npnlegPddfKvMt22
+#EXTINF:0 tvg-name="IL: Yam Tihoni HD" tvg-logo="http://team.ga/images/chIcons/1191.png" tvg-rec="6", IL: Yam Tihoni HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1191/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7ZVdvEpDStd2d2at-H2npY_I4Od2pBb3Te5P-Q8wvKbk
+#EXTINF:0 tvg-name="IL: Yam Tihoni 2" tvg-logo="http://team.ga/images/chIcons/1164.png" tvg-rec="6", IL: Yam Tihoni 2
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1164/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7UeD89DdFA7fgCADUHRKC9Pkjas6GmFB-zlHttB2zXBw
+#EXTINF:0 tvg-name="IL: Junior" tvg-logo="http://team.ga/images/chIcons/1184.png" tvg-rec="6", IL: Junior
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1184/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7VTqhypQzT9uQuWDDj5iB_AS_ZNUZH-LN45DjGGgQ2js
+#EXTINF:0 tvg-name="IL: Wiz" tvg-logo="http://team.ga/images/chIcons/2031.png" tvg-rec="6", IL: Wiz
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2031/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7aJRv5RA7CZn9LElSQ3qXnuWnYHDZlnUxkLGrsyVFe9R
+#EXTINF:0 tvg-name="IL: Aruch Sdarot Hahodiot" tvg-logo="http://team.ga/images/chIcons/2934.png" tvg-rec="6", IL: Aruch Sdarot Hahodiot
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2934/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7eAa127qM9EPiv581ipPx2KF7Wakmsq8y6ZY_65Qm668
+#EXTINF:0 tvg-name="IL: Aruch Sdarot Hahodiot 2" tvg-logo="http://team.ga/images/chIcons/2935.png" tvg-rec="6", IL: Aruch Sdarot Hahodiot 2
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2935/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7VnQSWd7g7fnr902qYVzmWcNdeBF9NhEbZmC6IheYRqi
+#EXTINF:0 tvg-name="IL: Animal Planet HD" tvg-logo="http://team.ga/images/chIcons/2624.png" tvg-rec="6", IL: Animal Planet HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2624/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Uy8eUBj7vA5CTZlFHTx3XoXs4Vs8PiK3agHHV9K0b8c
+#EXTINF:0 tvg-name="Il: Bollywood HD" tvg-logo="http://team.ga/images/chIcons/2616.png" tvg-rec="6", Il: Bollywood HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2616/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7V1_9Xl-BPNM9cbIa9QXBbWcjrfF4yVUifhtsec5uGjh
+#EXTINF:0 tvg-name="IL: Cellcom HBO HD" tvg-logo="http://team.ga/images/chIcons/2639.png" tvg-rec="6", IL: Cellcom HBO HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2639/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7fgOL8NtDPAKYGYS96znj8rTETM8auaiu6Mt2nQ7YBz0
+#EXTINF:0 tvg-name="IL: Cellcom Doco HD" tvg-logo="http://team.ga/images/chIcons/2640.png" tvg-rec="6", IL: Cellcom Doco HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2640/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7dvJG0Yx64jN2soOmKNwbT6eQtQ79Ow7q_c8ZJbG6wtB
+#EXTINF:0 tvg-name="IL: CBS Reality" tvg-logo="http://team.ga/images/chIcons/2628.png" tvg-rec="6", IL: CBS Reality
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2628/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7T_mDwdhmL2GniUVPd6hzALDTrXmSrYA2Wd3b6_dK4RI
+#EXTINF:0 tvg-name="IL: Edge Sport HD" tvg-logo="http://team.ga/images/chIcons/2629.png" tvg-rec="6", IL: Edge Sport HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2629/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7cP0W_gKdctW7oK6HV9T5Jvw6Ps6R8qNuRa93I2EbajY
+#EXTINF:0 tvg-name="IL: Erez Nehederet HD" tvg-logo="http://team.ga/images/chIcons/2544.png" tvg-rec="6", IL: Erez Nehederet HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2544/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7cOP7rGY2-BxBYOdcCGY0ZxbNIiW8T46tanvI3hLCTsX
+#EXTINF:0 tvg-name="IL: Free Tv Drama HD" tvg-logo="http://team.ga/images/chIcons/2539.png" tvg-rec="6", IL: Free Tv Drama HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2539/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7RZqIgTVf0OivPg9UQVoMzeIVC-OxbVDyGz08o6OX-8u
+#EXTINF:0 tvg-name="IL: Free Tv Comedy HD" tvg-logo="http://team.ga/images/chIcons/2540.png" tvg-rec="6", IL: Free Tv Comedy HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2540/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7eSbIBR4CDqOUKX5GmjSIe1EOmxP0wRTRaIms4fiQe0a
+#EXTINF:0 tvg-name="IL: Free Tv Lifestyle HD" tvg-logo="http://team.ga/images/chIcons/2541.png" tvg-rec="6", IL: Free Tv Lifestyle HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2541/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Z_cPcB8rf0Mi5z8p9CpbXwPHU77QNzzQLhrXC4BPgBu
+#EXTINF:0 tvg-name="IL: Free Tv Cooking HD" tvg-logo="http://team.ga/images/chIcons/2542.png" tvg-rec="6", IL: Free Tv Cooking HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2542/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7bPm62qfrd8y0GcKUvRmxhNNNAxTdKVbmyRtZVc3YDL5
+#EXTINF:0 tvg-name="IL: Free Tv Doco HD" tvg-logo="http://team.ga/images/chIcons/2543.png" tvg-rec="6", IL: Free Tv Doco HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2543/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7SrEO5SZ_cHaFr0_RqnXoR_L8NncLHPsCA1iHrcRrJa3
+#EXTINF:0 tvg-name="IL: Free Tv Feel Good" tvg-logo="http://team.ga/images/chIcons/3036.png" tvg-rec="6", IL: Free Tv Feel Good
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch3036/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7d_6B0J6gfewxriw7HxAHvJKpfh0E_xyJx7l5_C2uE6Q
+#EXTINF:0 tvg-name="IL: Free Series Global HD" tvg-logo="http://team.ga/images/chIcons/2533.png" tvg-rec="6", IL: Free Series Global HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2533/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7fvY5sa8KeXvslp97Atn5VSXzA7AE8yMyWKLEK-NDd-r
+#EXTINF:0 tvg-name="IL: Free Movies Action HD" tvg-logo="http://team.ga/images/chIcons/2537.png" tvg-rec="6", IL: Free Movies Action HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2537/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7THG_W3diXQyTnFPC7BXxkGa7AGVuB2C_dL6KNcSvC6u
+#EXTINF:0 tvg-name="IL: Free Movies Drama HD" tvg-logo="http://team.ga/images/chIcons/2534.png" tvg-rec="6", IL: Free Movies Drama HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2534/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Ze-TSrnX7a3xPahHm8mEreFzSObe8w4QKwVBT_lu_5x
+#EXTINF:0 tvg-name="IL: Free Movies Horror HD" tvg-logo="http://team.ga/images/chIcons/2535.png" tvg-rec="6", IL: Free Movies Horror HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2535/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7cGX-d8NpHoThzX-dyDfBJWC5mbSjaCBAwZ2yhS0D_-b
+#EXTINF:0 tvg-name="IL: Free Movies Romantic HD" tvg-logo="http://team.ga/images/chIcons/2536.png" tvg-rec="6", IL: Free Movies Romantic HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2536/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7QCTpLN9n9-70irYUiSbrOG-mHeo-185ODLuHLz7EgAD
+#EXTINF:0 tvg-name="IL: Free Movies Family HD" tvg-logo="http://team.ga/images/chIcons/2617.png" tvg-rec="6", IL: Free Movies Family HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2617/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7XwOgLmgNfB0WLLuLFPrnD-cXkm-cUROLZLAtLWU89bE
+#EXTINF:0 tvg-name="IL: Free Movies 10 Stars HD" tvg-logo="http://team.ga/images/chIcons/3224.png" tvg-rec="6", IL: Free Movies 10 Stars HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch3224/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7cqXX_mNp5ddwTw11PqcB64-u1Q86pRtVyOy_zZXjwRo
+#EXTINF:0 tvg-name="IL: Free Israeli Movies HD" tvg-logo="http://team.ga/images/chIcons/2538.png" tvg-rec="6", IL: Free Israeli Movies HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2538/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Q2op8k_LFR0NDro76sT_OeCuswtdbdk6oHEr9XD6f5-
+#EXTINF:0 tvg-name="IL: Foody HD" tvg-logo="http://team.ga/images/chIcons/2630.png" tvg-rec="6", IL: Foody HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2630/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7WhLO3TdJtgummbp4fHSf2QbuxCk-Jbf3AMRcnBI2Mq3
+#EXTINF:0 tvg-name="IL: Fomo" tvg-logo="http://team.ga/images/chIcons/2627.png" tvg-rec="6", IL: Fomo
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2627/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7QPwGy_icgoP0gwBCaPz6Z-S8MrnaqjeErM9TdloJfJU
+#EXTINF:0 tvg-name="IL: Fashion" tvg-logo="http://team.ga/images/chIcons/2642.png" tvg-rec="6", IL: Fashion
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2642/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7RrQMiEh2VCRhqJyRRBlWvzUbYUknf4b8-Zm1zO-nJuu
+#EXTINF:0 tvg-name="IL: Hop Israeli Childhood" tvg-logo="http://team.ga/images/chIcons/2138.png" tvg-rec="0", IL: Hop Israeli Childhood
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2138/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7fYsiaQSKsiVXEa58Y5LcIDN11QBgpoT3JPJdE6F1-rX
+#EXTINF:0 tvg-name="IL: Hop Pele HD" tvg-logo="http://team.ga/images/chIcons/2003.png" tvg-rec="2", IL: Hop Pele HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2003/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7eZi0NwpFClpQX1aXWB49BL8TLjOqHE40k27Us-hE-wR
+#EXTINF:0 tvg-name="IL: i24 News" tvg-logo="http://team.ga/images/chIcons/2824.png" tvg-rec="6", IL: i24 News
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2824/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7U41h0T_DRYaXOBrTAqQGC8wlGlbuIWK1P5NEcuBEFqP
+#EXTINF:0 tvg-name="IL: HOT Senior HD" tvg-logo="http://team.ga/images/chIcons/2613.png" tvg-rec="6", IL: HOT Senior HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2613/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7U8OcLOdCneUClygHvYFqhwHbNcIsZ3n8WpmchyU6T2J
+#EXTINF:0 tvg-name="IL: HOT Buzz HD" tvg-logo="http://team.ga/images/chIcons/2614.png" tvg-rec="6", IL: HOT Buzz HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2614/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7eXsAdDrdyNlYLPlywAol4iIfrT6zWecrbCnPH24Nrto
+#EXTINF:0 tvg-name="IL: Home Plus" tvg-logo="http://team.ga/images/chIcons/2631.png" tvg-rec="6", IL: Home Plus
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2631/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7XIeW9JjxBe9ykq7LQ1cgetEjR-TJ6AzhIzAmcBS5vkK
+#EXTINF:0 tvg-name="IL: Jim Jam" tvg-logo="http://team.ga/images/chIcons/2645.png" tvg-rec="6", IL: Jim Jam
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2645/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7c1aD8asaQnGRXTFASQ5sUi3fmSzH2_Ez6UFw846uMBK
+#EXTINF:0 tvg-name="IL: Kalkala 10 HD" tvg-logo="http://team.ga/images/chIcons/3134.png" tvg-rec="6", IL: Kalkala 10 HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch3134/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7fth7OvzxYZQa-mDlnKIHaVeN_ZEV8hyFc2nnYzdZIxc
+#EXTINF:0 tvg-name="IL: Love Island" tvg-logo="http://team.ga/images/chIcons/2004.png" tvg-rec="0", IL: Love Island
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2004/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7XjkM-FVMsbwPWYfWjh9VEDIciY2Q5Pot2ErqWEdZ7rW
+#EXTINF:0 tvg-name="IL: Logi" tvg-logo="http://team.ga/images/chIcons/2626.png" tvg-rec="6", IL: Logi
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2626/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7TmwQI6A_BJDW94GvZEXLq2gFQL8vz9HGQwixjv26Axt
+#EXTINF:0 tvg-name="IL: MTV HD" tvg-logo="http://team.ga/images/chIcons/2623.png" tvg-rec="6", IL: MTV HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2623/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7SrDLEplRs0dVriTur7cfXhr7ioIKwkZgJ9U1GcyuPAJ
+#EXTINF:0 tvg-name="IL: Nick Jr HD" tvg-logo="http://team.ga/images/chIcons/2637.png" tvg-rec="6", IL: Nick Jr HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2637/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7abzzoi--GhC2YmFC4K3hdlY5gP34Ejaabol1hW667iK
+#EXTINF:0 tvg-name="IL: Partner Yladim" tvg-logo="http://team.ga/images/chIcons/2608.png" tvg-rec="6", IL: Partner Yladim
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2608/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7T0sATyscIOmfkw5Bk-meeCQAudlbbmvfrrB0CuTUWJn
+#EXTINF:0 tvg-name="IL: Partner Sratim" tvg-logo="http://team.ga/images/chIcons/2609.png" tvg-rec="6", IL: Partner Sratim
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2609/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7VjiMzpt_sLD9hdkhajmCgosJZ25Ckf2-z88WhsI37dq
+#EXTINF:0 tvg-name="IL: Partner Sdarot" tvg-logo="http://team.ga/images/chIcons/2610.png" tvg-rec="6", IL: Partner Sdarot
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2610/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Ysr0wNwGVNqno7Yn1viLM9sPtfBjaQ34Ifa96mePEzl
+#EXTINF:0 tvg-name="IL: Sport TO GO 1" tvg-logo="http://team.ga/images/chIcons/2618.png" tvg-rec="6", IL: Sport TO GO 1
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2618/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7YZlKEDc7xTmZNCxS-H538QbULQemnR9nn8K0s_uBOUW
+#EXTINF:0 tvg-name="IL: Sport TO GO 2" tvg-logo="http://team.ga/images/chIcons/2619.png" tvg-rec="6", IL: Sport TO GO 2
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2619/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7U5n7ZAuTK9rqq7NFzxTAG3oEpaCE9L4MuSqgWgR0Z14
+#EXTINF:0 tvg-name="IL: Savri HD" tvg-logo="http://team.ga/images/chIcons/2545.png" tvg-rec="6", IL: Savri HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2545/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7aMVuHhLr9vgM85hSjT3idARwzcl4Z5qI8_IDF6l81OZ
+#EXTINF:0 tvg-name="IL: Spanish Drama Channel 1 HD" tvg-logo="http://team.ga/images/chIcons/2641.png" tvg-rec="6", IL: Spanish Drama Channel 1 HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2641/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7eTtFKFNAxxpRMfUlL3qSr4s25hb1vGZe2VdvwbZxy6c
+#EXTINF:0 tvg-name="IL: Spanish Drama Channel 2 HD" tvg-logo="http://team.ga/images/chIcons/3133.png" tvg-rec="6", IL: Spanish Drama Channel 2 HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch3133/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7c2vY3KGbN3QHb49myf99-wydM7h233N0eAjtTlp28-q
+#EXTINF:0 tvg-name="IL: Turkish Drama 3" tvg-logo="http://team.ga/images/chIcons/2611.png" tvg-rec="6", IL: Turkish Drama 3
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2611/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Ut0K7gDal6Mc0fkUjhpllY50YKwmQ9HwqJa4M09jKC5
+#EXTINF:0 tvg-name="IL: TLC HD" tvg-logo="http://team.ga/images/chIcons/2632.png" tvg-rec="6", IL: TLC HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch2632/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7fkNnqHz0JcGo8d4qcfeC_mSR17g4C7gWB07OvHG_IzT
+#EXTINF:0 tvg-name="IL: YES Plus Diamonds HD" tvg-logo="http://team.ga/images/chIcons/3030.png" tvg-rec="6", IL: YES Plus Diamonds HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch3030/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7W2hXj07vi9bsS-gnFviEX-wxU779hrGhTiP0bPEWTu2
+#EXTINF:0 tvg-name="IL: YES Plus Cinema HD" tvg-logo="http://team.ga/images/chIcons/1915.png" tvg-rec="6", IL: YES Plus Cinema HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch1915/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7b0S1B2OZs6b7S1ajPedFtwXp_N6-hmzmgWvCjoOPyGg
+#EXTINF:0 tvg-name="IL: YES World Action HD" tvg-logo="http://team.ga/images/chIcons/3174.png" tvg-rec="6", IL: YES World Action HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch3174/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7e273wqpzYOW0QRzmNCLZPdUz0_gYTHTl-UYjyYSuXct
+#EXTINF:0 tvg-name="IL: YES World Action 2 HD" tvg-logo="http://team.ga/images/chIcons/3175.png" tvg-rec="6", IL: YES World Action 2 HD
+#EXTGRP:20. Israel
+http://3.team.ga:80/ch3175/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Ul6m2XqK5noOvjeNvbRR0d9C-ra8tDp1wlZeL4O5m5A
 #EXTINF:0 tvg-name="IL: Yalduti" tvg-logo="http://team.ga/images/chIcons/2646.png" tvg-rec="6", IL: Yalduti
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2646/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8J_NplJyfytQwGamlcE-67P_QiBh8U60nBK7-8QPdnxzg.dubldot
+http://3.team.ga:80/ch2646/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7T_RJMnmF2Y8fFpXu7EFIvtc8RNKLO5MxoQJU_nGkLCl
 #EXTINF:0 tvg-name="IL: YoYo" tvg-logo="http://team.ga/images/chIcons/2625.png" tvg-rec="6", IL: YoYo
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2625/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LhUQj2_sLdgiRE2VBxrVpe3MYIDV_RvxLHCTPTKJFl9g.dubldot
-#EXTINF:0 tvg-name="IL: Wiz" tvg-logo="http://team.ga/images/chIcons/2031.png" tvg-rec="5", IL: Wiz
-#EXTGRP:20. Israel
-http://11.team.ga:80/ch2031/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JVfL3gMSNop0qWeKPzqowKkW3nMtRxycST4RXDhu9cDw.dubldot
+http://3.team.ga:80/ch2625/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7WoR5XHKSFKKr7G6IphPHPN8gbWWWmoluVYsvVGvOPJf
 #EXTINF:0 tvg-name="IL: Zoom" tvg-logo="http://team.ga/images/chIcons/2643.png" tvg-rec="6", IL: Zoom
 #EXTGRP:20. Israel
-http://11.team.ga:80/ch2643/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LMb4yqsS0i8z9OWBR_FBby5-Pqg-IKbVlfepKTZmIz8g.dubldot
+http://3.team.ga:80/ch2643/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7YxNqqZrf9nbPB6vzCZAl2X3wK4Ehx15sBsnjaGUMDqo
 #EXTINF:0 tvg-name="IL: Zoom Toon HD" tvg-logo="http://team.ga/images/chIcons/2644.png" tvg-rec="6", IL: Zoom Toon HD
 #EXTGRP:20. Israel
+http://3.team.ga:80/ch2644/mono.m3u8?token=gaybar.WxiMF3RHD06DJzUxTsLc7Q4vvuRBkMyw_ZfUtFXLA1nn8nVIH6SU9f5FpoPMlNAW
