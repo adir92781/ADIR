@@ -1,191 +1,90 @@
 #EXTM3U
-#EXTINF:0,Channel 8 HD
-http://serv1.iptv11.com/1074/video.m3u8?token=80592364503D8
-#EXTINF:0,Channel 9 HD
-http://serv1.iptv11.com/1075/video.m3u8?token=80592364503D8
-#EXTINF:0,Channel 11 HD
-http://serv1.iptv11.com/1073/video.m3u8?token=80592364503D8
-#EXTINF:0,Channel 12
-http://serv1.iptv11.com/1078/video.m3u8?token=80592364503D8
-#EXTINF:0,Channel 13
-http://serv1.iptv11.com/1079/video.m3u8?token=80592364503D8
-#EXTINF:0,Channel 14
-http://serv1.iptv11.com/1077/video.m3u8?token=80592364503D8
-#EXTINF:0,CHANNEL 23 HD
-http://serv1.iptv11.com/1081/video.m3u8?token=80592364503D8
-#EXTINF:0,KHAN 11
-http://serv1.iptv11.com/1082/video.m3u8?token=80592364503D8
-#EXTINF:0,MOVIES ACTION HD
-http://serv1.iptv11.com/1083/video.m3u8?token=80592364503D8
-#EXTINF:0,MOVIES COMEDY HD
-http://serv1.iptv11.com/1084/video.m3u8?token=80592364503D8
-#EXTINF:0,MOVIES DRAMA HD
-http://serv1.iptv11.com/1085/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT CINEMA 1 HD
-http://serv1.iptv11.com/1086/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT CINEMA 2 HD
-http://serv1.iptv11.com/1100/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT CINEMA 3 HD
-http://serv1.iptv11.com/1087/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT DRAMA HD
-http://serv1.iptv11.com/1088/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT COMEDY CENTRAL HD
-http://serv1.iptv11.com/1089/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT3 HD
-http://serv1.iptv11.com/1090/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT REAL HD
-http://serv1.iptv11.com/1091/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT DIY HD
-http://serv1.iptv11.com/1092/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT HBO HD
-http://serv1.iptv11.com/1093/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT Entertainment
-http://serv1.iptv11.com/1094/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT ZONE HD
-http://serv1.iptv11.com/1095/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT Teen nick
-http://serv1.iptv11.com/1096/video.m3u8?token=80592364503D8
-#EXTINF:0,BollyWood HD IL
-http://serv1.iptv11.com/1098/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT REAL IL
-http://serv1.iptv11.com/1099/video.m3u8?token=80592364503D8
-#EXTINF:0,YES MOVIES COMEDY IL
-http://serv1.iptv11.com/1101/video.m3u8?token=80592364503D8
-#EXTINF:0,Yes DOCU HD
-http://serv1.iptv11.com/1102/video.m3u8?token=80592364503D8
-#EXTINF:0,Yes Israeli Cinema
-http://serv1.iptv11.com/1103/video.m3u8?token=80592364503D8
-#EXTINF:0,ONE 4K
-http://serv1.iptv11.com/1104/video.m3u8?token=80592364503D8
-#EXTINF:0,ONE HD
-http://serv1.iptv11.com/1105/video.m3u8?token=80592364503D8
-#EXTINF:0,ONE 2 HD
-http://serv1.iptv11.com/1106/video.m3u8?token=80592364503D8
-#EXTINF:0,ZOOM IL
-http://serv1.iptv11.com/1107/video.m3u8?token=80592364503D8
-#EXTINF:0,ZONE HD
-http://serv1.iptv11.com/1108/video.m3u8?token=80592364503D8
-#EXTINF:0,EXTREME
-http://serv1.iptv11.com/1109/video.m3u8?token=80592364503D8
-#EXTINF:0,DRAMA HD
-http://serv1.iptv11.com/1110/video.m3u8?token=80592364503D8
-#EXTINF:0,FUN HD
-http://serv1.iptv11.com/1111/video.m3u8?token=80592364503D8
-#EXTINF:0,Good Life
-http://serv1.iptv11.com/1112/video.m3u8?token=80592364503D8
-#EXTINF:0,PLUS+ HD
-http://serv1.iptv11.com/1113/video.m3u8?token=80592364503D8
-#EXTINF:0,Yam Tihoni 25
-http://serv1.iptv11.com/1114/video.m3u8?token=80592364503D8
-#EXTINF:0,Viva plus
-http://serv1.iptv11.com/1115/video.m3u8?token=80592364503D8
-#EXTINF:0,Viva
-http://serv1.iptv11.com/1116/video.m3u8?token=80592364503D8
-#EXTINF:0,i24
-http://serv1.iptv11.com/1117/video.m3u8?token=80592364503D8
-#EXTINF:0,YES DOKU IL
-http://serv1.iptv11.com/1118/video.m3u8?token=80592364503D8
-#EXTINF:0,Yaldut
-http://serv1.iptv11.com/1119/video.m3u8?token=80592364503D8
-#EXTINF:0,HIDABRUT
-http://serv1.iptv11.com/1120/video.m3u8?token=80592364503D8
-#EXTINF:0,Zoom Toon IL
-http://serv1.iptv11.com/1121/video.m3u8?token=80592364503D8
-#EXTINF:0,JimJam IL
-http://serv1.iptv11.com/1122/video.m3u8?token=80592364503D8
-#EXTINF:0,Entertaiment IL
-http://serv1.iptv11.com/1123/video.m3u8?token=80592364503D8
-#EXTINF:0,Health
-http://serv1.iptv11.com/1124/video.m3u8?token=80592364503D8
-#EXTINF:0,Food Channel
-http://serv1.iptv11.com/1125/video.m3u8?token=80592364503D8
-#EXTINF:0,Ego Total
-http://serv1.iptv11.com/1126/video.m3u8?token=80592364503D8
-#EXTINF:0,Big Brother
-http://serv1.iptv11.com/1127/video.m3u8?token=80592364503D8
-#EXTINF:0,GOLD HD
-http://serv1.iptv11.com/1128/video.m3u8?token=80592364503D8
-#EXTINF:0,ACTION HD
-http://serv1.iptv11.com/1129/video.m3u8?token=80592364503D8
-#EXTINF:0,Baby
-http://serv1.iptv11.com/1130/video.m3u8?token=80592364503D8
-#EXTINF:0,FOMO IL
-http://serv1.iptv11.com/1131/video.m3u8?token=80592364503D8
-#EXTINF:0,MOVIES KIDS HD
-http://serv1.iptv11.com/1132/video.m3u8?token=80592364503D8
-#EXTINF:0,Junior
-http://serv1.iptv11.com/1133/video.m3u8?token=80592364503D8
-#EXTINF:0,Logi
-http://serv1.iptv11.com/1134/video.m3u8?token=80592364503D8
-#EXTINF:0,Luli
-http://serv1.iptv11.com/1135/video.m3u8?token=80592364503D8
-#EXTINF:0,Nickelodeon IL
-http://serv1.iptv11.com/1136/video.m3u8?token=80592364503D8
+#EXTINF:0,Израиль 9 IL
+http://cdn.admuspeh.my/8107/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Израиль 9 HD IL
+http://cdn.admuspeh.my/8524/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Израиль 11 IL
+http://cdn.admuspeh.my/8309/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Израиль 11 HD IL
+http://cdn.admuspeh.my/8348/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Израиль 12 IL
+http://cdn.admuspeh.my/8160/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Израиль 12 HD IL
+http://cdn.admuspeh.my/8400/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Израиль 13 IL
+http://cdn.admuspeh.my/8143/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Израиль 13 HD IL
+http://cdn.admuspeh.my/8352/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Израиль 14 IL
+http://cdn.admuspeh.my/8112/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Израиль 14 HD IL
+http://cdn.admuspeh.my/8349/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Channel 24 IL
+http://cdn.admuspeh.my/8371/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Good Life HD IL
+http://cdn.admuspeh.my/8717/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Home Plus IL
+http://cdn.admuspeh.my/8703/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Ego Total IL
+http://cdn.admuspeh.my/8726/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,VIVA IL
+http://cdn.admuspeh.my/8526/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Viva+ IL
+http://cdn.admuspeh.my/8372/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Yamtihoni IL
+http://cdn.admuspeh.my/8123/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Kan Chinuchit 23 IL
+http://cdn.admuspeh.my/8730/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Kneset IL
+http://cdn.admuspeh.my/8723/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Hidabroot IL
+http://cdn.admuspeh.my/8530/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Discovery HD IL
+http://cdn.admuspeh.my/8718/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Health Channel HD IL
+http://cdn.admuspeh.my/8728/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Food Channel HD IL
+http://cdn.admuspeh.my/8727/video.m3u8?token=azp3Ak5RaCRqbAGU
 #EXTINF:0,Travel Channel IL
-http://serv1.iptv11.com/1137/video.m3u8?token=80592364503D8
-#EXTINF:0,Home Plus
-http://serv1.iptv11.com/1138/video.m3u8?token=80592364503D8
-#EXTINF:0,hop
-http://serv1.iptv11.com/1139/video.m3u8?token=80592364503D8
+http://cdn.admuspeh.my/8721/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Turkish Dramas Plus IL
+http://cdn.admuspeh.my/8722/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Turkish Dramas Plus HD IL
+http://cdn.admuspeh.my/8346/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Sport 1 HD IL
+http://cdn.admuspeh.my/8339/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Sport 2 HD IL
+http://cdn.admuspeh.my/8341/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Sport 3 HD IL
+http://cdn.admuspeh.my/8340/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Sport 4 HD IL
+http://cdn.admuspeh.my/8513/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Sport 5 HD IL
+http://cdn.admuspeh.my/8420/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Sport 5 Plus HD IL
+http://cdn.admuspeh.my/8141/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Sport 5 Livе HD IL
+http://cdn.admuspeh.my/8239/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Sport 5 Stars HD IL
+http://cdn.admuspeh.my/8186/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Sport 5 Gold HD IL
+http://cdn.admuspeh.my/8974/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,ONE 1 HD IL
+http://cdn.admuspeh.my/8704/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,ONE 2 HD IL
+http://cdn.admuspeh.my/8724/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Hop IL
+http://cdn.admuspeh.my/8232/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Baby IL
+http://cdn.admuspeh.my/8305/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Luli IL
+http://cdn.admuspeh.my/8517/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,TeenNick IL
+http://cdn.admuspeh.my/8233/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Disney IL
+http://cdn.admuspeh.my/8149/video.m3u8?token=azp3Ak5RaCRqbAGU
+#EXTINF:0,Disney Jr. IL
+http://cdn.admuspeh.my/8373/video.m3u8?token=azp3Ak5RaCRqbAGU
 #EXTINF:0,Nick Jr IL
-http://serv1.iptv11.com/1140/video.m3u8?token=80592364503D8
-#EXTINF:0,Disney HD
-http://serv1.iptv11.com/1141/video.m3u8?token=80592364503D8
-#EXTINF:0,Disney Jr HD
-http://serv1.iptv11.com/1142/video.m3u8?token=80592364503D8
-#EXTINF:0,HOT A+ Kids
-http://serv1.iptv11.com/1143/video.m3u8?token=80592364503D8
-#EXTINF:0,DISCOVERY CHANNEL HD IL
-http://serv1.iptv11.com/1144/video.m3u8?token=80592364503D8
-#EXTINF:0,NATIONAL GEOGRAPHICS HD
-http://serv1.iptv11.com/1145/video.m3u8?token=80592364503D8
-#EXTINF:0,NET GEO_WILD HD
-http://serv1.iptv11.com/1146/video.m3u8?token=80592364503D8
-#EXTINF:0,NAT GEO WILD IL
-http://serv1.iptv11.com/1147/video.m3u8?token=80592364503D8
-#EXTINF:0,HISTORY HD IL
-http://serv1.iptv11.com/1148/video.m3u8?token=80592364503D8
-#EXTINF:0,ANIMAL PLANET IL
-http://serv1.iptv11.com/1149/video.m3u8?token=80592364503D8
-#EXTINF:0,CBS REALIT
-http://serv1.iptv11.com/1150/video.m3u8?token=80592364503D8
-#EXTINF:0,HUMOR CHANNEL HD
-http://serv1.iptv11.com/1151/video.m3u8?token=80592364503D8
-#EXTINF:0,LIFETIME HD
-http://serv1.iptv11.com/1152/video.m3u8?token=80592364503D8
-#EXTINF:0,MAKAN HD
-http://serv1.iptv11.com/1153/video.m3u8?token=80592364503D8
-#EXTINF:0,HALA TV
-http://serv1.iptv11.com/1154/video.m3u8?token=80592364503D8
-#EXTINF:0,E!
-http://serv1.iptv11.com/1155/video.m3u8?token=80592364503D8
-#EXTINF:0,Sport 1 HD
-http://serv1.iptv11.com/1157/video.m3u8?token=80592364503D8
-#EXTINF:0,Sport 2 HD
-http://serv1.iptv11.com/1158/video.m3u8?token=80592364503D8
-#EXTINF:0,Sport 3 HD
-http://serv1.iptv11.com/1159/video.m3u8?token=80592364503D8
-#EXTINF:0,Sport 4 HD
-http://serv1.iptv11.com/1160/video.m3u8?token=80592364503D8
-#EXTINF:0,Sport 5 HD
-http://serv1.iptv11.com/1161/video.m3u8?token=80592364503D8
-#EXTINF:0,Sport 5
-http://serv1.iptv11.com/1162/video.m3u8?token=80592364503D8
-#EXTINF:0,Sport 5 Stars HD
-http://serv1.iptv11.com/1163/video.m3u8?token=80592364503D8
-#EXTINF:0,Sport 5 Gold
-http://serv1.iptv11.com/1164/video.m3u8?token=80592364503D8
-#EXTINF:0,Sport  5 Plus HD
-http://serv1.iptv11.com/1165/video.m3u8?token=80592364503D8
-#EXTINF:0,Sport 5 Live HD
-http://serv1.iptv11.com/1166/video.m3u8?token=80592364503D8
-#EXTINF:0,YES ISRAEL CINEMA IL
-http://serv1.iptv11.com/1167/video.m3u8?token=80592364503D8
-#EXTINF:0,Sport 5 4k
-http://serv1.iptv11.com/1168/video.m3u8?token=80592364503D8
-#EXTINF:0,music 24
-http://serv1.iptv11.com/1169/video.m3u8?token=80592364503D8
-#EXTINF:0,MUSIC ISRAEL HD
-http://serv1.iptv11.com/1170/video.m3u8?token=80592364503D8
+http://cdn.admuspeh.my/8231/video.m3u8?token=azp3Ak5RaCRqbAGU
 #EXTINF:-1, Приятного просмотра
-https://alensat.at.ua/alensat.com.mp4
