@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-il.xml
+
 http://b84203c4.ottrast.com/iptv/NERH9UMA84Z6UU/32214/index.m3u8
 #EXTINF:0 tvg-rec="3",Keshet 12 HD IL
 #EXTGRP:ישראלי
