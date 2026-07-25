@@ -1,529 +1,279 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-il.xml"
-
-#EXTINF:0 tvg-rec="3",Keshet 12 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2329/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Cinema Family HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2151/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport 4K IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/16019/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 3 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/14220/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/14208/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas Plus HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/14207/index.m3u8
-#EXTINF:0 tvg-rec="3",Reshet 13 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2330/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 9 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2331/index.m3u8
-#EXTINF:0 tvg-rec="3",Kan 11 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2332/index.m3u8
-#EXTINF:0 tvg-rec="3",Nick Jr. IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2337/index.m3u8
-#EXTINF:0 tvg-rec="3",Hop! IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2338/index.m3u8
-#EXTINF:0 tvg-rec="3",Home Plus IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2339/index.m3u8
-#EXTINF:0 tvg-rec="3",One HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2340/index.m3u8
-#EXTINF:0 tvg-rec="3",5Sport FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2341/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Israeli IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2342/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes TV Drama HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2343/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes TV Comedy HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2345/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes TV Action HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2346/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Comedy IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2348/index.m3u8
-#EXTINF:0 tvg-rec="3",Keshet 12 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2349/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Action IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2350/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Drama IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2351/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT HBO HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2354/index.m3u8
-#EXTINF:0 tvg-rec="3",Good Life IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2355/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Cinema 4 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2356/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Cinema 1 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2357/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2358/index.m3u8
-#EXTINF:0 tvg-rec="3",Zoom IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2359/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Zone HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2360/index.m3u8
-#EXTINF:0 tvg-rec="3",5Sport Live FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2362/index.m3u8
-#EXTINF:0 tvg-rec="3",Turkish Dramas Plus IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2363/index.m3u8
-#EXTINF:0 tvg-rec="3",Luli IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2364/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Kids IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2365/index.m3u8
-#EXTINF:0 tvg-rec="3",Junior HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2366/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT 3 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2367/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 98 IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2369/index.m3u8
-#EXTINF:0 tvg-rec="3",Baby TV IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2370/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Cinema 3 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2372/index.m3u8
-#EXTINF:0 tvg-rec="3",One 2 IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2373/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 9 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2374/index.m3u8
-#EXTINF:0 tvg-rec="3",Food Network IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2377/index.m3u8
-#EXTINF:0 tvg-rec="3",Health IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2378/index.m3u8
-#EXTINF:0 tvg-rec="3",Kan Educational IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2380/index.m3u8
-#EXTINF:0 tvg-rec="3",Makan 33 IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2381/index.m3u8
-#EXTINF:0 tvg-rec="3",Disney Channel IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2382/index.m3u8
-#EXTINF:0 tvg-rec="3",i24 News IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2386/index.m3u8
-#EXTINF:0 tvg-rec="3",National Geographic IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2387/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport 4 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2389/index.m3u8
-#EXTINF:0 tvg-rec="3",Yam Tichoni IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2390/index.m3u8
-#EXTINF:0 tvg-rec="3",5Sport HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/2391/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 2 orig
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/7203/index.m3u8
-#EXTINF:0 tvg-rec="0",Viva Istanbul IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12208/index.m3u8
-#EXTINF:0 tvg-rec="0",Food Network HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12209/index.m3u8
-#EXTINF:0 tvg-rec="0",Yam Tichoni HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12211/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT 3 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12214/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12215/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT 8 IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12216/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Comedy HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12217/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Bidur HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12219/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema 3 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12220/index.m3u8
-#EXTINF:0 tvg-rec="0",History HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12223/index.m3u8
-#EXTINF:0 tvg-rec="0",Yam Tichoni+ HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12224/index.m3u8
-#EXTINF:0 tvg-rec="0",Viva Premium HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12226/index.m3u8
-#EXTINF:0 tvg-rec="0",One 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12231/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Stars HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12232/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 24 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12237/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 14 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12239/index.m3u8
-#EXTINF:0 tvg-rec="0",Junior IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12240/index.m3u8
-#EXTINF:0 tvg-rec="0",Discovery Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12241/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 14 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12242/index.m3u8
-#EXTINF:0 tvg-rec="0",E! HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12243/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema 1 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12245/index.m3u8
-#EXTINF:0 tvg-rec="0",Hop! HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12244/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12247/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic Wild FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12248/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 1 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12249/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12250/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 3 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12251/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 4 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12252/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Gold HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12254/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Live HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12255/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas Plus FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12257/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Docu HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12258/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic Wild HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12259/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 2 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12262/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 3 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12264/index.m3u8
-#EXTINF:0 tvg-rec="0",History FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12265/index.m3u8
-#EXTINF:0 tvg-rec="0",Bollywood HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12267/index.m3u8
-#EXTINF:0 tvg-rec="0",Knesset Channel IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12269/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Action FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12270/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Comedy FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12271/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Drama FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12272/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Kids FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12273/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Real HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12274/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Stars FHD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12278/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Action HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12280/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Comedy HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12281/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Drama HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12282/index.m3u8
-#EXTINF:0 tvg-rec="0",WIZ HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/12283/index.m3u8
-#EXTINF:0 tvg-rec="0",EDGE SPORT HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32002/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 6 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32003/index.m3u8
-#EXTINF:0 tvg-rec="0",The Design Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32124/index.m3u8
-#EXTINF:0 tvg-rec="0",Bollyshow IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32125/index.m3u8
-#EXTINF:0 tvg-rec="0",Home+ IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32126/index.m3u8
-#EXTINF:0 tvg-rec="0",Viva Telenovelot IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32127/index.m3u8
-#EXTINF:0 tvg-rec="0",Big Brother HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32128/index.m3u8
-#EXTINF:0 tvg-rec="0",ONE DOCO HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32129/index.m3u8
-#EXTINF:0 tvg-rec="0",Global Action Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32130/index.m3u8
-#EXTINF:0 tvg-rec="0",Global Action Channel 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32131/index.m3u8
-#EXTINF:0 tvg-rec="0",Spanish Drama Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32132/index.m3u8
-#EXTINF:0 tvg-rec="0",Spanish Drama Channel 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32133/index.m3u8
-#EXTINF:0 tvg-rec="0",Indian Series Channel 1 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32134/index.m3u8
-#EXTINF:0 tvg-rec="0",Indian Series Channel 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32135/index.m3u8
-#EXTINF:0 tvg-rec="0",Classic Comedy Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32136/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema 5 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32137/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Israeli Cinema HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32138/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT BUZZ HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32139/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Drama HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32140/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Entertainment HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32141/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT8 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32142/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT MIND HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32143/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Romantic Cinema HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32144/index.m3u8
-#EXTINF:0 tvg-rec="0",LOVE CHANNEL HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32145/index.m3u8
-#EXTINF:0 tvg-rec="0",CINEMA FAMILY HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32146/index.m3u8
-#EXTINF:0 tvg-rec="0",5MAX HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32147/index.m3u8
-#EXTINF:0 tvg-rec="0",TeenNick IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32148/index.m3u8
-#EXTINF:0 tvg-rec="0",KAN23 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32149/index.m3u8
-#EXTINF:0 tvg-rec="0",Bollywood Classic HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32150/index.m3u8
-#EXTINF:0 tvg-rec="0",5PLUS HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32151/index.m3u8
-#EXTINF:0 tvg-rec="0",now 14 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32152/index.m3u8
-#EXTINF:0 tvg-rec="0",ZEE TV IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32153/index.m3u8
-#EXTINF:0 tvg-rec="0",Foody HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32154/index.m3u8
-#EXTINF:0 tvg-rec="0",The Style Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32155/index.m3u8
-#EXTINF:0 tvg-rec="0",RAIN IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32156/index.m3u8
-#EXTINF:0 tvg-rec="0",GTV IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32157/index.m3u8
-#EXTINF:0 tvg-rec="0",Game Show Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32158/index.m3u8
-#EXTINF:0 tvg-rec="0",The Reality Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32159/index.m3u8
-#EXTINF:0 tvg-rec="0",The Vacation Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32160/index.m3u8
-#EXTINF:0 tvg-rec="0",The humor channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32161/index.m3u8
-#EXTINF:0 tvg-rec="0",The Mediterranean Movie Channel 1 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32162/index.m3u8
-#EXTINF:0 tvg-rec="0",The Mediterranean Movie Channel 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32163/index.m3u8
-#EXTINF:0 tvg-rec="0",BeautyZ HD IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32164/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 11 IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32252/index.m3u8
-#EXTINF:0 tvg-rec="0",The humor channel IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32316/index.m3u8
-#EXTINF:0 tvg-rec="0",Ego Total IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32317/index.m3u8
-#EXTINF:0 tvg-rec="0",KAN23 IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32318/index.m3u8
-#EXTINF:0 tvg-rec="0",HIDABRUT IL
-#EXTGRP:Израиль | ישראלי
-http://9111d260.rostelekom.xyz/iptv/5CTYAY5LBQ4GB4/32319/index.m3u8
-#EXTINF:0 tvg-rec="0",VIVA Telenovela IL
-#EXTGRP:Израиль | ישראלי
-#EXTM3U
-#EXTINF:-1 tvg-id="Channel9.il@SD",Channel 9 (1080p)
-https://contact.gostreaming.tv/Con-11/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.il@SD",Disney Channel (576p)
-http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
-#EXTINF:-1 tvg-id="HalaTV.il@SD",Hala TV (1080p) [Not 24/7]
-https://stream.panet.com/edge/halaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Hidabroot.il@SD",Hidabroot (1080p)
-https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-#EXTINF:-1 tvg-id="Hop.il@SD",Hop! (576p)
-http://bethoven.af-stream.com:1600/s/kwtlxswl/hop-childhood-il/video.m3u8
-#EXTINF:-1 tvg-id="i24NEWSArabic.il@SD",i24NEWS Arabic (1080p)
-https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD",I24 News English (720p)
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-id="i24NEWSEnglishUSA.il@SD",i24NEWS English USA (1080p)
-https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
-#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD",i24NEWS English World (1080p)
-https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD",i24NEWS French (1080p)
-https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD",I24 News French (720p)
-https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-id="i24NEWSHebrew.il@SD",I24 News Hebrew (1080p)
-https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="Junior.il@SD",Junior (576p)
-http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8
-#EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il@SD",Kabbalah for the People (Israel) (504p) [Not 24/7]
-https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
-#EXTINF:-1 tvg-id="Kan11.il@SD",Kan 11 (1080p)
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="KanEducational.il@SD",Kan Kids (720p)
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-#EXTINF:-1 tvg-id="KnessetChannel.il@SD",Knesset Channel (480p) [Not 24/7]
-https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Makan33.il@SD",Makan 33 (1080p)
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="",Musayof (Israel) (240p) [Not 24/7]
-http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NickJr.il@SD",Nick Jr. (576p)
-http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.il@SD",Nickelodeon (576p)
-http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-nickelodeon-il/video.m3u8
-#EXTINF:-1 tvg-id="Now14.il@SD",Now 14 (1080p)
-https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="RelevantTV.il@SD",Relevant TV (1080p)
-https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
-#EXTINF:-1 tvg-id="Channel13.il@SD",Reshet 13 (720p)
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 tvg-id="ShelanuTV.il@SD",Shelanu TV (720p)
-https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
-#EXTINF:-1 tvg-id="TeenNick.il@SD",TeenNick (576p)
-http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8
-#EXTINF:-1 tvg-id="TeenNick.il@SD",TeenNick [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
-#EXTINF:-1 tvg-id="HOTZone.il",HOT Zone (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/379/index.m3u8
-#EXTINF:-1 tvg-id="HOTDrama.il",HOT Drama (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/381/index.m3u8
-#EXTINF:-1 tvg-id="KanEducational.il@SD",Kan Educational (720p)
-http://stream.mcquack.net/378/index.m3u8
-#EXTINF:-1 tvg-id="Zoom.il@SD",Zoom (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/377/index.m3u8
-#EXTINF:-1 tvg-id="5Sport.il@SD",5Sport (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/41/index.m3u8
-#EXTINF:-1 tvg-id="Keshet12.il@SD",Keshet 12 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/294/index.m3u8
-#EXTINF:-1 tvg-id="Channel13.il@SD",Channel 13 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/295/index.m3u8
-#EXTINF:-1 tvg-id="Channel24.il@SD",Channel 24 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/42/index.m3u8
-#EXTINF:-1 tvg-id="KnessetChannel.il@SD",Knesset Channel (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/48/index.m3u8
-#EXTINF:-1 tvg-id="GoodLife.il@SD",Good Life (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://stream.mcquack.net/47/index.m3u8
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-il
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 1 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 1 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162118.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 8" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 8
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162117.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 9" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 9
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162116.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 9 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 9 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162115.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 11" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 11
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162114.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 12" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 12
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162113.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 13" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 13
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162112.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 14" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 14
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162111.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP EGO TOTAL" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP EGO TOTAL
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162110.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP FUN HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP FUN HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162109.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP GOLD HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP GOLD HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162108.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP GOOD LIFE" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP GOOD LIFE
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162107.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP HOME PLUS" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP HOME PLUS
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162106.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP HOP" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP HOP
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162105.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP HOP! CHILDHOOD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP HOP! CHILDHOOD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162104.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP HOT3 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP HOT3 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162103.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP I24" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP I24
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162102.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP KABALA" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP KABALA
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162101.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP LOGI" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP LOGI
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162100.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP LULI" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP LULI
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162099.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP MIKAN" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP MIKAN
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162098.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP ONE HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP ONE HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162097.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP PLUS  HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP PLUS  HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162096.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP VIVA" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP VIVA
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162095.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP VIVA+" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP VIVA+
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162094.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YALDUT" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YALDUT
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162093.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YAMTIHONI" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YAMTIHONI
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162092.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP ZONE HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP ZONE HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162091.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP ZOOM" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP ZOOM
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162090.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP HALA TV" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP HALA TV
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162089.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 1 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 1 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162088.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 2 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 2 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162087.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 3 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 3 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162086.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 4" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 4
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162085.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 5" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 5
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162084.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT5  LIVE" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT5  LIVE
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162083.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 5  LIVE HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 5  LIVE HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162082.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 5 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 5 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162081.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP DISNEY" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP DISNEY
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162080.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP DISNEY JR" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP DISNEY JR
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162079.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP JUNIOR" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP JUNIOR
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162078.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP NICK JR" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP NICK JR
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162077.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP NICKELODEON" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP NICKELODEON
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162076.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP BABY" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP BABY
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162075.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES MOVIES ACTION HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES MOVIES ACTION HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162074.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES ACTION" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES ACTION
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162073.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES ACTION HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES ACTION HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162072.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES COMEDY HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES COMEDY HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162071.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES MOVIES COMEDY" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES MOVIES COMEDY
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162070.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES COMEDY" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES COMEDY
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162069.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES DRAMA HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES DRAMA HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162068.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES DRAMA" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES DRAMA
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162067.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP DRAMA HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP DRAMA HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162066.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES MOVIES KIDS HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES MOVIES KIDS HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162065.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP ACTION HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP ACTION HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162064.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP ENTERTAINMENT" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP ENTERTAINMENT
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162063.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP FOOD NETWORK" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP FOOD NETWORK
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162062.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP HEALTH" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP HEALTH
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162061.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP TRAVEL CHANNEL" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP TRAVEL CHANNEL
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162060.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: KAN 11 HD" tvg-logo="http://51.158.145.100/picons/logos/kan11.png" group-title="(IL) ISRAEL",IL: KAN 11 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162059.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: CH 11 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/kan11.png" group-title="(IL) ISRAEL",IL: CH 11 FHD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162058.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: KAN 33 (MAKAN TV) FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/MeKan_33.png" group-title="(IL) ISRAEL",IL: KAN 33 (MAKAN TV) FHD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162057.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 11" tvg-logo="" group-title="(IL) ISRAEL",IL: CHANNEL 11
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162056.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 12" tvg-logo="" group-title="(IL) ISRAEL",IL: CHANNEL 12
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162055.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 13" tvg-logo="" group-title="(IL) ISRAEL",IL: CHANNEL 13
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162054.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 20 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/channel20.jpg" group-title="(IL) ISRAEL",IL: CHANNEL 20 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162053.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: KABBALAH TV" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/Kabbalah-TV-Hebrew.png" group-title="(IL) ISRAEL",IL: KABBALAH TV
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162052.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: KABBALAH TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/Kabbalah-TV-Hebrew.png" group-title="(IL) ISRAEL",IL: KABBALAH TV HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162051.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 23" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/channel23.png" group-title="(IL) ISRAEL",IL: CHANNEL 23
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162050.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 23 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/channel23.png" group-title="(IL) ISRAEL",IL: CHANNEL 23 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162049.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: HALA TV FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/halaTv.png" group-title="(IL) ISRAEL",IL: HALA TV FHD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162048.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: 13 RESHET TV HD" tvg-logo="" group-title="(IL) ISRAEL",IL: 13 RESHET TV HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162047.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: 12 KESHET TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/12Tv.png" group-title="(IL) ISRAEL",IL: 12 KESHET TV HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162046.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: HIDABROT TV HD" tvg-logo="" group-title="(IL) ISRAEL",IL: HIDABROT TV HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162045.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: KABBALAH TV HEBREW" tvg-logo="" group-title="(IL) ISRAEL",IL: KABBALAH TV HEBREW
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162044.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: ISRAEL PARS TV" tvg-logo="" group-title="(IL) ISRAEL",IL: ISRAEL PARS TV
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162043.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: KAB" tvg-logo="" group-title="(IL) ISRAEL",IL: KAB
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162042.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 2 NEWS" tvg-logo="http://51.158.145.100/picons/logos/channel2news.png" group-title="(IL) ISRAEL",IL: CHANNEL 2 NEWS
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162041.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: I24NEWS HD ENGLISH" tvg-logo="" group-title="(IL) ISRAEL",IL: I24NEWS HD ENGLISH
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162040.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES VIVA FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/viva.png" group-title="(IL) ISRAEL",IL: YES VIVA FHD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162039.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES VIVA PLUS" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/viva+.png" group-title="(IL) ISRAEL",IL: YES VIVA PLUS
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162038.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES MOVIES COMEDY HD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/yesMoviesComedy.png" group-title="(IL) ISRAEL",IL: YES MOVIES COMEDY HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162037.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES MOVIES DRAMA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/yesMoviesDrama.png" group-title="(IL) ISRAEL",IL: YES MOVIES DRAMA HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162036.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT 3 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: HOT 3 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162035.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT HBOⓍ" tvg-logo="" group-title="(IL) ISRAEL",IL: HOT HBOⓍ
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162034.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES TRAVEL CHANNEL HD" tvg-logo="" group-title="(IL) ISRAEL",IL: YES TRAVEL CHANNEL HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162033.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES BABY TV" tvg-logo="" group-title="(IL) ISRAEL",IL: YES BABY TV
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162032.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES MUSIC 24 ISRAEL" tvg-logo="" group-title="(IL) ISRAEL",IL: YES MUSIC 24 ISRAEL
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162031.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES SPORT 5 FHD" tvg-logo="" group-title="(IL) ISRAEL",IL: YES SPORT 5 FHD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162030.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES SPORT 5 HD" tvg-logo="http://51.158.145.100/picons/logos/SPORT%205%20HD_YES%20SPORT%205_YES%20SPORT%205%20LIVE%20%20.jpeg" group-title="(IL) ISRAEL",IL: YES SPORT 5 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162029.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES SPORT 5 STARES FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/sport5stars.png" group-title="(IL) ISRAEL",IL: YES SPORT 5 STARES FHD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162028.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP MUSIC 24" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP MUSIC 24
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162027.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES SPORT 5 PLUS" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES SPORT 5 PLUS
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162026.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES | CHANNEL 13" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES | CHANNEL 13
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162025.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES.SPORT 5 FHD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES.SPORT 5 FHD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162024.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| CBS REALITY" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| CBS REALITY
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162023.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| CHANNEL 23" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| CHANNEL 23
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162022.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| I24 NEWS" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| I24 NEWS
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162021.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| HOT 3 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| HOT 3 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162020.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| HOT HBO" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| HOT HBO
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162019.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| HOT ZONE HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| HOT ZONE HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162018.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| NICK JR" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| NICK JR
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162017.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES ACTION MOVIES" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES ACTION MOVIES
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162016.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| HALA TV" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| HALA TV
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162015.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES BOLLYWOOD HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES BOLLYWOOD HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162014.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES CHANNEL 20" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES CHANNEL 20
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162013.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES ISRAEL CINEMA" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES ISRAEL CINEMA
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162012.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES KAN 11" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES KAN 11
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162011.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SHOPPING" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SHOPPING
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162010.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES | CHANNEL 12" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES | CHANNEL 12
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162009.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| ZOOM" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| ZOOM
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162008.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 2 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 2 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162007.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 3 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 3 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162006.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 4 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 4 HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162005.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 5" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 5
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162004.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 5 LIVE" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 5 LIVE
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162003.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 5 PLUS" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 5 PLUS
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162002.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 5 PLUS HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 5 PLUS HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162001.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 5 STARS" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 5 STARS
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162000.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES HOME +" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES HOME +
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161999.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES ISRAELI CINEMA" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES ISRAELI CINEMA
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161998.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES COMEDY HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES COMEDY HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161997.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES DRAMA HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES DRAMA HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161996.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES FASHION HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES FASHION HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161995.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES CBS REALITY HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES CBS REALITY HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161994.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES KNESEST TV" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES KNESEST TV
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161993.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES KIDS HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES KIDS HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161992.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES MOVIES KIDS FHD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES MOVIES KIDS FHD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161991.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| CH 20" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| CH 20
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161990.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| KAN 11" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| KAN 11
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161989.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| RESHET 13" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| RESHET 13
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161988.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| HALA TV FHD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| HALA TV FHD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161987.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| HOME +" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| HOME +
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161986.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| ISRAEL PARS TV" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| ISRAEL PARS TV
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161985.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| JUNIOR" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| JUNIOR
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161984.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| VIVA" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| VIVA
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161983.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| VIVA PLUS" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| VIVA PLUS
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161982.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| ZOOM HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| ZOOM HD
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161981.m3u
+#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| SUPER RADYO DZBB" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| SUPER RADYO DZBB
+http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161980.m3u
