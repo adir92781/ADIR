@@ -1,279 +1,569 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-il
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 1 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 1 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162118.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 8" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 8
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162117.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 9" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 9
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162116.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 9 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 9 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162115.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 11" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 11
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162114.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 12" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 12
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162113.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 13" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 13
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162112.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP CHANNEL 14" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP CHANNEL 14
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162111.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP EGO TOTAL" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP EGO TOTAL
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162110.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP FUN HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP FUN HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162109.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP GOLD HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP GOLD HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162108.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP GOOD LIFE" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP GOOD LIFE
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162107.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP HOME PLUS" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP HOME PLUS
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162106.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP HOP" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP HOP
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162105.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP HOP! CHILDHOOD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP HOP! CHILDHOOD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162104.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP HOT3 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP HOT3 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162103.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP I24" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP I24
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162102.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP KABALA" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP KABALA
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162101.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP LOGI" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP LOGI
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162100.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP LULI" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP LULI
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162099.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP MIKAN" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP MIKAN
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162098.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP ONE HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP ONE HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162097.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP PLUS  HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP PLUS  HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162096.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP VIVA" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP VIVA
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162095.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP VIVA+" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP VIVA+
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162094.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YALDUT" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YALDUT
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162093.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YAMTIHONI" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YAMTIHONI
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162092.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP ZONE HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP ZONE HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162091.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP ZOOM" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP ZOOM
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162090.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP HALA TV" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP HALA TV
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162089.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 1 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 1 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162088.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 2 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 2 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162087.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 3 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 3 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162086.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 4" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 4
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162085.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 5" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 5
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162084.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT5  LIVE" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT5  LIVE
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162083.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 5  LIVE HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 5  LIVE HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162082.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP SPORT 5 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP SPORT 5 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162081.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP DISNEY" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP DISNEY
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162080.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP DISNEY JR" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP DISNEY JR
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162079.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP JUNIOR" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP JUNIOR
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162078.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP NICK JR" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP NICK JR
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162077.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP NICKELODEON" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP NICKELODEON
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162076.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP BABY" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP BABY
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162075.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES MOVIES ACTION HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES MOVIES ACTION HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162074.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES ACTION" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES ACTION
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162073.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES ACTION HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES ACTION HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162072.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES COMEDY HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES COMEDY HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162071.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES MOVIES COMEDY" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES MOVIES COMEDY
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162070.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES COMEDY" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES COMEDY
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162069.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES DRAMA HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES DRAMA HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162068.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES DRAMA" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES DRAMA
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162067.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP DRAMA HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP DRAMA HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162066.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES MOVIES KIDS HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES MOVIES KIDS HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162065.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP ACTION HD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP ACTION HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162064.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP ENTERTAINMENT" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP ENTERTAINMENT
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162063.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP FOOD NETWORK" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP FOOD NETWORK
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162062.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP HEALTH" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP HEALTH
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162061.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP TRAVEL CHANNEL" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP TRAVEL CHANNEL
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162060.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: KAN 11 HD" tvg-logo="http://51.158.145.100/picons/logos/kan11.png" group-title="(IL) ISRAEL",IL: KAN 11 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162059.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: CH 11 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/kan11.png" group-title="(IL) ISRAEL",IL: CH 11 FHD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162058.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: KAN 33 (MAKAN TV) FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/MeKan_33.png" group-title="(IL) ISRAEL",IL: KAN 33 (MAKAN TV) FHD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162057.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 11" tvg-logo="" group-title="(IL) ISRAEL",IL: CHANNEL 11
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162056.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 12" tvg-logo="" group-title="(IL) ISRAEL",IL: CHANNEL 12
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162055.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 13" tvg-logo="" group-title="(IL) ISRAEL",IL: CHANNEL 13
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162054.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 20 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/channel20.jpg" group-title="(IL) ISRAEL",IL: CHANNEL 20 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162053.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: KABBALAH TV" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/Kabbalah-TV-Hebrew.png" group-title="(IL) ISRAEL",IL: KABBALAH TV
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162052.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: KABBALAH TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/Kabbalah-TV-Hebrew.png" group-title="(IL) ISRAEL",IL: KABBALAH TV HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162051.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 23" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/channel23.png" group-title="(IL) ISRAEL",IL: CHANNEL 23
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162050.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 23 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/channel23.png" group-title="(IL) ISRAEL",IL: CHANNEL 23 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162049.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: HALA TV FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/halaTv.png" group-title="(IL) ISRAEL",IL: HALA TV FHD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162048.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: 13 RESHET TV HD" tvg-logo="" group-title="(IL) ISRAEL",IL: 13 RESHET TV HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162047.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: 12 KESHET TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/12Tv.png" group-title="(IL) ISRAEL",IL: 12 KESHET TV HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162046.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: HIDABROT TV HD" tvg-logo="" group-title="(IL) ISRAEL",IL: HIDABROT TV HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162045.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: KABBALAH TV HEBREW" tvg-logo="" group-title="(IL) ISRAEL",IL: KABBALAH TV HEBREW
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162044.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: ISRAEL PARS TV" tvg-logo="" group-title="(IL) ISRAEL",IL: ISRAEL PARS TV
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162043.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: KAB" tvg-logo="" group-title="(IL) ISRAEL",IL: KAB
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162042.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: CHANNEL 2 NEWS" tvg-logo="http://51.158.145.100/picons/logos/channel2news.png" group-title="(IL) ISRAEL",IL: CHANNEL 2 NEWS
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162041.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: I24NEWS HD ENGLISH" tvg-logo="" group-title="(IL) ISRAEL",IL: I24NEWS HD ENGLISH
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162040.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: YES VIVA FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/viva.png" group-title="(IL) ISRAEL",IL: YES VIVA FHD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162039.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: YES VIVA PLUS" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/viva+.png" group-title="(IL) ISRAEL",IL: YES VIVA PLUS
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162038.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: YES MOVIES COMEDY HD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/yesMoviesComedy.png" group-title="(IL) ISRAEL",IL: YES MOVIES COMEDY HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162037.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: YES MOVIES DRAMA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/yesMoviesDrama.png" group-title="(IL) ISRAEL",IL: YES MOVIES DRAMA HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162036.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT 3 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: HOT 3 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162035.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: HOT HBOⓍ" tvg-logo="" group-title="(IL) ISRAEL",IL: HOT HBOⓍ
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162034.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: YES TRAVEL CHANNEL HD" tvg-logo="" group-title="(IL) ISRAEL",IL: YES TRAVEL CHANNEL HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162033.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: YES BABY TV" tvg-logo="" group-title="(IL) ISRAEL",IL: YES BABY TV
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162032.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: YES MUSIC 24 ISRAEL" tvg-logo="" group-title="(IL) ISRAEL",IL: YES MUSIC 24 ISRAEL
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162031.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: YES SPORT 5 FHD" tvg-logo="" group-title="(IL) ISRAEL",IL: YES SPORT 5 FHD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162030.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: YES SPORT 5 HD" tvg-logo="http://51.158.145.100/picons/logos/SPORT%205%20HD_YES%20SPORT%205_YES%20SPORT%205%20LIVE%20%20.jpeg" group-title="(IL) ISRAEL",IL: YES SPORT 5 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162029.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: YES SPORT 5 STARES FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/israel/sport5stars.png" group-title="(IL) ISRAEL",IL: YES SPORT 5 STARES FHD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162028.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP MUSIC 24" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP MUSIC 24
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162027.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES SPORT 5 PLUS" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES SPORT 5 PLUS
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162026.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES | CHANNEL 13" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES | CHANNEL 13
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162025.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: VIP YES.SPORT 5 FHD" tvg-logo="" group-title="(IL) ISRAEL",IL: VIP YES.SPORT 5 FHD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162024.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| CBS REALITY" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| CBS REALITY
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162023.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| CHANNEL 23" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| CHANNEL 23
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162022.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| I24 NEWS" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| I24 NEWS
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162021.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| HOT 3 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| HOT 3 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162020.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| HOT HBO" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| HOT HBO
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162019.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| HOT ZONE HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| HOT ZONE HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162018.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| NICK JR" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| NICK JR
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162017.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES ACTION MOVIES" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES ACTION MOVIES
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162016.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| HALA TV" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| HALA TV
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162015.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES BOLLYWOOD HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES BOLLYWOOD HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162014.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES CHANNEL 20" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES CHANNEL 20
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162013.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES ISRAEL CINEMA" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES ISRAEL CINEMA
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162012.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES KAN 11" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES KAN 11
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162011.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SHOPPING" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SHOPPING
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162010.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES | CHANNEL 12" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES | CHANNEL 12
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162009.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| ZOOM" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| ZOOM
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162008.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 2 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 2 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162007.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 3 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 3 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162006.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 4 HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 4 HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162005.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 5" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 5
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162004.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 5 LIVE" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 5 LIVE
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162003.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 5 PLUS" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 5 PLUS
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162002.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 5 PLUS HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 5 PLUS HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162001.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES SPORT 5 STARS" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES SPORT 5 STARS
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/162000.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES HOME +" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES HOME +
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161999.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES ISRAELI CINEMA" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES ISRAELI CINEMA
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161998.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES COMEDY HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES COMEDY HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161997.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES DRAMA HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES DRAMA HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161996.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES FASHION HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES FASHION HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161995.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES CBS REALITY HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES CBS REALITY HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161994.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES KNESEST TV" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES KNESEST TV
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161993.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES KIDS HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES KIDS HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161992.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| YES MOVIES KIDS FHD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| YES MOVIES KIDS FHD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161991.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| CH 20" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| CH 20
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161990.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| KAN 11" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| KAN 11
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161989.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| RESHET 13" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| RESHET 13
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161988.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| HALA TV FHD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| HALA TV FHD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161987.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| HOME +" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| HOME +
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161986.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| ISRAEL PARS TV" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| ISRAEL PARS TV
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161985.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| JUNIOR" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| JUNIOR
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161984.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| VIVA" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| VIVA
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161983.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| VIVA PLUS" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| VIVA PLUS
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161982.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| ZOOM HD" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| ZOOM HD
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161981.m3u
-#EXTINF:-1 tvg-id="" tvg-name="IL: |VIP| SUPER RADYO DZBB" tvg-logo="" group-title="(IL) ISRAEL",IL: |VIP| SUPER RADYO DZBB
-http://kulis2026.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/161980.m3u
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz,https://raw.githubusercontent.com/iptv-org/epg/master/providers/il.tv.com.xml"
+
+#EXTINF:-1 tvg-id="Keshet12.il" tvg-name="Keshet 12 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Keshet_12_logo.svg" tvg-rec="3",Keshet 12 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32214/index.m3u8
+
+#EXTINF:-1 tvg-id="Reshet13.il" tvg-name="Reshet 13 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Reshet_13_logo.svg" tvg-rec="3",Reshet 13 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2329/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel 9 FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Channel_9_Israel_Logo.png" tvg-rec="3",Channel 9 FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2330/index.m3u8
+
+#EXTINF:-1 tvg-id="Kan11.il" tvg-name="Kan 11 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/KAN_11_logo.svg" tvg-rec="3",Kan 11 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2331/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.il" tvg-name="Nick Jr. IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Nick_Jr._2009.svg" tvg-rec="3",Nick Jr. IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2332/index.m3u8
+
+#EXTINF:-1 tvg-id="Hop.il" tvg-name="Hop! IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Hop%21_Channel_logo.svg" tvg-rec="3",Hop! IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2337/index.m3u8
+
+#EXTINF:-1 tvg-id="HomePlus.il" tvg-name="Home Plus IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/HomePlus.png" tvg-rec="3",Home Plus IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2338/index.m3u8
+
+#EXTINF:-1 tvg-id="ONE.il" tvg-name="One HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/87/ONE_Logo.png" tvg-rec="3",One HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2339/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport5.il" tvg-name="5Sport FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Sport_5_Israel_logo.svg" tvg-rec="3",5Sport FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2340/index.m3u8
+
+#EXTINF:-1 tvg-id="YesIsraeli.il" tvg-name="Yes Israeli IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="3",Yes Israeli IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2341/index.m3u8
+
+#EXTINF:-1 tvg-id="YesTVDrama.il" tvg-name="Yes TV Drama HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="3",Yes TV Drama HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2342/index.m3u8
+
+#EXTINF:-1 tvg-id="YesTVComedy.il" tvg-name="Yes TV Comedy HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="3",Yes TV Comedy HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2343/index.m3u8
+
+#EXTINF:-1 tvg-id="YesTVAction.il" tvg-name="Yes TV Action HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="3",Yes TV Action HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2345/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesComedy.il" tvg-name="Yes Movies Comedy IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="3",Yes Movies Comedy IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2346/index.m3u8
+
+#EXTINF:-1 tvg-id="Keshet12.il" tvg-name="Keshet 12 FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Keshet_12_logo.svg" tvg-rec="3",Keshet 12 FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2348/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-name="Yes Movies Action IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="3",Yes Movies Action IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2349/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesDrama.il" tvg-name="Yes Movies Drama IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="3",Yes Movies Drama IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2350/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTHBO.il" tvg-name="HOT HBO HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" tvg-rec="3",HOT HBO HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2351/index.m3u8
+
+#EXTINF:-1 tvg-id="GoodLife.il" tvg-name="Good Life IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/GoodLifeChannel.png" tvg-rec="3",Good Life IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2354/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTCinema4.il" tvg-name="HOT Cinema 4 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="3",HOT Cinema 4 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2355/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTCinema1.il" tvg-name="HOT Cinema 1 FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="3",HOT Cinema 1 FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2356/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.il" tvg-name="Discovery Channel FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Discovery_Channel_logo.svg" tvg-rec="3",Discovery Channel FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2357/index.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.il" tvg-name="Zoom IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Zoom_Israel_logo.png" tvg-rec="3",Zoom IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2358/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTZone.il" tvg-name="HOT Zone HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="3",HOT Zone HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2359/index.m3u8
+
+#EXTINF:-1 tvg-id="5SportLive.il" tvg-name="5Sport Live FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Sport_5_Israel_logo.svg" tvg-rec="3",5Sport Live FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2360/index.m3u8
+
+#EXTINF:-1 tvg-id="TurkishDramasPlus.il" tvg-name="Turkish Dramas Plus IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/TurkishDramas.png" tvg-rec="3",Turkish Dramas Plus IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2362/index.m3u8
+
+#EXTINF:-1 tvg-id="Luli.il" tvg-name="Luli IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/8e/Luli_Logo.png" tvg-rec="3",Luli IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2363/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesKids.il" tvg-name="Yes Movies Kids IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="3",Yes Movies Kids IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2364/index.m3u8
+
+#EXTINF:-1 tvg-id="Junior.il" tvg-name="Junior HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Junior_TV_Logo.png" tvg-rec="3",Junior HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2365/index.m3u8
+
+#EXTINF:-1 tvg-id="HOT3.il" tvg-name="HOT 3 FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="3",HOT 3 FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2366/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel98.il" tvg-name="Channel 98 IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/Channel98.png" tvg-rec="3",Channel 98 IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2367/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.il" tvg-name="Baby TV IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/BabyTV_logo.svg" tvg-rec="3",Baby TV IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2369/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTCinema3.il" tvg-name="HOT Cinema 3 FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="3",HOT Cinema 3 FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2370/index.m3u8
+
+#EXTINF:-1 tvg-id="ONE2.il" tvg-name="One 2 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/87/ONE_Logo.png" tvg-rec="3",One 2 IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2372/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel 9 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Channel_9_Israel_Logo.png" tvg-rec="3",Channel 9 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2373/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.il" tvg-name="Food Network IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Food_Network_logo.svg" tvg-rec="3",Food Network IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2374/index.m3u8
+
+#EXTINF:-1 tvg-id="HealthChannel.il" tvg-name="Health IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/HealthChannel.png" tvg-rec="3",Health IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2377/index.m3u8
+
+#EXTINF:-1 tvg-id="KanEducational.il" tvg-name="Kan Educational IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Kan_Educational_logo.svg" tvg-rec="3",Kan Educational IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2378/index.m3u8
+
+#EXTINF:-1 tvg-id="Makan33.il" tvg-name="Makan 33 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Makan_33_logo.svg" tvg-rec="3",Makan 33 IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2380/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.il" tvg-name="Disney Channel IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Disney_Channel_logo.svg" tvg-rec="3",Disney Channel IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2381/index.m3u8
+
+#EXTINF:-1 tvg-id="i24News.il" tvg-name="i24 News IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/I24NEWS_Logo.svg" tvg-rec="3",i24 News IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2382/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.il" tvg-name="National Geographic IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/National_Geographic_Channel_logo.svg" tvg-rec="3",National Geographic IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2386/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4 HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/Sport4.png" tvg-rec="3",Sport 4 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2387/index.m3u8
+
+#EXTINF:-1 tvg-id="YamTichoni.il" tvg-name="Yam Tichoni IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/YamTichoni.png" tvg-rec="3",Yam Tichoni IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2389/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport5.il" tvg-name="5Sport HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Sport_5_Israel_logo.svg" tvg-rec="3",5Sport HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2390/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.il" tvg-name="Eurosport 2 orig" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Eurosport_2_logo_2015.svg" tvg-rec="3",Eurosport 2 orig
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/2391/index.m3u8
+
+#EXTINF:-1 tvg-id="VivaIstanbul.il" tvg-name="Viva Istanbul IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/5/52/Viva_tv_il.png" tvg-rec="0",Viva Istanbul IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/7203/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.il" tvg-name="Food Network HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Food_Network_logo.svg" tvg-rec="0",Food Network HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12208/index.m3u8
+
+#EXTINF:-1 tvg-id="YamTichoni.il" tvg-name="Yam Tichoni HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/YamTichoni.png" tvg-rec="0",Yam Tichoni HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12209/index.m3u8
+
+#EXTINF:-1 tvg-id="HOT3.il" tvg-name="HOT 3 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT 3 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12211/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTCinema2.il" tvg-name="HOT Cinema 2 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT Cinema 2 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12214/index.m3u8
+
+#EXTINF:-1 tvg-id="HOT8.il" tvg-name="HOT 8 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT 8 IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12215/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTComedy.il" tvg-name="HOT Comedy HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT Comedy HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12216/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTBidur.il" tvg-name="HOT Bidur HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT Bidur HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12217/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTCinema3.il" tvg-name="HOT Cinema 3 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT Cinema 3 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12219/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryChannel.il" tvg-name="History HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" tvg-rec="0",History HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12220/index.m3u8
+
+#EXTINF:-1 tvg-id="YamTichoniPlus.il" tvg-name="Yam Tichoni+ HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/YamTichoni.png" tvg-rec="0",Yam Tichoni+ HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12223/index.m3u8
+
+#EXTINF:-1 tvg-id="VivaPremium.il" tvg-name="Viva Premium HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/5/52/Viva_tv_il.png" tvg-rec="0",Viva Premium HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12224/index.m3u8
+
+#EXTINF:-1 tvg-id="ONE2.il" tvg-name="One 2 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/87/ONE_Logo.png" tvg-rec="0",One 2 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12226/index.m3u8
+
+#EXTINF:-1 tvg-id="5SportStars.il" tvg-name="5Sport Stars HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Sport_5_Israel_logo.svg" tvg-rec="0",5Sport Stars HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12231/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.il" tvg-name="Channel 24 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Music24_logo.png" tvg-rec="0",Channel 24 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12232/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel14.il" tvg-name="Channel 14 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Now14_logo.svg" tvg-rec="0",Channel 14 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12237/index.m3u8
+
+#EXTINF:-1 tvg-id="Junior.il" tvg-name="Junior IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Junior_TV_Logo.png" tvg-rec="0",Junior IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12239/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.il" tvg-name="Discovery Channel HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Discovery_Channel_logo.svg" tvg-rec="0",Discovery Channel HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12240/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel14.il" tvg-name="Channel 14 FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Now14_logo.svg" tvg-rec="0",Channel 14 FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12241/index.m3u8
+
+#EXTINF:-1 tvg-id="EEntertainment.il" tvg-name="E! HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/E%21_News_logo.svg" tvg-rec="0",E! HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12242/index.m3u8
+
+#EXTINF:-1 tvg-id="Hop.il" tvg-name="Hop! HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Hop%21_Channel_logo.svg" tvg-rec="0",Hop! HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12243/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTCinema1.il" tvg-name="HOT Cinema 1 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT Cinema 1 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12244/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.il" tvg-name="National Geographic HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/National_Geographic_Channel_logo.svg" tvg-rec="0",National Geographic HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12245/index.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild.il" tvg-name="National Geographic Wild FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Nat_Geo_Wild_logo.svg" tvg-rec="0",National Geographic Wild FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12247/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport1.il" tvg-name="Sport 1 HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/Sport1.png" tvg-rec="0",Sport 1 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12248/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.il" tvg-name="Sport 2 HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/Sport2.png" tvg-rec="0",Sport 2 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12249/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport3.il" tvg-name="Sport 3 HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/Sport3.png" tvg-rec="0",Sport 3 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12250/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4 FHD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/Sport4.png" tvg-rec="0",Sport 4 FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12251/index.m3u8
+
+#EXTINF:-1 tvg-id="5SportGold.il" tvg-name="5Sport Gold HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Sport_5_Israel_logo.svg" tvg-rec="0",5Sport Gold HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12252/index.m3u8
+
+#EXTINF:-1 tvg-id="5SportLive.il" tvg-name="5Sport Live HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Sport_5_Israel_logo.svg" tvg-rec="0",5Sport Live HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12254/index.m3u8
+
+#EXTINF:-1 tvg-id="TurkishDramasPlus.il" tvg-name="Turkish Dramas Plus FHD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/TurkishDramas.png" tvg-rec="0",Turkish Dramas Plus FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12255/index.m3u8
+
+#EXTINF:-1 tvg-id="YesDocu.il" tvg-name="Yes Docu HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="0",Yes Docu HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12257/index.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild.il" tvg-name="National Geographic Wild HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Nat_Geo_Wild_logo.svg" tvg-rec="0",National Geographic Wild HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12258/index.m3u8
+
+#EXTINF:-1 tvg-id="TurkishDramas2.il" tvg-name="Turkish Dramas 2 FHD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/TurkishDramas.png" tvg-rec="0",Turkish Dramas 2 FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12259/index.m3u8
+
+#EXTINF:-1 tvg-id="TurkishDramas3.il" tvg-name="Turkish Dramas 3 FHD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/TurkishDramas.png" tvg-rec="0",Turkish Dramas 3 FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12262/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryChannel.il" tvg-name="History FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" tvg-rec="0",History FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12264/index.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodHD.il" tvg-name="Bollywood HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/Bollywood.png" tvg-rec="0",Bollywood HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12265/index.m3u8
+
+#EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="Knesset Channel IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Knesset_Channel_Logo.svg" tvg-rec="0",Knesset Channel IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12267/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-name="Yes Movies Action FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="0",Yes Movies Action FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12269/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesComedy.il" tvg-name="Yes Movies Comedy FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="0",Yes Movies Comedy FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12270/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesDrama.il" tvg-name="Yes Movies Drama FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="0",Yes Movies Drama FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12271/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesKids.il" tvg-name="Yes Movies Kids FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="0",Yes Movies Kids FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12272/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTReal.il" tvg-name="HOT Real HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT Real HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12273/index.m3u8
+
+#EXTINF:-1 tvg-id="5SportStars.il" tvg-name="5Sport Stars FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Sport_5_Israel_logo.svg" tvg-rec="0",5Sport Stars FHD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12274/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-name="Yes Movies Action HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="0",Yes Movies Action HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12278/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesComedy.il" tvg-name="Yes Movies Comedy HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="0",Yes Movies Comedy HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12280/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesDrama.il" tvg-name="Yes Movies Drama HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yes_logo.svg" tvg-rec="0",Yes Movies Drama HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12281/index.m3u8
+
+#EXTINF:-1 tvg-id="WIZ.il" tvg-name="WIZ HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/Wiz.png" tvg-rec="0",WIZ HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12282/index.m3u8
+
+#EXTINF:-1 tvg-id="EdgeSport.il" tvg-name="EDGE SPORT HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/EdgeSport.png" tvg-rec="0",EDGE SPORT HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/12283/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport6.il" tvg-name="Sport 6 HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/Sport6.png" tvg-rec="0",Sport 6 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32002/index.m3u8
+
+#EXTINF:-1 tvg-id="DesignChannel.il" tvg-name="The Design Channel HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/DesignChannel.png" tvg-rec="0",The Design Channel HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32003/index.m3u8
+
+#EXTINF:-1 tvg-id="Bollyshow.il" tvg-name="Bollyshow IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/Bollyshow.png" tvg-rec="0",Bollyshow IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32124/index.m3u8
+
+#EXTINF:-1 tvg-id="HomePlus.il" tvg-name="Home+ IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/HomePlus.png" tvg-rec="0",Home+ IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32125/index.m3u8
+
+#EXTINF:-1 tvg-id="VivaTelenovelot.il" tvg-name="Viva Telenovelot IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/5/52/Viva_tv_il.png" tvg-rec="0",Viva Telenovelot IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32126/index.m3u8
+
+#EXTINF:-1 tvg-id="BigBrother.il" tvg-name="Big Brother HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Reshet_13_logo.svg" tvg-rec="0",Big Brother HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32127/index.m3u8
+
+#EXTINF:-1 tvg-id="ONEDOCO.il" tvg-name="ONE DOCO HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/87/ONE_Logo.png" tvg-rec="0",ONE DOCO HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32128/index.m3u8
+
+#EXTINF:-1 tvg-id="GlobalAction.il" tvg-name="Global Action Channel HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/GlobalAction.png" tvg-rec="0",Global Action Channel HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32129/index.m3u8
+
+#EXTINF:-1 tvg-id="GlobalAction2.il" tvg-name="Global Action Channel 2 HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/GlobalAction.png" tvg-rec="0",Global Action Channel 2 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32130/index.m3u8
+
+#EXTINF:-1 tvg-id="SpanishDrama.il" tvg-name="Spanish Drama Channel HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/SpanishDrama.png" tvg-rec="0",Spanish Drama Channel HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32131/index.m3u8
+
+#EXTINF:-1 tvg-id="SpanishDrama2.il" tvg-name="Spanish Drama Channel 2 HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/SpanishDrama.png" tvg-rec="0",Spanish Drama Channel 2 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32132/index.m3u8
+
+#EXTINF:-1 tvg-id="IndianSeries1.il" tvg-name="Indian Series Channel 1 HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/IndianSeries.png" tvg-rec="0",Indian Series Channel 1 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32133/index.m3u8
+
+#EXTINF:-1 tvg-id="IndianSeries2.il" tvg-name="Indian Series Channel 2 HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/IndianSeries.png" tvg-rec="0",Indian Series Channel 2 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32134/index.m3u8
+
+#EXTINF:-1 tvg-id="ClassicComedy.il" tvg-name="Classic Comedy Channel HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/ClassicComedy.png" tvg-rec="0",Classic Comedy Channel HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32135/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTCinema5.il" tvg-name="HOT Cinema 5 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT Cinema 5 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32136/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTIsraeliCinema.il" tvg-name="HOT Israeli Cinema HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT Israeli Cinema HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32137/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTBuzz.il" tvg-name="HOT BUZZ HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT BUZZ HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32138/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTDrama.il" tvg-name="HOT Drama HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT Drama HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32139/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTEntertainment.il" tvg-name="HOT Entertainment HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT Entertainment HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32140/index.m3u8
+
+#EXTINF:-1 tvg-id="HOT8.il" tvg-name="HOT8 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT8 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32141/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTMind.il" tvg-name="HOT MIND HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT MIND HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32142/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTRomanticCinema.il" tvg-name="HOT Romantic Cinema HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/HOT_logo.svg" tvg-rec="0",HOT Romantic Cinema HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32143/index.m3u8
+
+#EXTINF:-1 tvg-id="LoveChannel.il" tvg-name="LOVE CHANNEL HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/LoveChannel.png" tvg-rec="0",LOVE CHANNEL HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32144/index.m3u8
+
+#EXTINF:-1 tvg-id="CinemaFamily.il" tvg-name="CINEMA FAMILY HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/CinemaFamily.png" tvg-rec="0",CINEMA FAMILY HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32145/index.m3u8
+
+#EXTINF:-1 tvg-id="5Max.il" tvg-name="5MAX HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Sport_5_Israel_logo.svg" tvg-rec="0",5MAX HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32146/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/TeenNick_2019_logo.svg" tvg-rec="0",TeenNick IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32147/index.m3u8
+
+#EXTINF:-1 tvg-id="KanEducational.il" tvg-name="KAN23 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Kan_Educational_logo.svg" tvg-rec="0",KAN23 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32148/index.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodClassic.il" tvg-name="Bollywood Classic HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/Bollywood.png" tvg-rec="0",Bollywood Classic HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32149/index.m3u8
+
+#EXTINF:-1 tvg-id="5Plus.il" tvg-name="5PLUS HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Sport_5_Israel_logo.svg" tvg-rec="0",5PLUS HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32150/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel14.il" tvg-name="now 14 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Now14_logo.svg" tvg-rec="0",now 14 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32151/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTV.il" tvg-name="ZEE TV IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Zee_TV_logo.svg" tvg-rec="0",ZEE TV IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32152/index.m3u8
+
+#EXTINF:-1 tvg-id="Foody.il" tvg-name="Foody HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/Foody.png" tvg-rec="0",Foody HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32153/index.m3u8
+
+#EXTINF:-1 tvg-id="StyleChannel.il" tvg-name="The Style Channel HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/StyleChannel.png" tvg-rec="0",The Style Channel HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32154/index.m3u8
+
+#EXTINF:-1 tvg-id="RainTV.il" tvg-name="RAIN IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dozhd_Logo.svg" tvg-rec="0",RAIN IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32155/index.m3u8
+
+#EXTINF:-1 tvg-id="GTV.il" tvg-name="GTV IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/GTV.png" tvg-rec="0",GTV IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32156/index.m3u8
+
+#EXTINF:-1 tvg-id="GameShow.il" tvg-name="Game Show Channel HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/GameShow.png" tvg-rec="0",Game Show Channel HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32157/index.m3u8
+
+#EXTINF:-1 tvg-id="RealityChannel.il" tvg-name="The Reality Channel HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/RealityChannel.png" tvg-rec="0",The Reality Channel HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32158/index.m3u8
+
+#EXTINF:-1 tvg-id="VacationChannel.il" tvg-name="The Vacation Channel HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/VacationChannel.png" tvg-rec="0",The Vacation Channel HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32159/index.m3u8
+
+#EXTINF:-1 tvg-id="HumorChannel.il" tvg-name="The humor channel HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/HumorChannel.png" tvg-rec="0",The humor channel HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32160/index.m3u8
+
+#EXTINF:-1 tvg-id="MedMovies1.il" tvg-name="The Mediterranean Movie Channel 1 HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/MediterraneanMovies.png" tvg-rec="0",The Mediterranean Movie Channel 1 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32161/index.m3u8
+
+#EXTINF:-1 tvg-id="MedMovies2.il" tvg-name="The Mediterranean Movie Channel 2 HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/MediterraneanMovies.png" tvg-rec="0",The Mediterranean Movie Channel 2 HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32162/index.m3u8
+
+#EXTINF:-1 tvg-id="BeautyZ.il" tvg-name="BeautyZ HD IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/BeautyZ.png" tvg-rec="0",BeautyZ HD IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32163/index.m3u8
+
+#EXTINF:-1 tvg-id="Kan11.il" tvg-name="Channel 11 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/KAN_11_logo.svg" tvg-rec="0",Channel 11 IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32164/index.m3u8
+
+#EXTINF:-1 tvg-id="HumorChannel.il" tvg-name="The humor channel IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/HumorChannel.png" tvg-rec="0",The humor channel IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32252/index.m3u8
+
+#EXTINF:-1 tvg-id="EgoTotal.il" tvg-name="Ego Total IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/05/Ego_Total.png" tvg-rec="0",Ego Total IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32316/index.m3u8
+
+#EXTINF:-1 tvg-id="KanEducational.il" tvg-name="KAN23 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Kan_Educational_logo.svg" tvg-rec="0",KAN23 IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32317/index.m3u8
+
+#EXTINF:-1 tvg-id="Hidabroot.il" tvg-name="HIDABRUT IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Hidabroot_logo.svg" tvg-rec="0",HIDABRUT IL
+#EXTGRP:ישראלי
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32318/index.m3u8
