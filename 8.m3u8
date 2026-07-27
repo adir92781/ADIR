@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz,https://raw.githubusercontent.com/iptv-org/epg/master/providers/il.tv.com.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-il.xml.gz,https://iptv-epg.org/files/epg-il.xml"
 
 #EXTINF:-1 tvg-id="Keshet12.il" tvg-name="Keshet 12 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Keshet_12_logo.svg" tvg-rec="3",Keshet 12 HD IL
 #EXTGRP:ישראלי
