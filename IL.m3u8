@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz,https://raw.githubusercontent.com/iptv-org/epg/master/providers/il.tv.com.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz"
 
 #EXTINF:-1 tvg-id="Keshet12.il" tvg-name="Keshet 12 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Keshet_12_logo.svg" tvg-rec="3",Keshet 12 HD IL
 #EXTGRP:ישראלי
@@ -550,20 +550,20 @@ http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32163/index.m3u8
 
 #EXTINF:-1 tvg-id="Kan11.il" tvg-name="Channel 11 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/KAN_11_logo.svg" tvg-rec="0",Channel 11 IL
 #EXTGRP:ישראלי
-http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32164/index.m3u8
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32252/index.m3u8
 
 #EXTINF:-1 tvg-id="HumorChannel.il" tvg-name="The humor channel IL" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/israel/HumorChannel.png" tvg-rec="0",The humor channel IL
 #EXTGRP:ישראלי
-http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32252/index.m3u8
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32316/index.m3u8
 
 #EXTINF:-1 tvg-id="EgoTotal.il" tvg-name="Ego Total IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/05/Ego_Total.png" tvg-rec="0",Ego Total IL
 #EXTGRP:ישראלי
-http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32316/index.m3u8
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32317/index.m3u8
 
 #EXTINF:-1 tvg-id="KanEducational.il" tvg-name="KAN23 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Kan_Educational_logo.svg" tvg-rec="0",KAN23 IL
 #EXTGRP:ישראלי
-http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32317/index.m3u8
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32318/index.m3u8
 
 #EXTINF:-1 tvg-id="Hidabroot.il" tvg-name="HIDABRUT IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Hidabroot_logo.svg" tvg-rec="0",HIDABRUT IL
 #EXTGRP:ישראלי
-http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32318/index.m3u8
+http://c8bcc51f.ottrast.com/iptv/RT8PXC76SXWYVT3SYDS2RNXZ/32214/index.m3u8
