@@ -1,11 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz"
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-il.xml.gz,https://iptv-epg.org/files/epg-il"
-
-#EXTINF:0 tvg-rec="0",Eurosport 2 HD DK
-#EXTGRP:Дания | Denmark
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32021/index.m3u8
-#EXTINF:0 tvg-rec="3",ON Sport 1 HD EG
-#EXTGRP:Египет | Egypt
 http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2512/index.m3u8
 #EXTINF:0 tvg-rec="3",Keshet 12 HD IL
 #EXTGRP:Израиль | ישראלי
