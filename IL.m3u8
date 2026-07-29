@@ -1,446 +1,572 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz"
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-il.xml.gz,https://iptv-epg.org/files/epg-il"
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2512/index.m3u8
-#EXTINF:0 tvg-rec="3",Keshet 12 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2329/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Cinema Family HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2151/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport 4K IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/16019/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 3 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/14220/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/14208/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas Plus HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/14207/index.m3u8
-#EXTINF:0 tvg-rec="3",Reshet 13 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2330/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 9 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2331/index.m3u8
-#EXTINF:0 tvg-rec="3",Kan 11 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2332/index.m3u8
-#EXTINF:0 tvg-rec="3",Nick Jr. IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2337/index.m3u8
-#EXTINF:0 tvg-rec="3",Hop! IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2338/index.m3u8
-#EXTINF:0 tvg-rec="3",Home Plus IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2339/index.m3u8
-#EXTINF:0 tvg-rec="3",One HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2340/index.m3u8
-#EXTINF:0 tvg-rec="3",5Sport FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2341/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Israeli IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2342/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes TV Drama HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2343/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes TV Comedy HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2345/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes TV Action HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2346/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Comedy IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2348/index.m3u8
-#EXTINF:0 tvg-rec="3",Keshet 12 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2349/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Action IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2350/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Drama IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2351/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT HBO HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2354/index.m3u8
-#EXTINF:0 tvg-rec="3",Good Life IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2355/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Cinema 4 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2356/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Cinema 1 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2357/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2358/index.m3u8
-#EXTINF:0 tvg-rec="3",Zoom IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2359/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Zone HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2360/index.m3u8
-#EXTINF:0 tvg-rec="3",5Sport Live FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2362/index.m3u8
-#EXTINF:0 tvg-rec="3",Turkish Dramas Plus IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2363/index.m3u8
-#EXTINF:0 tvg-rec="3",Luli IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2364/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Kids IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2365/index.m3u8
-#EXTINF:0 tvg-rec="3",Junior HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2366/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT 3 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2367/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 98 IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2369/index.m3u8
-#EXTINF:0 tvg-rec="3",Baby TV IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2370/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Cinema 3 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2372/index.m3u8
-#EXTINF:0 tvg-rec="3",One 2 IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2373/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 9 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2374/index.m3u8
-#EXTINF:0 tvg-rec="3",Food Network IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2377/index.m3u8
-#EXTINF:0 tvg-rec="3",Health IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2378/index.m3u8
-#EXTINF:0 tvg-rec="3",Kan Educational IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2380/index.m3u8
-#EXTINF:0 tvg-rec="3",Makan 33 IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2381/index.m3u8
-#EXTINF:0 tvg-rec="3",Disney Channel IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2382/index.m3u8
-#EXTINF:0 tvg-rec="3",i24 News IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2386/index.m3u8
-#EXTINF:0 tvg-rec="3",National Geographic IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2387/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport 4 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2389/index.m3u8
-#EXTINF:0 tvg-rec="3",Yam Tichoni IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2390/index.m3u8
-#EXTINF:0 tvg-rec="3",5Sport HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/2391/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 2 orig
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/7203/index.m3u8
-#EXTINF:0 tvg-rec="0",Viva Istanbul IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12208/index.m3u8
-#EXTINF:0 tvg-rec="0",Food Network HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12209/index.m3u8
-#EXTINF:0 tvg-rec="0",Yam Tichoni HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12211/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT 3 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12214/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12215/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT 8 IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12216/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Comedy HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12217/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Bidur HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12219/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema 3 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12220/index.m3u8
-#EXTINF:0 tvg-rec="0",History HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12223/index.m3u8
-#EXTINF:0 tvg-rec="0",Yam Tichoni+ HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12224/index.m3u8
-#EXTINF:0 tvg-rec="0",Viva Premium HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12226/index.m3u8
-#EXTINF:0 tvg-rec="0",One 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12231/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Stars HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12232/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 24 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12237/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 14 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12239/index.m3u8
-#EXTINF:0 tvg-rec="0",Junior IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12240/index.m3u8
-#EXTINF:0 tvg-rec="0",Discovery Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12241/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 14 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12242/index.m3u8
-#EXTINF:0 tvg-rec="0",E! HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12243/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema 1 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12245/index.m3u8
-#EXTINF:0 tvg-rec="0",Hop! HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12244/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12247/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic Wild FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12248/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 1 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12249/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12250/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 3 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12251/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 4 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12252/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Gold HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12254/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Live HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12255/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas Plus FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12257/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Docu HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12258/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic Wild HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12259/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 2 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12262/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 3 FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12264/index.m3u8
-#EXTINF:0 tvg-rec="0",History FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12265/index.m3u8
-#EXTINF:0 tvg-rec="0",Bollywood HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12267/index.m3u8
-#EXTINF:0 tvg-rec="0",Knesset Channel IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12269/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Action FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12270/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Comedy FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12271/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Drama FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12272/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Kids FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12273/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Real HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12274/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Stars FHD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12278/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Action HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12280/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Comedy HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12281/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Drama HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12282/index.m3u8
-#EXTINF:0 tvg-rec="0",WIZ HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/12283/index.m3u8
-#EXTINF:0 tvg-rec="0",EDGE SPORT HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32002/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 6 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32003/index.m3u8
-#EXTINF:0 tvg-rec="0",The Design Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32124/index.m3u8
-#EXTINF:0 tvg-rec="0",Bollyshow IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32125/index.m3u8
-#EXTINF:0 tvg-rec="0",Home+ IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32126/index.m3u8
-#EXTINF:0 tvg-rec="0",Viva Telenovelot IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32127/index.m3u8
-#EXTINF:0 tvg-rec="0",Big Brother HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32128/index.m3u8
-#EXTINF:0 tvg-rec="0",ONE DOCO HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32129/index.m3u8
-#EXTINF:0 tvg-rec="0",Global Action Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32130/index.m3u8
-#EXTINF:0 tvg-rec="0",Global Action Channel 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32131/index.m3u8
-#EXTINF:0 tvg-rec="0",Spanish Drama Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32132/index.m3u8
-#EXTINF:0 tvg-rec="0",Spanish Drama Channel 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32133/index.m3u8
-#EXTINF:0 tvg-rec="0",Indian Series Channel 1 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32134/index.m3u8
-#EXTINF:0 tvg-rec="0",Indian Series Channel 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32135/index.m3u8
-#EXTINF:0 tvg-rec="0",Classic Comedy Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32136/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema 5 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32137/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Israeli Cinema HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32138/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT BUZZ HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32139/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Drama HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32140/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Entertainment HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32141/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT8 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32142/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT MIND HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32143/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Romantic Cinema HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32144/index.m3u8
-#EXTINF:0 tvg-rec="0",LOVE CHANNEL HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32145/index.m3u8
-#EXTINF:0 tvg-rec="0",CINEMA FAMILY HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32146/index.m3u8
-#EXTINF:0 tvg-rec="0",5MAX HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32147/index.m3u8
-#EXTINF:0 tvg-rec="0",TeenNick IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32148/index.m3u8
-#EXTINF:0 tvg-rec="0",KAN23 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32149/index.m3u8
-#EXTINF:0 tvg-rec="0",Bollywood Classic HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32150/index.m3u8
-#EXTINF:0 tvg-rec="0",5PLUS HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32151/index.m3u8
-#EXTINF:0 tvg-rec="0",now 14 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32152/index.m3u8
-#EXTINF:0 tvg-rec="0",ZEE TV IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32153/index.m3u8
-#EXTINF:0 tvg-rec="0",Foody HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32154/index.m3u8
-#EXTINF:0 tvg-rec="0",The Style Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32155/index.m3u8
-#EXTINF:0 tvg-rec="0",RAIN IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32156/index.m3u8
-#EXTINF:0 tvg-rec="0",GTV IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32157/index.m3u8
-#EXTINF:0 tvg-rec="0",Game Show Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32158/index.m3u8
-#EXTINF:0 tvg-rec="0",The Reality Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32159/index.m3u8
-#EXTINF:0 tvg-rec="0",The Vacation Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32160/index.m3u8
-#EXTINF:0 tvg-rec="0",The humor channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32161/index.m3u8
-#EXTINF:0 tvg-rec="0",The Mediterranean Movie Channel 1 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32162/index.m3u8
-#EXTINF:0 tvg-rec="0",The Mediterranean Movie Channel 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32163/index.m3u8
-#EXTINF:0 tvg-rec="0",BeautyZ HD IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32164/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 11 IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32252/index.m3u8
-#EXTINF:0 tvg-rec="0",The humor channel IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32316/index.m3u8
-#EXTINF:0 tvg-rec="0",Ego Total IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32317/index.m3u8
-#EXTINF:0 tvg-rec="0",KAN23 IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32318/index.m3u8
-#EXTINF:0 tvg-rec="0",HIDABRUT IL
-#EXTGRP:Израиль | ישראלי
-http://0953d6b4.rostelekom.xyz/iptv/U79ZHEVAQ8WLQMVN8NHEXSEV/32319/index.m3u8
-#EXTINF:0 tvg-rec="0",VIVA Telenovela IL
-#EXTGRP:Израиль | ישראלי
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Keshet12.il" tvg-rec="2" catchup="default" catchup-days="2",Keshet 12 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2329/index.m3u8
+
+#EXTINF:-1 tvg-id="Reshet13.il" tvg-rec="2" catchup="default" catchup-days="2",Reshet 13 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2330/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.il" tvg-rec="2" catchup="default" catchup-days="2",Channel 9 FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2331/index.m3u8
+
+#EXTINF:-1 tvg-id="Kan11.il" tvg-rec="2" catchup="default" catchup-days="2",Kan 11 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2332/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.il" tvg-rec="2" catchup="default" catchup-days="2",Nick Jr. IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2337/index.m3u8
+
+#EXTINF:-1 tvg-id="Hop.il" tvg-rec="2" catchup="default" catchup-days="2",Hop! IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2338/index.m3u8
+
+#EXTINF:-1 tvg-id="HomePlus.il" tvg-rec="2" catchup="default" catchup-days="2",Home Plus IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2339/index.m3u8
+
+#EXTINF:-1 tvg-id="OneHD.il" tvg-rec="2" catchup="default" catchup-days="2",One HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2340/index.m3u8
+
+#EXTINF:-1 tvg-id="5Sport.il" tvg-rec="2" catchup="default" catchup-days="2",5Sport FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2341/index.m3u8
+
+#EXTINF:-1 tvg-id="YesIsraeli.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Israeli IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2342/index.m3u8
+
+#EXTINF:-1 tvg-id="YesTvDrama.il" tvg-rec="2" catchup="default" catchup-days="2",Yes TV Drama HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2343/index.m3u8
+
+#EXTINF:-1 tvg-id="YesTvComedy.il" tvg-rec="2" catchup="default" catchup-days="2",Yes TV Comedy HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2345/index.m3u8
+
+#EXTINF:-1 tvg-id="YesTvAction.il" tvg-rec="2" catchup="default" catchup-days="2",Yes TV Action HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2346/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesComedy.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Movies Comedy IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2348/index.m3u8
+
+#EXTINF:-1 tvg-id="Keshet12.il" tvg-rec="2" catchup="default" catchup-days="2",Keshet 12 FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2349/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Movies Action IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2350/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesDrama.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Movies Drama IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2351/index.m3u8
+
+#EXTINF:-1 tvg-id="HotHbo.il" tvg-rec="2" catchup="default" catchup-days="2",HOT HBO HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2354/index.m3u8
+
+#EXTINF:-1 tvg-id="GoodLife.il" tvg-rec="2" catchup="default" catchup-days="2",Good Life IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2355/index.m3u8
+
+#EXTINF:-1 tvg-id="HotCinema4.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Cinema 4 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2356/index.m3u8
+
+#EXTINF:-1 tvg-id="HotCinema1.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Cinema 1 FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2357/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.il" tvg-rec="2" catchup="default" catchup-days="2",Discovery Channel FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2358/index.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.il" tvg-rec="2" catchup="default" catchup-days="2",Zoom IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2359/index.m3u8
+
+#EXTINF:-1 tvg-id="HotZone.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Zone HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2360/index.m3u8
+
+#EXTINF:-1 tvg-id="5SportLive.il" tvg-rec="2" catchup="default" catchup-days="2",5Sport Live FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2362/index.m3u8
+
+#EXTINF:-1 tvg-id="TurkishDramasPlus.il" tvg-rec="2" catchup="default" catchup-days="2",Turkish Dramas Plus IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2363/index.m3u8
+
+#EXTINF:-1 tvg-id="Luli.il" tvg-rec="2" catchup="default" catchup-days="2",Luli IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2364/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesKids.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Movies Kids IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2365/index.m3u8
+
+#EXTINF:-1 tvg-id="Junior.il" tvg-rec="2" catchup="default" catchup-days="2",Junior HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2366/index.m3u8
+
+#EXTINF:-1 tvg-id="Hot3.il" tvg-rec="2" catchup="default" catchup-days="2",HOT 3 FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2367/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel98.il" tvg-rec="2" catchup="default" catchup-days="2",Channel 98 IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2369/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.il" tvg-rec="2" catchup="default" catchup-days="2",Baby TV IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2370/index.m3u8
+
+#EXTINF:-1 tvg-id="HotCinema3.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Cinema 3 FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2372/index.m3u8
+
+#EXTINF:-1 tvg-id="One2.il" tvg-rec="2" catchup="default" catchup-days="2",One 2 IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2373/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.il" tvg-rec="2" catchup="default" catchup-days="2",Channel 9 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2374/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.il" tvg-rec="2" catchup="default" catchup-days="2",Food Network IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2377/index.m3u8
+
+#EXTINF:-1 tvg-id="Health.il" tvg-rec="2" catchup="default" catchup-days="2",Health IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2378/index.m3u8
+
+#EXTINF:-1 tvg-id="KanEducational.il" tvg-rec="2" catchup="default" catchup-days="2",Kan Educational IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2380/index.m3u8
+
+#EXTINF:-1 tvg-id="Makan33.il" tvg-rec="2" catchup="default" catchup-days="2",Makan 33 IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2381/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.il" tvg-rec="2" catchup="default" catchup-days="2",Disney Channel IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2382/index.m3u8
+
+#EXTINF:-1 tvg-id="i24News.il" tvg-rec="2" catchup="default" catchup-days="2",i24 News IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2386/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.il" tvg-rec="2" catchup="default" catchup-days="2",National Geographic IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2387/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-rec="2" catchup="default" catchup-days="2",Sport 4 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2389/index.m3u8
+
+#EXTINF:-1 tvg-id="YamTichoni.il" tvg-rec="2" catchup="default" catchup-days="2",Yam Tichoni IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2390/index.m3u8
+
+#EXTINF:-1 tvg-id="5Sport.il" tvg-rec="2" catchup="default" catchup-days="2",5Sport HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/2391/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.il" tvg-rec="2" catchup="default" catchup-days="2",Eurosport 2 orig
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/7203/index.m3u8
+
+#EXTINF:-1 tvg-id="VivaIstanbul.il" tvg-rec="2" catchup="default" catchup-days="2",Viva Istanbul IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12208/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.il" tvg-rec="2" catchup="default" catchup-days="2",Food Network HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12209/index.m3u8
+
+#EXTINF:-1 tvg-id="YamTichoni.il" tvg-rec="2" catchup="default" catchup-days="2",Yam Tichoni HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12211/index.m3u8
+
+#EXTINF:-1 tvg-id="Hot3.il" tvg-rec="2" catchup="default" catchup-days="2",HOT 3 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12214/index.m3u8
+
+#EXTINF:-1 tvg-id="HotCinema2.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Cinema 2 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12215/index.m3u8
+
+#EXTINF:-1 tvg-id="Hot8.il" tvg-rec="2" catchup="default" catchup-days="2",HOT 8 IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12216/index.m3u8
+
+#EXTINF:-1 tvg-id="HotComedy.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Comedy HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12217/index.m3u8
+
+#EXTINF:-1 tvg-id="HotBidur.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Bidur HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12219/index.m3u8
+
+#EXTINF:-1 tvg-id="HotCinema3.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Cinema 3 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12220/index.m3u8
+
+#EXTINF:-1 tvg-id="History.il" tvg-rec="2" catchup="default" catchup-days="2",History HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12223/index.m3u8
+
+#EXTINF:-1 tvg-id="YamTichoniPlus.il" tvg-rec="2" catchup="default" catchup-days="2",Yam Tichoni+ HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12224/index.m3u8
+
+#EXTINF:-1 tvg-id="VivaPremium.il" tvg-rec="2" catchup="default" catchup-days="2",Viva Premium HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12226/index.m3u8
+
+#EXTINF:-1 tvg-id="One2.il" tvg-rec="2" catchup="default" catchup-days="2",One 2 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12231/index.m3u8
+
+#EXTINF:-1 tvg-id="5SportStars.il" tvg-rec="2" catchup="default" catchup-days="2",5Sport Stars HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12232/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.il" tvg-rec="2" catchup="default" catchup-days="2",Channel 24 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12237/index.m3u8
+
+#EXTINF:-1 tvg-id="Now14.il" tvg-rec="2" catchup="default" catchup-days="2",Channel 14 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12239/index.m3u8
+
+#EXTINF:-1 tvg-id="Junior.il" tvg-rec="2" catchup="default" catchup-days="2",Junior IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12240/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.il" tvg-rec="2" catchup="default" catchup-days="2",Discovery Channel HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12241/index.m3u8
+
+#EXTINF:-1 tvg-id="Now14.il" tvg-rec="2" catchup="default" catchup-days="2",Channel 14 FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12242/index.m3u8
+
+#EXTINF:-1 tvg-id="E.il" tvg-rec="2" catchup="default" catchup-days="2",E! HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12243/index.m3u8
+
+#EXTINF:-1 tvg-id="Hop.il" tvg-rec="2" catchup="default" catchup-days="2",Hop! HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12244/index.m3u8
+
+#EXTINF:-1 tvg-id="HotCinema1.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Cinema 1 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12245/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.il" tvg-rec="2" catchup="default" catchup-days="2",National Geographic HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12247/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.il" tvg-rec="2" catchup="default" catchup-days="2",National Geographic Wild FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12248/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport1.il" tvg-rec="2" catchup="default" catchup-days="2",Sport 1 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12249/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.il" tvg-rec="2" catchup="default" catchup-days="2",Sport 2 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12250/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport3.il" tvg-rec="2" catchup="default" catchup-days="2",Sport 3 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12251/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-rec="2" catchup="default" catchup-days="2",Sport 4 FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12252/index.m3u8
+
+#EXTINF:-1 tvg-id="5SportGold.il" tvg-rec="2" catchup="default" catchup-days="2",5Sport Gold HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12254/index.m3u8
+
+#EXTINF:-1 tvg-id="5SportLive.il" tvg-rec="2" catchup="default" catchup-days="2",5Sport Live HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12255/index.m3u8
+
+#EXTINF:-1 tvg-id="TurkishDramasPlus.il" tvg-rec="2" catchup="default" catchup-days="2",Turkish Dramas Plus FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12257/index.m3u8
+
+#EXTINF:-1 tvg-id="YesDocu.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Docu HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12258/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.il" tvg-rec="2" catchup="default" catchup-days="2",National Geographic Wild HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12259/index.m3u8
+
+#EXTINF:-1 tvg-id="TurkishDramas2.il" tvg-rec="2" catchup="default" catchup-days="2",Turkish Dramas 2 FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12262/index.m3u8
+
+#EXTINF:-1 tvg-id="TurkishDramas3.il" tvg-rec="2" catchup="default" catchup-days="2",Turkish Dramas 3 FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12264/index.m3u8
+
+#EXTINF:-1 tvg-id="History.il" tvg-rec="2" catchup="default" catchup-days="2",History FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12265/index.m3u8
+
+#EXTINF:-1 tvg-id="Bollywood.il" tvg-rec="2" catchup="default" catchup-days="2",Bollywood HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12267/index.m3u8
+
+#EXTINF:-1 tvg-id="KnessetChannel.il" tvg-rec="2" catchup="default" catchup-days="2",Knesset Channel IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12269/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Movies Action FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12270/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesComedy.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Movies Comedy FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12271/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesDrama.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Movies Drama FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12272/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesKids.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Movies Kids FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12273/index.m3u8
+
+#EXTINF:-1 tvg-id="HotReal.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Real HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12274/index.m3u8
+
+#EXTINF:-1 tvg-id="5SportStars.il" tvg-rec="2" catchup="default" catchup-days="2",5Sport Stars FHD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12278/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Movies Action HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12280/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesComedy.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Movies Comedy HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12281/index.m3u8
+
+#EXTINF:-1 tvg-id="YesMoviesDrama.il" tvg-rec="2" catchup="default" catchup-days="2",Yes Movies Drama HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12282/index.m3u8
+
+#EXTINF:-1 tvg-id="WIZ.il" tvg-rec="2" catchup="default" catchup-days="2",WIZ HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/12283/index.m3u8
+
+#EXTINF:-1 tvg-id="EdgeSport.il" tvg-rec="2" catchup="default" catchup-days="2",EDGE SPORT HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32002/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport6.il" tvg-rec="2" catchup="default" catchup-days="2",Sport 6 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32003/index.m3u8
+
+#EXTINF:-1 tvg-id="DesignChannel.il" tvg-rec="2" catchup="default" catchup-days="2",The Design Channel HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32124/index.m3u8
+
+#EXTINF:-1 tvg-id="Bollyshow.il" tvg-rec="2" catchup="default" catchup-days="2",Bollyshow IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32125/index.m3u8
+
+#EXTINF:-1 tvg-id="HomePlus.il" tvg-rec="2" catchup="default" catchup-days="2",Home+ IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32126/index.m3u8
+
+#EXTINF:-1 tvg-id="VivaTelenovelot.il" tvg-rec="2" catchup="default" catchup-days="2",Viva Telenovelot IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32127/index.m3u8
+
+#EXTINF:-1 tvg-id="BigBrother.il" tvg-rec="2" catchup="default" catchup-days="2",Big Brother HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32128/index.m3u8
+
+#EXTINF:-1 tvg-id="OneDoco.il" tvg-rec="2" catchup="default" catchup-days="2",ONE DOCO HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32129/index.m3u8
+
+#EXTINF:-1 tvg-id="GlobalAction1.il" tvg-rec="2" catchup="default" catchup-days="2",Global Action Channel HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32130/index.m3u8
+
+#EXTINF:-1 tvg-id="GlobalAction2.il" tvg-rec="2" catchup="default" catchup-days="2",Global Action Channel 2 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32131/index.m3u8
+
+#EXTINF:-1 tvg-id="SpanishDrama1.il" tvg-rec="2" catchup="default" catchup-days="2",Spanish Drama Channel HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32132/index.m3u8
+
+#EXTINF:-1 tvg-id="SpanishDrama2.il" tvg-rec="2" catchup="default" catchup-days="2",Spanish Drama Channel 2 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32133/index.m3u8
+
+#EXTINF:-1 tvg-id="IndianSeries1.il" tvg-rec="2" catchup="default" catchup-days="2",Indian Series Channel 1 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32134/index.m3u8
+
+#EXTINF:-1 tvg-id="IndianSeries2.il" tvg-rec="2" catchup="default" catchup-days="2",Indian Series Channel 2 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32135/index.m3u8
+
+#EXTINF:-1 tvg-id="ClassicComedy.il" tvg-rec="2" catchup="default" catchup-days="2",Classic Comedy Channel HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32136/index.m3u8
+
+#EXTINF:-1 tvg-id="HotCinema5.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Cinema 5 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32137/index.m3u8
+
+#EXTINF:-1 tvg-id="HotIsraeliCinema.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Israeli Cinema HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32138/index.m3u8
+
+#EXTINF:-1 tvg-id="HotBuzz.il" tvg-rec="2" catchup="default" catchup-days="2",HOT BUZZ HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32139/index.m3u8
+
+#EXTINF:-1 tvg-id="HotDrama.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Drama HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32140/index.m3u8
+
+#EXTINF:-1 tvg-id="HotEntertainment.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Entertainment HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32141/index.m3u8
+
+#EXTINF:-1 tvg-id="Hot8.il" tvg-rec="2" catchup="default" catchup-days="2",HOT8 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32142/index.m3u8
+
+#EXTINF:-1 tvg-id="HotMind.il" tvg-rec="2" catchup="default" catchup-days="2",HOT MIND HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32143/index.m3u8
+
+#EXTINF:-1 tvg-id="HotRomanticCinema.il" tvg-rec="2" catchup="default" catchup-days="2",HOT Romantic Cinema HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32144/index.m3u8
+
+#EXTINF:-1 tvg-id="LoveChannel.il" tvg-rec="2" catchup="default" catchup-days="2",LOVE CHANNEL HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32145/index.m3u8
+
+#EXTINF:-1 tvg-id="CinemaFamily.il" tvg-rec="2" catchup="default" catchup-days="2",CINEMA FAMILY HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32146/index.m3u8
+
+#EXTINF:-1 tvg-id="5Max.il" tvg-rec="2" catchup="default" catchup-days="2",5MAX HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32147/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.il" tvg-rec="2" catchup="default" catchup-days="2",TeenNick IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32148/index.m3u8
+
+#EXTINF:-1 tvg-id="KanEducational.il" tvg-rec="2" catchup="default" catchup-days="2",KAN23 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32149/index.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodClassic.il" tvg-rec="2" catchup="default" catchup-days="2",Bollywood Classic HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32150/index.m3u8
+
+#EXTINF:-1 tvg-id="5Plus.il" tvg-rec="2" catchup="default" catchup-days="2",5PLUS HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32151/index.m3u8
+
+#EXTINF:-1 tvg-id="Now14.il" tvg-rec="2" catchup="default" catchup-days="2",now 14 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32152/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTV.il" tvg-rec="2" catchup="default" catchup-days="2",ZEE TV IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32153/index.m3u8
+
+#EXTINF:-1 tvg-id="Foody.il" tvg-rec="2" catchup="default" catchup-days="2",Foody HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32154/index.m3u8
+
+#EXTINF:-1 tvg-id="StyleChannel.il" tvg-rec="2" catchup="default" catchup-days="2",The Style Channel HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32155/index.m3u8
+
+#EXTINF:-1 tvg-id="Rain.il" tvg-rec="2" catchup="default" catchup-days="2",RAIN IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32156/index.m3u8
+
+#EXTINF:-1 tvg-id="GTV.il" tvg-rec="2" catchup="default" catchup-days="2",GTV IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32157/index.m3u8
+
+#EXTINF:-1 tvg-id="GameShow.il" tvg-rec="2" catchup="default" catchup-days="2",Game Show Channel HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32158/index.m3u8
+
+#EXTINF:-1 tvg-id="RealityChannel.il" tvg-rec="2" catchup="default" catchup-days="2",The Reality Channel HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32159/index.m3u8
+
+#EXTINF:-1 tvg-id="VacationChannel.il" tvg-rec="2" catchup="default" catchup-days="2",The Vacation Channel HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32160/index.m3u8
+
+#EXTINF:-1 tvg-id="HumorChannel.il" tvg-rec="2" catchup="default" catchup-days="2",The humor channel HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32161/index.m3u8
+
+#EXTINF:-1 tvg-id="MediterraneanMovie1.il" tvg-rec="2" catchup="default" catchup-days="2",The Mediterranean Movie Channel 1 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32162/index.m3u8
+
+#EXTINF:-1 tvg-id="MediterraneanMovie2.il" tvg-rec="2" catchup="default" catchup-days="2",The Mediterranean Movie Channel 2 HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32163/index.m3u8
+
+#EXTINF:-1 tvg-id="BeautyZ.il" tvg-rec="2" catchup="default" catchup-days="2",BeautyZ HD IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32164/index.m3u8
+
+#EXTINF:-1 tvg-id="Kan11.il" tvg-rec="2" catchup="default" catchup-days="2",Channel 11 IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32252/index.m3u8
+
+#EXTINF:-1 tvg-id="HumorChannel.il" tvg-rec="2" catchup="default" catchup-days="2",The humor channel IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32316/index.m3u8
+
+#EXTINF:-1 tvg-id="EgoTotal.il" tvg-rec="2" catchup="default" catchup-days="2",Ego Total IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32317/index.m3u8
+
+#EXTINF:-1 tvg-id="KanEducational.il" tvg-rec="2" catchup="default" catchup-days="2",KAN23 IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32318/index.m3u8
+
+#EXTINF:-1 tvg-id="Hidabrut.il" tvg-rec="2" catchup="default" catchup-days="2",HIDABRUT IL
+#EXTGRP:ישראלי
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32319/index.m3u8
+
+#EXTINF:-1 tvg-id="VivaTelenovela.il" tvg-rec="2" catchup="default" catchup-days="2",VIVA Telenovela IL
+#EXTGRP:ישראלי
