@@ -91,3 +91,16 @@ http://stream.mcquack.net/46/index.m3u8
 #EXTINF:-1 tvg-id="YesMoviesAction.il@SD",Yes Movies Action (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/380/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7539" tvg-logo="http://epg.one/img2/7539.png" tvg-rec="3",ViP Sport 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/20099/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7540" tvg-logo="http://epg.one/img2/7540.png" tvg-rec="3",ViP Sport 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/20103/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7541" tvg-logo="http://epg.one/img2/7541.png" tvg-rec="3",ViP Sport 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/20104/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7542" tvg-logo="http://epg.one/img2/7542.png" tvg-rec="3",ViP Sport 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/20105/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="3",ViP Sport 5
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/20106/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7544" tvg-logo="http://epg.one/img2/7544.png" tvg-rec="3",ViP Sport 6
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/20107/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7545" tvg-logo="http://epg.one/img2/7545.png" tvg
