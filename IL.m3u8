@@ -302,3 +302,135 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FHKC2D3GGKYK3Q/12280/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FHKC2D3GGKYK3Q/12281/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5087" tvg-logo="http://epg.one/img2/5087.png" tvg-rec="0",WIZ HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FHKC2D3GGKYK3Q/12283/index.m3u8
+
+
+#EXTINF:-1,Eurosport 1
+#EXTGRP:Спортивные
+http://57.128.196.99/10500/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Eurosport 2
+#EXTGRP:Спортивные
+http://57.128.196.99/10501/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Eurosport 1 HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10446/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Eurosport 2 HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10447/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Eurosport 1 HD UA
+#EXTGRP:Спортивные
+http://57.128.196.99/11600/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Eurosport 2 HD UA
+#EXTGRP:Спортивные
+http://57.128.196.99/11601/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Eurosport 4K
+#EXTGRP:Спортивные
+http://57.128.196.99/20590/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч!
+#EXTGRP:Спортивные
+http://57.128.196.99/20952/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч! HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10451/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч! Премьер
+#EXTGRP:Спортивные
+http://57.128.196.99/20951/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч! Премьер HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10455/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч Футбол 1
+#EXTGRP:Спортивные
+http://57.128.196.99/11950/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч Футбол 2
+#EXTGRP:Спортивные
+http://57.128.196.99/11951/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч Футбол 3
+#EXTGRP:Спортивные
+http://57.128.196.99/11952/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч! Футбол 1 HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10457/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч! Футбол 2 HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10458/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч! Футбол 3 HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10459/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч! Футбол 1 FHD
+#EXTGRP:Спортивные
+http://57.128.196.99/10462/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч! Футбол 2 FHD
+#EXTGRP:Спортивные
+http://57.128.196.99/10463/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Матч! Футбол 3 FHD
+#EXTGRP:Спортивные
+http://57.128.196.99/10464/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Окко Футбол HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10515/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Окко.Спорт HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10403/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Окко Прайм Спорт
+#EXTGRP:Спортивные
+http://57.128.196.99/10517/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta Украина
+#EXTGRP:Спортивные
+http://57.128.196.99/10401/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta+ Украина
+#EXTGRP:Спортивные
+http://57.128.196.99/10402/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta Sports Premium
+#EXTGRP:Спортивные
+http://57.128.196.99/10520/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta Sports 1 HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10502/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta Sports 2 HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10503/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta Qazaqstan
+#EXTGRP:Спортивные
+http://57.128.196.99/10412/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta Sports Moldova
+#EXTGRP:Спортивные
+http://57.128.196.99/10504/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta Sports 1 HD UZ
+#EXTGRP:Спортивные
+http://57.128.196.99/20610/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta Sports 2 HD UZ
+#EXTGRP:Спортивные
+http://57.128.196.99/20851/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta Sports 1 Lietuva
+#EXTGRP:Спортивные
+http://57.128.196.99/10505/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta Sports 1 Georgia
+#EXTGRP:Спортивные
+http://57.128.196.99/10466/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta Sports 2 Georgia
+#EXTGRP:Спортивные
+http://57.128.196.99/10467/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Setanta Sports 3 Georgia
+#EXTGRP:Спортивные
+http://57.128.196.99/10468/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Silk Sport 1 HD Georgia
+#EXTGRP:Спортивные
+http://57.128.196.99/20600/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Silk Sport 2 HD Georgia
+#EXTGRP:Спортивные
+http://57.128.196.99/20601/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Silk Sport 3 HD Georgia
+#EXTGRP:Спортивные
+http://57.128.196.99/20602/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Bein Sport 1 HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10422/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Bein Sport 2 HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10423/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Bein Sport 3 HD
+#EXTGRP:Спортивные
+http://57.128.196.99/10424/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Arena Premium 1 HD
+#EXTGRP:Спортивные
+http://57.128.196.99/20603/index.m3u8?token=6AC15D94169C
+#EXTINF:-1,Arena Premium 2 HD
