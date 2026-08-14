@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://www.xml.co.il/epg.xml.gz"
-#EXTINF:-1 tvg-id="Sport54K.il" tvg-name="5Sport 4K IL" tvg-logo="https://i.imgur.com/8Q0NlqY.png" tvg-rec="0",5Sport 4K IL
+#EXTINF:-1 tvg-id="Sport54K.il" tvg-name="5Sport 4K IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sport_5_logo.png" tvg-rec="0",5Sport 4K IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/16019/index.m3u8
-#EXTINF:-1 tvg-id="TurkishDramas3.il" tvg-name="Turkish Dramas 3 HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Turkish Dramas 3 HD IL
+#EXTINF:-1 tvg-id="TurkishDramas3.il" tvg-name="Turkish Dramas 3 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Turkish Dramas 3 HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/14220/index.m3u8
-#EXTINF:-1 tvg-id="TurkishDramas2.il" tvg-name="Turkish Dramas 2 HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Turkish Dramas 2 HD IL
+#EXTINF:-1 tvg-id="TurkishDramas2.il" tvg-name="Turkish Dramas 2 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Turkish Dramas 2 HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/14208/index.m3u8
-#EXTINF:-1 tvg-id="TurkishDramasPlus.il" tvg-name="Turkish Dramas Plus HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Turkish Dramas Plus HD IL
+#EXTINF:-1 tvg-id="TurkishDramasPlus.il" tvg-name="Turkish Dramas Plus HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Turkish Dramas Plus HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/14207/index.m3u8
 #EXTINF:-1 tvg-id="Reshet13.il" tvg-name="Reshet 13 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Reshet_13_logo_2020.png" tvg-rec="3",Reshet 13 HD IL
@@ -26,7 +26,7 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2337/index.m3u8
 #EXTINF:-1 tvg-id="Hop.il" tvg-name="Hop! IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/9/91/Hop_Channel_Logo.png" tvg-rec="3",Hop! IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2338/index.m3u8
-#EXTINF:-1 tvg-id="HomePlus.il" tvg-name="Home Plus IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="3",Home Plus IL
+#EXTINF:-1 tvg-id="HomePlus.il" tvg-name="Home Plus IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="3",Home Plus IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2339/index.m3u8
 #EXTINF:-1 tvg-id="One.il" tvg-name="One HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/ONE_Israel_Logo.png" tvg-rec="3",One HD IL
@@ -62,7 +62,7 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2351/index.m3u8
 #EXTINF:-1 tvg-id="Hothbo.il" tvg-name="HOT HBO HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/HBO_Logo_2017.svg" tvg-rec="3",HOT HBO HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2354/index.m3u8
-#EXTINF:-1 tvg-id="GoodLife.il" tvg-name="Good Life IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="3",Good Life IL
+#EXTINF:-1 tvg-id="GoodLife.il" tvg-name="Good Life IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="3",Good Life IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2355/index.m3u8
 #EXTINF:-1 tvg-id="HotCinema4.il" tvg-name="HOT Cinema 4 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Hot_Cinema_logo.png" tvg-rec="3",HOT Cinema 4 HD IL
@@ -83,7 +83,7 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2360/index.m3u8
 #EXTINF:-1 tvg-id="Sport5Live.il" tvg-name="5Sport Live FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sport_5_logo.png" tvg-rec="3",5Sport Live FHD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2362/index.m3u8
-#EXTINF:-1 tvg-id="TurkishDramasPlus.il" tvg-name="Turkish Dramas Plus IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="3",Turkish Dramas Plus IL
+#EXTINF:-1 tvg-id="TurkishDramasPlus.il" tvg-name="Turkish Dramas Plus IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="3",Turkish Dramas Plus IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2363/index.m3u8
 #EXTINF:-1 tvg-id="Luli.il" tvg-name="Luli IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/e/e9/Luli_logo.png" tvg-rec="3",Luli IL
@@ -98,7 +98,7 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2366/index.m3u8
 #EXTINF:-1 tvg-id="Hot3.il" tvg-name="HOT 3 FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="3",HOT 3 FHD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2367/index.m3u8
-#EXTINF:-1 tvg-id="Channel98.il" tvg-name="Channel 98 IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="3",Channel 98 IL
+#EXTINF:-1 tvg-id="Channel98.il" tvg-name="Channel 98 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/I24NEWS_logo.svg" tvg-rec="3",Channel 98 IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2369/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.il" tvg-name="Baby TV IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BabyTV_logo_2020.svg" tvg-rec="3",Baby TV IL
@@ -116,7 +116,7 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2374/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.il" tvg-name="Food Network IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Food_Network_Logo.svg" tvg-rec="3",Food Network IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2377/index.m3u8
-#EXTINF:-1 tvg-id="Health.il" tvg-name="Health IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="3",Health IL
+#EXTINF:-1 tvg-id="Health.il" tvg-name="Health IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="3",Health IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2378/index.m3u8
 #EXTINF:-1 tvg-id="KanEducational.il" tvg-name="Kan Educational IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Kan_11_logo.png" tvg-rec="3",Kan Educational IL
@@ -137,7 +137,7 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2387/index.m3u8
 #EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Sport_4_Israel_logo.png" tvg-rec="3",Sport 4 HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2389/index.m3u8
-#EXTINF:-1 tvg-id="YamTichoni.il" tvg-name="Yam Tichoni IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="3",Yam Tichoni IL
+#EXTINF:-1 tvg-id="YamTichoni.il" tvg-name="Yam Tichoni IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="3",Yam Tichoni IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/2390/index.m3u8
 #EXTINF:-1 tvg-id="Sport5.il" tvg-name="5Sport HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sport_5_logo.png" tvg-rec="3",5Sport HD IL
@@ -152,7 +152,7 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12208/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.il" tvg-name="Food Network HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Food_Network_Logo.svg" tvg-rec="0",Food Network HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12209/index.m3u8
-#EXTINF:-1 tvg-id="YamTichoni.il" tvg-name="Yam Tichoni HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Yam Tichoni HD IL
+#EXTINF:-1 tvg-id="YamTichoni.il" tvg-name="Yam Tichoni HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Yam Tichoni HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12211/index.m3u8
 #EXTINF:-1 tvg-id="Hot3.il" tvg-name="HOT 3 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",HOT 3 HD IL
@@ -176,7 +176,7 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12220/index.m3u8
 #EXTINF:-1 tvg-id="History.il" tvg-name="History HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/History_Channel_%282021%2C_vertical%29.svg" tvg-rec="0",History HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12223/index.m3u8
-#EXTINF:-1 tvg-id="YamTichoniPlus.il" tvg-name="Yam Tichoni+ HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Yam Tichoni+ HD IL
+#EXTINF:-1 tvg-id="YamTichoniPlus.il" tvg-name="Yam Tichoni+ HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Yam Tichoni+ HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12224/index.m3u8
 #EXTINF:-1 tvg-id="VivaPremium.il" tvg-name="Viva Premium HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Viva Premium HD IL
@@ -233,7 +233,7 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12254/index.m3u8
 #EXTINF:-1 tvg-id="Sport5Live.il" tvg-name="5Sport Live HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sport_5_logo.png" tvg-rec="0",5Sport Live HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12255/index.m3u8
-#EXTINF:-1 tvg-id="TurkishDramasPlus.il" tvg-name="Turkish Dramas Plus FHD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Turkish Dramas Plus FHD IL
+#EXTINF:-1 tvg-id="TurkishDramasPlus.il" tvg-name="Turkish Dramas Plus FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Turkish Dramas Plus FHD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12257/index.m3u8
 #EXTINF:-1 tvg-id="YesDocu.il" tvg-name="Yes Docu HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Yes_tv_Israeli_logo.png" tvg-rec="0",Yes Docu HD IL
@@ -242,16 +242,16 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12258/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.il" tvg-name="National Geographic Wild HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nat_Geo_Wild_logo.svg" tvg-rec="0",National Geographic Wild HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12259/index.m3u8
-#EXTINF:-1 tvg-id="TurkishDramas2.il" tvg-name="Turkish Dramas 2 FHD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Turkish Dramas 2 FHD IL
+#EXTINF:-1 tvg-id="TurkishDramas2.il" tvg-name="Turkish Dramas 2 FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Turkish Dramas 2 FHD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12262/index.m3u8
-#EXTINF:-1 tvg-id="TurkishDramas3.il" tvg-name="Turkish Dramas 3 FHD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Turkish Dramas 3 FHD IL
+#EXTINF:-1 tvg-id="TurkishDramas3.il" tvg-name="Turkish Dramas 3 FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Turkish Dramas 3 FHD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12264/index.m3u8
 #EXTINF:-1 tvg-id="History.il" tvg-name="History FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/History_Channel_%282021%2C_vertical%29.svg" tvg-rec="0",History FHD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12265/index.m3u8
-#EXTINF:-1 tvg-id="BollywoodIndian.il" tvg-name="BollywooD Indian Films IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",BollywooD Indian Films IL
+#EXTINF:-1 tvg-id="BollywoodIndian.il" tvg-name="BollywooD Indian Films IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",BollywooD Indian Films IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12267/index.m3u8
 #EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="Knesset Channel IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/87/Knesset_Channel_logo.png" tvg-rec="0",Knesset Channel IL
@@ -290,13 +290,13 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/12283/index.m3u8
 #EXTINF:-1 tvg-id="OneEdge.il" tvg-name="One Edge HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/ONE_Israel_Logo.png" tvg-rec="0",One Edge HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32002/index.m3u8
-#EXTINF:-1 tvg-id="Sport6.il" tvg-name="Sport 6 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Sport_1_Israel_logo.png" tvg-rec="0",Sport 6 HD IL
+#EXTINF:-1 tvg-id="Sport6.il" tvg-name="Sport 6 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Sport_1_Israel_logo.png" tvg-rec="0",Sport 6 HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32003/index.m3u8
-#EXTINF:-1 tvg-id="DesignChannel.il" tvg-name="The Design Channel HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",The Design Channel HD IL
+#EXTINF:-1 tvg-id="DesignChannel.il" tvg-name="The Design Channel HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",The Design Channel HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32124/index.m3u8
-#EXTINF:-1 tvg-id="BollywoodSeries.il" tvg-name="BollywooD Series IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",BollywooD Series IL
+#EXTINF:-1 tvg-id="BollywoodSeries.il" tvg-name="BollywooD Series IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",BollywooD Series IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32125/index.m3u8
 #EXTINF:-1 tvg-id="VivaTelenovella.il" tvg-name="Viva Telenovella IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Viva Telenovella IL
@@ -308,25 +308,25 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32128/index.m3u8
 #EXTINF:-1 tvg-id="OneDoco.il" tvg-name="One Doco HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/ONE_Israel_Logo.png" tvg-rec="0",One Doco HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32129/index.m3u8
-#EXTINF:-1 tvg-id="GlobalAction1.il" tvg-name="Global Action 1 HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Global Action 1 HD IL
+#EXTINF:-1 tvg-id="GlobalAction1.il" tvg-name="Global Action 1 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Global Action 1 HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32130/index.m3u8
-#EXTINF:-1 tvg-id="GlobalAction2.il" tvg-name="Global Action 2 HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Global Action 2 HD IL
+#EXTINF:-1 tvg-id="GlobalAction2.il" tvg-name="Global Action 2 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Global Action 2 HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32131/index.m3u8
-#EXTINF:-1 tvg-id="SpanishDrama1.il" tvg-name="Spanish Drama 1 HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Spanish Drama 1 HD IL
+#EXTINF:-1 tvg-id="SpanishDrama1.il" tvg-name="Spanish Drama 1 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Spanish Drama 1 HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32132/index.m3u8
-#EXTINF:-1 tvg-id="SpanishDrama2.il" tvg-name="Spanish Drama 2 HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Spanish Drama 2 HD IL
+#EXTINF:-1 tvg-id="SpanishDrama2.il" tvg-name="Spanish Drama 2 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Spanish Drama 2 HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32133/index.m3u8
-#EXTINF:-1 tvg-id="IndianSeries1.il" tvg-name="Indian Series 1 HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Indian Series 1 HD IL
+#EXTINF:-1 tvg-id="IndianSeries1.il" tvg-name="Indian Series 1 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Indian Series 1 HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32134/index.m3u8
-#EXTINF:-1 tvg-id="IndianSeries2.il" tvg-name="Indian Series 2 HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Indian Series 2 HD IL
+#EXTINF:-1 tvg-id="IndianSeries2.il" tvg-name="Indian Series 2 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Indian Series 2 HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32135/index.m3u8
-#EXTINF:-1 tvg-id="ClassicComedy.il" tvg-name="Classic Comedy Channel HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Classic Comedy Channel HD IL
+#EXTINF:-1 tvg-id="ClassicComedy.il" tvg-name="Classic Comedy Channel HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Classic Comedy Channel HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32136/index.m3u8
 #EXTINF:-1 tvg-id="HotCinema5.il" tvg-name="HOT Cinema 5 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Hot_Cinema_logo.png" tvg-rec="0",HOT Cinema 5 HD IL
@@ -350,78 +350,3 @@ http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32142/index.m3u8
 #EXTINF:-1 tvg-id="HotMind.il" tvg-name="HOT Mind HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",HOT Mind HD IL
 #EXTGRP:Израиль | ישראלי
 http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32143/index.m3u8
-#EXTINF:-1 tvg-id="HotRomanticCinema.il" tvg-name="HOT Romantic Cinema HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Hot_Cinema_logo.png" tvg-rec="0",HOT Romantic Cinema HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32144/index.m3u8
-#EXTINF:-1 tvg-id="LoveChannel.il" tvg-name="Love Channel HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Love Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32145/index.m3u8
-#EXTINF:-1 tvg-id="HotCinemaFamily.il" tvg-name="HOT Cinema Family FHD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Hot_Cinema_logo.png" tvg-rec="0",HOT Cinema Family FHD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32146/index.m3u8
-#EXTINF:-1 tvg-id="Sport5Max.il" tvg-name="5Sport Max HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sport_5_logo.png" tvg-rec="0",5Sport Max HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32147/index.m3u8
-#EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/TeenNick_2012_logo.svg" tvg-rec="0",TeenNick IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32148/index.m3u8
-#EXTINF:-1 tvg-id="KanEducational.il" tvg-name="Kan Educational HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Kan_11_logo.png" tvg-rec="0",Kan Educational HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32149/index.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.il" tvg-name="BollywooD Classic Films HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",BollywooD Classic Films HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32150/index.m3u8
-#EXTINF:-1 tvg-id="Sport5Plus.il" tvg-name="5Sport Plus HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sport_5_logo.png" tvg-rec="0",5Sport Plus HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32151/index.m3u8
-#EXTINF:-1 tvg-id="Channel14.il" tvg-name="Channel 14 HD IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/Channel_14_Israel_logo.png" tvg-rec="0",Channel 14 HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32152/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.il" tvg-name="ZEE TV IL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Zee_TV_logo_2017.svg" tvg-rec="0",ZEE TV IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32153/index.m3u8
-#EXTINF:-1 tvg-id="Foody.il" tvg-name="Foody HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Foody HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32154/index.m3u8
-#EXTINF:-1 tvg-id="StyleChannel.il" tvg-name="The Style Channel HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",The Style Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32155/index.m3u8
-#EXTINF:-1 tvg-id="Rain.il" tvg-name="Rain IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Rain IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32156/index.m3u8
-#EXTINF:-1 tvg-id="GTV.il" tvg-name="GTV IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",GTV IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32157/index.m3u8
-#EXTINF:-1 tvg-id="GameShow.il" tvg-name="Game Show Channel HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",Game Show Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32158/index.m3u8
-#EXTINF:-1 tvg-id="RealityChannel.il" tvg-name="The Reality Channel HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",The Reality Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32159/index.m3u8
-#EXTINF:-1 tvg-id="VacationChannel.il" tvg-name="The Vacation Channel HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",The Vacation Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32160/index.m3u8
-#EXTINF:-1 tvg-id="HumorChannel.il" tvg-name="The Humor Channel HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",The Humor Channel HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32161/index.m3u8
-#EXTINF:-1 tvg-id="MedMovie1.il" tvg-name="The Mediterranean Movie 1 HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",The Mediterranean Movie 1 HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32162/index.m3u8
-#EXTINF:-1 tvg-id="MedMovie2.il" tvg-name="The Mediterranean Movie 2 HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",The Mediterranean Movie 2 HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32163/index.m3u8
-#EXTINF:-1 tvg-id="BeautyZ.il" tvg-name="BeautyZ HD IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",BeautyZ HD IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32164/index.m3u8
-#EXTINF:-1 tvg-id="Kan11.il" tvg-name="Channel 11 IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Kan_11_logo.png" tvg-rec="0",Channel 11 IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32252/index.m3u8
-#EXTINF:-1 tvg-id="HumorChannel.il" tvg-name="The Humor Channel IL" tvg-logo="https://i.imgur.com/5XhL7f7.png" tvg-rec="0",The Humor Channel IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32316/index.m3u8
-#EXTINF:-1 tvg-id="EgoTotal.il" tvg-name="Ego Total IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/8/85/HOT_logo_2014.svg" tvg-rec="0",Ego Total IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/32317/index.m3u8
-#EXTINF:-1 tvg-id="Hidabrut.il" tvg-name="Hidabrut IL" tvg-logo="https://upload.wikimedia.org/wikipedia/he/3/36/Hidabrut_Logo.png" tvg-rec="0",Hidabrut IL
-#EXTGRP:Израиль | ישראלי
-http://5eny6xpn.virelloso.top/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/16020/index.m3u8
