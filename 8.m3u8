@@ -181,3 +181,126 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12280/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12281/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5087" tvg-logo="http://epg.one/img2/5087.png" tvg-rec="0",WIZ HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12283/index.m3u8
+
+#EXTINF:-1 tvg-id="ch_channel8hd" tvg-logo="https://oktv.uz/Channels/oktv_3117.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Channel 8 HD
+https://de.oktv.uz:3005/ch_channel8hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://oktv.uz/Channels/ch_3118.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Channel 9 HD
+https://de.oktv.uz:3005/ch_channel9hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_channel11hd" tvg-logo="https://oktv.uz/Channels/oktv_3119.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Channel 11 HD
+https://de.oktv.uz:3005/ch_channel11hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_channel12" tvg-logo="https://oktv.uz/Channels/oktv_3120.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Channel 12
+https://de.oktv.uz:3005/ch_channel12/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_channel13" tvg-logo="https://oktv.uz/Channels/oktv_3121.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Channel 13
+https://de.oktv.uz:3005/ch_channel13/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_channel14" tvg-logo="https://oktv.uz/Channels/oktv_3122.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Channel 14
+https://de.oktv.uz:3005/ch_channel14/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_channel23hd" tvg-logo="https://oktv.uz/Channels/oktv_3123.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",CHANNEL 23 HD
+https://de.oktv.uz:3005/ch_channel23hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="yes3" tvg-logo="https://oktv.uz/Channels/ch_3124.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",MOVIES COMEDY HD
+https://de.oktv.uz:3005/ch_moviescomedyhd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2688" tvg-logo="http://epg.it999.ru/img/2688.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HOT CINEMA 1 HD
+https://de.oktv.uz:3005/ch_hotcinema1hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_hotcinema2hd" tvg-logo="https://oktv.uz/Channels/oktv_3126.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HOT CINEMA 2 HD
+https://de.oktv.uz:3005/ch_hotcinema2hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2703" tvg-logo="http://epg.it999.ru/img/2703.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HOT CINEMA 3 HD
+https://de.oktv.uz:3005/ch_hotcinema3hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_hotdramahd" tvg-logo="https://oktv.uz/Channels/oktv_3128.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HOT DRAMA HD
+https://de.oktv.uz:3005/ch_hotdramahd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_hotrealhd" tvg-logo="https://oktv.uz/Channels/oktv_3129.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HOT REAL HD
+https://de.oktv.uz:3005/ch_hotrealhd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_hotdiyhd" tvg-logo="https://oktv.uz/Channels/oktv_3130.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HOT DIY HD
+https://de.oktv.uz:3005/ch_hotdiyhd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2685" tvg-logo="http://epg.it999.ru/img/2685.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HOT HBO HD
+https://de.oktv.uz:3005/ch_hothbohd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2710" tvg-logo="http://epg.it999.ru/img/2710.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HOT Entertainment
+https://de.oktv.uz:3005/ch_hotentertainment/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2691" tvg-logo="http://epg.it999.ru/img/2691.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HOT ZONE HD
+https://de.oktv.uz:3005/ch_hotzonehd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv5071" tvg-logo="http://epg.it999.ru/img/5071.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",BollyWood HD IL
+https://de.oktv.uz:3005/ch_bollywoodhdil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv4314" tvg-logo="http://epg.it999.ru/img/4314.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HOT REAL IL
+https://de.oktv.uz:3005/ch_hotrealil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv4021" tvg-logo="http://epg.it999.ru/img/4021.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",YES MOVIES COMEDY IL
+https://de.oktv.uz:3005/ch_yesmoviescomedyil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2681" tvg-logo="http://epg.it999.ru/img/2681.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",ONE 4K
+https://de.oktv.uz:3005/ch_one4k/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2681" tvg-logo="http://epg.it999.ru/img/2681.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",ONE HD
+https://de.oktv.uz:3005/ch_onehd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2704" tvg-logo="http://epg.it999.ru/img/2704.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",ONE 2 HD
+https://de.oktv.uz:3005/ch_one2hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2691" tvg-logo="http://epg.it999.ru/img/2691.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",ZONE HD
+https://de.oktv.uz:3005/ch_zonehd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2686" tvg-logo="http://epg.it999.ru/img/2686.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Good Life
+https://de.oktv.uz:3005/ch_goodlife/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_plushd" tvg-logo="https://oktv.uz/Channels/oktv_3142.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",PLUS+ HD
+https://de.oktv.uz:3005/ch_plushd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv4011" tvg-logo="http://epg.it999.ru/img/4011.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Yam Tihoni 25
+https://de.oktv.uz:3005/ch_yamtihoni25/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_yesdokuil" tvg-logo="https://oktv.uz/Channels/oktv_3144.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",YES DOKU IL
+https://de.oktv.uz:3005/ch_yesdokuil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2712" tvg-logo="http://epg.it999.ru/img/2712.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Zoom Toon IL
+https://de.oktv.uz:3005/ch_zoomtoonil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_jimjamil" tvg-logo="https://oktv.uz/Channels/oktv_3146.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",JimJam IL
+https://de.oktv.uz:3005/ch_jimjamil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_entertaimentil" tvg-logo="https://oktv.uz/Channels/oktv_3147.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Entertaiment IL
+https://de.oktv.uz:3005/ch_entertaimentil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2708" tvg-logo="http://epg.it999.ru/img/2708.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Food Channel
+https://de.oktv.uz:3005/ch_foodchannel/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2707" tvg-logo="http://epg.it999.ru/img/2707.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Ego Total
+https://de.oktv.uz:3005/ch_egototal/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_goldhd" tvg-logo="https://oktv.uz/Channels/oktv_3150.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",GOLD HD
+https://de.oktv.uz:3005/ch_goldhd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="yes-action" tvg-logo="https://oktv.uz/Channels/ch_3151.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",ACTION HD
+https://de.oktv.uz:3005/ch_actionhd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2701" tvg-logo="http://epg.it999.ru/img/2701.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Baby
+https://de.oktv.uz:3005/ch_baby/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2679" tvg-logo="http://epg.it999.ru/img/2679.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",FOMO IL
+https://de.oktv.uz:3005/ch_fomoil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_logi" tvg-logo="https://oktv.uz/Channels/oktv_3154.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Logi
+https://de.oktv.uz:3005/ch_logi/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2695" tvg-logo="http://epg.it999.ru/img/2695.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Luli
+https://de.oktv.uz:3005/ch_luli/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv4009" tvg-logo="http://epg.it999.ru/img/4009.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Nickelodeon IL
+https://de.oktv.uz:3005/ch_nickelodeonil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2692" tvg-logo="http://epg.it999.ru/img/2692.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Travel Channel IL
+https://de.oktv.uz:3005/ch_travelchannelil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2680" tvg-logo="http://epg.it999.ru/img/2680.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Home Plus
+https://de.oktv.uz:3005/ch_homeplus/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2679" tvg-logo="http://epg.it999.ru/img/2679.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",hop
+https://de.oktv.uz:3005/ch_hop/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_hotakids" tvg-logo="https://oktv.uz/Channels/oktv_3160.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HOT A+ Kids
+https://de.oktv.uz:3005/ch_hotakids/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2689" tvg-logo="http://epg.it999.ru/img/325.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",DISCOVERY CHANNEL HD IL
+https://de.oktv.uz:3005/ch_discoverychannelhdil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv4311" tvg-logo="http://epg.it999.ru/img/4311.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",NAT GEO WILD IL
+https://de.oktv.uz:3005/ch_natgeowildil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv4014" tvg-logo="https://oktv.uz/Channels/ch_3163.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HISTORY HD IL
+https://de.oktv.uz:3005/ch_historyhdil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_animalplanetil" tvg-logo="https://epg.it999.ru/img/365.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",ANIMAL PLANET IL
+https://de.oktv.uz:3005/ch_animalplanetil/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv5030" tvg-logo="http://epg.it999.ru/img/5030.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",HUMOR CHANNEL HD
+https://de.oktv.uz:3005/ch_humorchannelhd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2684" tvg-logo="https://oktv.uz/Channels/ch_3166.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Sport 1 HD
+https://de.oktv.uz:3005/ch_sport1hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2683" tvg-logo="http://epg.it999.ru/img/2683.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Sport 2 HD
+https://de.oktv.uz:3005/ch_sport2hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2719" tvg-logo="http://epg.it999.ru/img/2719.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Sport 3 HD
+https://de.oktv.uz:3005/ch_sport3hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2720" tvg-logo="http://epg.it999.ru/img/2720.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Sport 4 HD
+https://de.oktv.uz:3005/ch_sport4hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2682" tvg-logo="http://epg.it999.ru/img/2682.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Sport 5 HD
+https://de.oktv.uz:3005/ch_sport5hd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv2682" tvg-logo="http://epg.it999.ru/img/2682.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Sport 5
+https://de.oktv.uz:3005/ch_sport5/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_sport5starshd" tvg-logo="https://oktv.uz/Channels/oktv_3172.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Sport 5 Stars HD
+https://de.oktv.uz:3005/ch_sport5starshd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv3994" tvg-logo="http://epg.it999.ru/img/3994.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Sport 5 Gold
+https://de.oktv.uz:3005/ch_sport5gold/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv4312" tvg-logo="http://epg.it999.ru/img/4312.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Sport  5 Plus HD
+https://de.oktv.uz:3005/ch_sport5plushd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="iptv3993" tvg-logo="http://epg.it999.ru/img/3993.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",Sport 5 Live HD
+https://de.oktv.uz:3005/ch_sport5livehd/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_yesisraelcinemail" tvg-logo="https://oktv.uz/Channels/oktv_3176.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",YES ISRAEL CINEMA IL
+https://de.oktv.uz:3005/ch_yesisraelcinemail/index.m3u8?token=RWnMLGiUO4NR
+#EXTINF:-1 tvg-id="ch_musicisraelhd" tvg-logo="https://oktv.uz/Channels/oktv_3177.png" group-title="Израиль | Israel" catchup="shift" catchup-days="5",MUSIC ISRAEL HD
+https://de.oktv.uz:3005/ch_musicisraelhd/index.m3u8?token=RWnMLGiUO4NR
