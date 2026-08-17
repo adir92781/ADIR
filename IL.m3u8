@@ -1,432 +1,290 @@
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-il.xml"
 
-#EXTINF:0 tvg-rec="3",Keshet 12 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Keshet12.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/keshet-12-il.png" tvg-rec="3",Keshet 12 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2329/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Cinema Family HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTCinemaFamily.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-cinema-family-il.png" tvg-rec="3",HOT Cinema Family HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2151/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport 4K IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport54K.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-4k-il.png" tvg-rec="0",5Sport 4K IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/16019/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 3 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="TurkishDramas3.il" tvg-rec="0",Turkish Dramas 3 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/14220/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 2 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="TurkishDramas2.il" tvg-rec="0",Turkish Dramas 2 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/14208/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas Plus HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="TurkishDramasPlus.il" tvg-rec="0",Turkish Dramas Plus HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/14207/index.m3u8
-#EXTINF:0 tvg-rec="3",Reshet 13 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Reshet13.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/reshet-13-il.png" tvg-rec="3",Reshet 13 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2330/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 9 FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Channel9.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel-9-il.png" tvg-rec="3",Channel 9 FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2331/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 11 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Kan11.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/kan-11-il.png" tvg-rec="3",Channel 11 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2332/index.m3u8
-#EXTINF:0 tvg-rec="3",Nick Jr. IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="NickJr.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/nick-jr-il.png" tvg-rec="3",Nick Jr. IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2337/index.m3u8
-#EXTINF:0 tvg-rec="3",Hop! IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Hop.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hop-il.png" tvg-rec="3",Hop! IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2338/index.m3u8
-#EXTINF:0 tvg-rec="3",Home Plus IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HomePlus.il" tvg-rec="3",Home Plus IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2339/index.m3u8
-#EXTINF:0 tvg-rec="3",One HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="ONE.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-il.png" tvg-rec="3",One HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2340/index.m3u8
-#EXTINF:0 tvg-rec="3",5Sport FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport5.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-il.png" tvg-rec="3",5Sport FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2341/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Israeli IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesIsraeli.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-israeli-il.png" tvg-rec="3",Yes Israeli IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2342/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes TV Drama HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesTVDrama.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-tv-drama-il.png" tvg-rec="3",Yes TV Drama HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2343/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes TV Comedy HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesTVComedy.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-tv-comedy-il.png" tvg-rec="3",Yes TV Comedy HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2345/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes TV Action HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesTVAction.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-tv-action-il.png" tvg-rec="3",Yes TV Action HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2346/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Comedy IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesMoviesComedy.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-movies-comedy-il.png" tvg-rec="3",Yes Movies Comedy IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2348/index.m3u8
-#EXTINF:0 tvg-rec="3",Keshet 12 FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Keshet12.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/keshet-12-il.png" tvg-rec="3",Keshet 12 FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2349/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Action IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesMoviesAction.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-movies-action-il.png" tvg-rec="3",Yes Movies Action IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2350/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Drama IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesMoviesDrama.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-movies-drama-il.png" tvg-rec="3",Yes Movies Drama IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2351/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT HBO HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTHBO.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-hbo-il.png" tvg-rec="3",HOT HBO HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2354/index.m3u8
-#EXTINF:0 tvg-rec="3",Good Life IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="GoodLife.il" tvg-rec="3",Good Life IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2355/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Cinema 4 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTCinema4.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-cinema-4-il.png" tvg-rec="3",HOT Cinema 4 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2356/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Cinema 1 FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTCinema1.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-cinema-1-il.png" tvg-rec="3",HOT Cinema 1 FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2357/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="DiscoveryChannel.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/discovery-channel-il.png" tvg-rec="3",Discovery Channel FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2358/index.m3u8
-#EXTINF:0 tvg-rec="3",Zoom IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Zoom.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/zoom-il.png" tvg-rec="3",Zoom IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2359/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Zone HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTZone.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-zone-il.png" tvg-rec="3",HOT Zone HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2360/index.m3u8
-#EXTINF:0 tvg-rec="3",5Sport Live FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport5Live.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-live-il.png" tvg-rec="3",5Sport Live FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2362/index.m3u8
-#EXTINF:0 tvg-rec="3",Turkish Dramas Plus IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="TurkishDramasPlus.il" tvg-rec="3",Turkish Dramas Plus IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2363/index.m3u8
-#EXTINF:0 tvg-rec="3",Luli IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Luli.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/luli-il.png" tvg-rec="3",Luli IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2364/index.m3u8
-#EXTINF:0 tvg-rec="3",Yes Movies Kids IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesMoviesKids.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-movies-kids-il.png" tvg-rec="3",Yes Movies Kids IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2365/index.m3u8
-#EXTINF:0 tvg-rec="3",Junior HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Junior.il" tvg-rec="3",Junior HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2366/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT 3 FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOT3.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-3-il.png" tvg-rec="3",HOT 3 FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2367/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 98 IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Channel98.il" tvg-rec="3",Channel 98 IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2369/index.m3u8
-#EXTINF:0 tvg-rec="3",Baby TV IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="BabyTV.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/baby-tv-il.png" tvg-rec="3",Baby TV IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2370/index.m3u8
-#EXTINF:0 tvg-rec="3",HOT Cinema 3 FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTCinema3.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-cinema-3-il.png" tvg-rec="3",HOT Cinema 3 FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2372/index.m3u8
-#EXTINF:0 tvg-rec="3",One 2 IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="ONE2.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-2-il.png" tvg-rec="3",One 2 IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2373/index.m3u8
-#EXTINF:0 tvg-rec="3",Channel 9 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Channel9.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel-9-il.png" tvg-rec="3",Channel 9 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2374/index.m3u8
-#EXTINF:0 tvg-rec="3",Food Network IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="FoodNetwork.il" tvg-rec="3",Food Network IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2377/index.m3u8
-#EXTINF:0 tvg-rec="3",Health IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HealthChannel.il" tvg-rec="3",Health IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2378/index.m3u8
-#EXTINF:0 tvg-rec="3",Kan Educational IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="KanEducational.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/kan-educational-il.png" tvg-rec="3",Kan Educational IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2380/index.m3u8
-#EXTINF:0 tvg-rec="3",Makan 33 IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Makan33.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/makan-33-il.png" tvg-rec="3",Makan 33 IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2381/index.m3u8
-#EXTINF:0 tvg-rec="3",Disney Channel IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="DisneyChannel.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/disney-channel-il.png" tvg-rec="3",Disney Channel IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2382/index.m3u8
-#EXTINF:0 tvg-rec="3",i24 News IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="i24News.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/i24-news-il.png" tvg-rec="3",i24 News IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2386/index.m3u8
-#EXTINF:0 tvg-rec="3",National Geographic IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="NationalGeographic.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/national-geographic-il.png" tvg-rec="3",National Geographic IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2387/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport 4 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport4.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/sport-4-il.png" tvg-rec="3",Sport 4 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2389/index.m3u8
-#EXTINF:0 tvg-rec="3",Yam Tichoni IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YamTichoni.il" tvg-rec="3",Yam Tichoni IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2390/index.m3u8
-#EXTINF:0 tvg-rec="3",5Sport HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport5.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-il.png" tvg-rec="3",5Sport HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2391/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 2 orig
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Eurosport2.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/eurosport-2-il.png" tvg-rec="3",Eurosport 2 orig
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7203/index.m3u8
-#EXTINF:0 tvg-rec="0",Viva Istanbul IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="VivaIstanbul.il" tvg-rec="0",Viva Istanbul IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12208/index.m3u8
-#EXTINF:0 tvg-rec="0",Food Network HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="FoodNetwork.il" tvg-rec="0",Food Network HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12209/index.m3u8
-#EXTINF:0 tvg-rec="0",Yam Tichoni HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YamTichoni.il" tvg-rec="0",Yam Tichoni HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12211/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT 3 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOT3.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-3-il.png" tvg-rec="0",HOT 3 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12214/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema 2 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTCinema2.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-cinema-2-il.png" tvg-rec="0",HOT Cinema 2 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12215/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT 8 IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOT8.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-8-il.png" tvg-rec="0",HOT 8 IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12216/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Comedy HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTComedy.il" tvg-rec="0",HOT Comedy HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12217/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Bidur HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTBidur.il" tvg-rec="0",HOT Bidur HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12219/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema 3 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTCinema3.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-cinema-3-il.png" tvg-rec="0",HOT Cinema 3 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12220/index.m3u8
-#EXTINF:0 tvg-rec="0",History HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="History.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/history-channel-il.png" tvg-rec="0",History HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12223/index.m3u8
-#EXTINF:0 tvg-rec="0",Yam Tichoni+ HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YamTichoniPlus.il" tvg-rec="0",Yam Tichoni+ HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12224/index.m3u8
-#EXTINF:0 tvg-rec="0",Viva Premium HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="VivaPremium.il" tvg-rec="0",Viva Premium HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12226/index.m3u8
-#EXTINF:0 tvg-rec="0",One 2 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="ONE2.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-2-il.png" tvg-rec="0",One 2 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12231/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Stars HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport5Stars.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-stars-il.png" tvg-rec="0",5Sport Stars HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12232/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 24 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Channel24.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel-24-il.png" tvg-rec="0",Channel 24 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12237/index.m3u8
-#EXTINF:0 tvg-rec="0",Junior IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Junior.il" tvg-rec="0",Junior IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12240/index.m3u8
-#EXTINF:0 tvg-rec="0",Discovery Channel HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="DiscoveryChannel.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/discovery-channel-il.png" tvg-rec="0",Discovery Channel HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12241/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 14 FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Channel14.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel-14-il.png" tvg-rec="0",Channel 14 FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12242/index.m3u8
-#EXTINF:0 tvg-rec="0",E! HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="EEntertainment.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/e-il.png" tvg-rec="0",E! HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12243/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema 1 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTCinema1.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-cinema-1-il.png" tvg-rec="0",HOT Cinema 1 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12245/index.m3u8
-#EXTINF:0 tvg-rec="0",Hop! HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Hop.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hop-il.png" tvg-rec="0",Hop! HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12244/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="NationalGeographic.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/national-geographic-il.png" tvg-rec="0",National Geographic HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12247/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic Wild FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="NatGeoWild.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/nat-geo-wild-il.png" tvg-rec="0",National Geographic Wild FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12248/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 1 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport1.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/sport-1-il.png" tvg-rec="0",Sport 1 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12249/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 2 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport2.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/sport-2-il.png" tvg-rec="0",Sport 2 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12250/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 3 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport3.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/sport-3-il.png" tvg-rec="0",Sport 3 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12251/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 4 FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport4.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/sport-4-il.png" tvg-rec="0",Sport 4 FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12252/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Gold HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport5Gold.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-gold-il.png" tvg-rec="0",5Sport Gold HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12254/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Live HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport5Live.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-live-il.png" tvg-rec="0",5Sport Live HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12255/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas Plus FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="TurkishDramasPlus.il" tvg-rec="0",Turkish Dramas Plus FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12257/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Docu HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesDocu.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-docu-il.png" tvg-rec="0",Yes Docu HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12258/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic Wild HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="NatGeoWild.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/nat-geo-wild-il.png" tvg-rec="0",National Geographic Wild HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12259/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 2 FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="TurkishDramas2.il" tvg-rec="0",Turkish Dramas 2 FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12262/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 3 FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="TurkishDramas3.il" tvg-rec="0",Turkish Dramas 3 FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12264/index.m3u8
-#EXTINF:0 tvg-rec="0",History FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="History.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/history-channel-il.png" tvg-rec="0",History FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12265/index.m3u8
-#EXTINF:0 tvg-rec="0",BollywooD Indian Films IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Bollywood.il" tvg-rec="0",BollywooD Indian Films IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12267/index.m3u8
-#EXTINF:0 tvg-rec="0",Knesset Channel IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Knesset.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/knesset-channel-il.png" tvg-rec="0",Knesset Channel IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12269/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Action FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesMoviesAction.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-movies-action-il.png" tvg-rec="0",Yes Movies Action FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12270/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Comedy FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesMoviesComedy.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-movies-comedy-il.png" tvg-rec="0",Yes Movies Comedy FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12271/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Drama FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesMoviesDrama.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-movies-drama-il.png" tvg-rec="0",Yes Movies Drama FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12272/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Kids FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesMoviesKids.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-movies-kids-il.png" tvg-rec="0",Yes Movies Kids FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12273/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Real HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTReal.il" tvg-rec="0",HOT Real HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12274/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Stars FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport5Stars.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-stars-il.png" tvg-rec="0",5Sport Stars FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12278/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Action HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesMoviesAction.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-movies-action-il.png" tvg-rec="0",Yes Movies Action HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12280/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Comedy HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesMoviesComedy.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-movies-comedy-il.png" tvg-rec="0",Yes Movies Comedy HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12281/index.m3u8
-#EXTINF:0 tvg-rec="0",Yes Movies Drama HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="YesMoviesDrama.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-movies-drama-il.png" tvg-rec="0",Yes Movies Drama HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12282/index.m3u8
-#EXTINF:0 tvg-rec="0",WIZ HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="WIZ.il" tvg-rec="0",WIZ HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12283/index.m3u8
-#EXTINF:0 tvg-rec="0",One Edge HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="ONEEdge.il" tvg-rec="0",One Edge HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32002/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 6 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport6.il" tvg-rec="0",Sport 6 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32003/index.m3u8
-#EXTINF:0 tvg-rec="0",The Design Channel HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="DesignChannel.il" tvg-rec="0",The Design Channel HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32124/index.m3u8
-#EXTINF:0 tvg-rec="0",BollywooD Series IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="BollywoodSeries.il" tvg-rec="0",BollywooD Series IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32125/index.m3u8
-#EXTINF:0 tvg-rec="0",Viva Telenovella IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="VivaTelenovella.il" tvg-rec="0",Viva Telenovella IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32127/index.m3u8
-#EXTINF:0 tvg-rec="0",Big Brother HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="BigBrother.il" tvg-rec="0",Big Brother HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32128/index.m3u8
-#EXTINF:0 tvg-rec="0",One Doco HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="ONEDoco.il" tvg-rec="0",One Doco HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32129/index.m3u8
-#EXTINF:0 tvg-rec="0",Global Action 1 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="GlobalAction1.il" tvg-rec="0",Global Action 1 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32130/index.m3u8
-#EXTINF:0 tvg-rec="0",Global Action 2 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="GlobalAction2.il" tvg-rec="0",Global Action 2 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32131/index.m3u8
-#EXTINF:0 tvg-rec="0",Spanish Drama 1 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="SpanishDrama1.il" tvg-rec="0",Spanish Drama 1 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32132/index.m3u8
-#EXTINF:0 tvg-rec="0",Spanish Drama 2 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="SpanishDrama2.il" tvg-rec="0",Spanish Drama 2 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32133/index.m3u8
-#EXTINF:0 tvg-rec="0",Indian Series 1 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="IndianSeries1.il" tvg-rec="0",Indian Series 1 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32134/index.m3u8
-#EXTINF:0 tvg-rec="0",Indian Series 2 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="IndianSeries2.il" tvg-rec="0",Indian Series 2 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32135/index.m3u8
-#EXTINF:0 tvg-rec="0",Classic Comedy Channel HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="ClassicComedy.il" tvg-rec="0",Classic Comedy Channel HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32136/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema 5 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTCinema5.il" tvg-rec="0",HOT Cinema 5 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32137/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Israeli Cinema HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTIsraeliCinema.il" tvg-rec="0",HOT Israeli Cinema HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32138/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Buzz HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTBuzz.il" tvg-rec="0",HOT Buzz HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32139/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Drama HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTDrama.il" tvg-rec="0",HOT Drama HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32140/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Bidur FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTBidur.il" tvg-rec="0",HOT Bidur FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32141/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT 8 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOT8.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-8-il.png" tvg-rec="0",HOT 8 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32142/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Mind HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTMind.il" tvg-rec="0",HOT Mind HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32143/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Romantic Cinema HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTRomanticCinema.il" tvg-rec="0",HOT Romantic Cinema HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32144/index.m3u8
-#EXTINF:0 tvg-rec="0",Love Channel HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="LoveChannel.il" tvg-rec="0",Love Channel HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32145/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT Cinema Family FHD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HOTCinemaFamily.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-cinema-family-il.png" tvg-rec="0",HOT Cinema Family FHD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32146/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Max HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport5Max.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-max-il.png" tvg-rec="0",5Sport Max HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32147/index.m3u8
-#EXTINF:0 tvg-rec="0",TeenNick IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="TeenNick.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/teennick-il.png" tvg-rec="0",TeenNick IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32148/index.m3u8
-#EXTINF:0 tvg-rec="0",Kan Educational HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="KanEducational.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/kan-educational-il.png" tvg-rec="0",Kan Educational HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32149/index.m3u8
-#EXTINF:0 tvg-rec="0",BollywooD Classic Films HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="BollywoodClassic.il" tvg-rec="0",BollywooD Classic Films HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32150/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport Plus HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Sport5Plus.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-plus-il.png" tvg-rec="0",5Sport Plus HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32151/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 14 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Channel14.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel-14-il.png" tvg-rec="0",Channel 14 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32152/index.m3u8
-#EXTINF:0 tvg-rec="0",ZEE TV IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="ZeeTV.il" tvg-rec="0",ZEE TV IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32153/index.m3u8
-#EXTINF:0 tvg-rec="0",Foody HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Foody.il" tvg-rec="0",Foody HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32154/index.m3u8
-#EXTINF:0 tvg-rec="0",The Style Channel HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="StyleChannel.il" tvg-rec="0",The Style Channel HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32155/index.m3u8
-#EXTINF:0 tvg-rec="0",Rain IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="RainTV.il" tvg-rec="0",Rain IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32156/index.m3u8
-#EXTINF:0 tvg-rec="0",GTV IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="GTV.il" tvg-rec="0",GTV IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32157/index.m3u8
-#EXTINF:0 tvg-rec="0",Game Show Channel HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="GameShow.il" tvg-rec="0",Game Show Channel HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32158/index.m3u8
-#EXTINF:0 tvg-rec="0",The Reality Channel HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="RealityChannel.il" tvg-rec="0",The Reality Channel HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32159/index.m3u8
-#EXTINF:0 tvg-rec="0",The Vacation Channel HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="VacationChannel.il" tvg-rec="0",The Vacation Channel HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32160/index.m3u8
-#EXTINF:0 tvg-rec="0",The Humor Channel HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HumorChannel.il" tvg-rec="0",The Humor Channel HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32161/index.m3u8
-#EXTINF:0 tvg-rec="0",The Mediterranean Movie 1 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Mediterranean1.il" tvg-rec="0",The Mediterranean Movie 1 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32162/index.m3u8
-#EXTINF:0 tvg-rec="0",The Mediterranean Movie 2 HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Mediterranean2.il" tvg-rec="0",The Mediterranean Movie 2 HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32163/index.m3u8
-#EXTINF:0 tvg-rec="0",BeautyZ HD IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="BeautyZ.il" tvg-rec="0",BeautyZ HD IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32164/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 11 IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Kan11.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/kan-11-il.png" tvg-rec="0",Channel 11 IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32252/index.m3u8
-#EXTINF:0 tvg-rec="0",The Humor Channel IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="HumorChannel.il" tvg-rec="0",The Humor Channel IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32316/index.m3u8
-#EXTINF:0 tvg-rec="0",Ego Total IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="EgoTotal.il" tvg-rec="0",Ego Total IL
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32317/index.m3u8
-#EXTINF:0 tvg-rec="0",Hidabrut IL
-#EXTGRP:Израиль | ישראלי
+#EXTINF:0 tvg-id="Hidabrut.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hidabrut-il.png" tvg-rec="0",Hidabrut IL
+http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32318/index.m3u8
