@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png",Anti Virus Watch
+#EXTGRP:Izrael | ישראלי
+http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/antivirus/index.m3u8
+
+#EXTINF:0 tvg-rec="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png",Anti Frizz Watch
+#EXTGRP:Izrael | ישראלי
+http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/antifrizz/index.m3u8
+
+#EXTINF:0 tvg-rec="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png",Anti Virus Protection HD
+#EXTGRP:Izrael | ישראלי
+http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/antivirus_hd/index.m3u8
+
+#EXTINF:0 tvg-rec="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png",Anti Frizz Protection HD
+#EXTGRP:Izrael | ישראלי
+http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/antifrizz_hd/index.m3u8
