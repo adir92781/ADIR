@@ -1,281 +1,183 @@
 
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4031" tvg-logo="http://epg.one/img/4031.png" tvg-rec="0",Turkish Dramas 3 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/14220/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9075" tvg-logo="http://epg.one/img/9075.png" tvg-rec="0",Turkish Dramas 2 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/14208/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9076" tvg-logo="http://epg.one/img/9076.png" tvg-rec="0",Turkish Dramas Plus HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/14207/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2671" tvg-logo="http://epg.one/img/2671.png" tvg-rec="3",Reshet 13 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2330/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2672" tvg-logo="http://epg.one/img/2672.png" tvg-rec="3",Channel 9 FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2331/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2673" tvg-logo="http://epg.one/img/2673.png" tvg-rec="3",Channel 11 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2332/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2678" tvg-logo="http://epg.one/img/2678.png" tvg-rec="3",Nick Jr. IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2337/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2679" tvg-logo="http://epg.one/img/2679.png" tvg-rec="3",Hop! IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2338/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2680" tvg-logo="http://epg.one/img/2680.png" tvg-rec="3",Home Plus IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2339/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2681" tvg-logo="http://epg.one/img/2681.png" tvg-rec="3",One HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2340/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2682" tvg-logo="http://epg.one/img/2682.png" tvg-rec="3",5Sport FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2341/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2974" tvg-logo="http://epg.one/img/2974.png" tvg-rec="3",Yes Israeli IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2342/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4007" tvg-logo="http://epg.one/img/4007.png" tvg-rec="3",Yes TV Drama HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2343/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4021" tvg-logo="http://epg.one/img/4021.png" tvg-rec="3",Yes TV Comedy HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2345/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3999" tvg-logo="http://epg.one/img/3999.png" tvg-rec="3",Yes TV Action HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2346/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2968" tvg-logo="http://epg.one/img/2968.png" tvg-rec="3",Yes Movies Comedy IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2348/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2670" tvg-logo="http://epg.one/img/2670.png" tvg-rec="3",Keshet 12 FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2349/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2966" tvg-logo="http://epg.one/img/2966.png" tvg-rec="3",Yes Movies Action IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2350/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2965" tvg-logo="http://epg.one/img/2965.png" tvg-rec="3",Yes Movies Drama IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2351/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2685" tvg-logo="http://epg.one/img/2685.png" tvg-rec="3",HOT HBO HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2354/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2686" tvg-logo="http://epg.one/img/2686.png" tvg-rec="3",Good Life IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2355/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2687" tvg-logo="http://epg.one/img/2687.png" tvg-rec="3",HOT Cinema 4 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2356/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2688" tvg-logo="http://epg.one/img/2688.png" tvg-rec="3",HOT Cinema 1 FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2357/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2689" tvg-logo="http://epg.one/img/325.png" tvg-rec="3",Discovery Channel FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2358/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2690" tvg-logo="http://epg.one/img/2690.png" tvg-rec="3",Zoom IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2359/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2691" tvg-logo="http://epg.one/img/2691.png" tvg-rec="3",HOT Zone HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2360/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3993" tvg-logo="http://epg.one/img/3993.png" tvg-rec="3",5Sport Live FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2362/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9076" tvg-logo="http://epg.one/img/9076.png" tvg-rec="3",Turkish Dramas Plus IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2363/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2695" tvg-logo="http://epg.one/img/2695.png" tvg-rec="3",Luli IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2364/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2967" tvg-logo="http://epg.one/img/2967.png" tvg-rec="3",Yes Movies Kids IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2365/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2697" tvg-logo="http://epg.one/img/2697.png" tvg-rec="3",Junior HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2366/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2698" tvg-logo="http://epg.one/img/2698.png" tvg-rec="3",HOT 3 FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2367/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2700" tvg-logo="http://epg.one/img/2700.png" tvg-rec="3",Channel 98 IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2369/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2701" tvg-logo="http://epg.one/img/2701.png" tvg-rec="3",Baby TV IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2370/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2703" tvg-logo="http://epg.one/img/2703.png" tvg-rec="3",HOT Cinema 3 FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2372/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2704" tvg-logo="http://epg.one/img/2704.png" tvg-rec="3",One 2 IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2373/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2672" tvg-logo="http://epg.one/img/2672.png" tvg-rec="3",Channel 9 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2374/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2708" tvg-logo="http://epg.one/img/2708.png" tvg-rec="3",Food Network IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2377/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2709" tvg-logo="http://epg.one/img/2709.png" tvg-rec="3",Health IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2378/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2711" tvg-logo="http://epg.one/img/2711.png" tvg-rec="3",Kan Educational IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2380/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2712" tvg-logo="http://epg.one/img/2712.png" tvg-rec="3",Makan 33 IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2381/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4307" tvg-logo="http://epg.one/img/4307.png" tvg-rec="3",Disney Channel IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2382/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2717" tvg-logo="http://epg.one/img/2717.png" tvg-rec="3",i24 News IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2386/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2677" tvg-logo="http://epg.one/img/2677.png" tvg-rec="3",National Geographic IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2387/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2720" tvg-logo="http://epg.one/img/2720.png" tvg-rec="3",Sport 4 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2389/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4011" tvg-logo="http://epg.one/img/4011.png" tvg-rec="3",Yam Tichoni IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2390/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2682" tvg-logo="http://epg.one/img/2682.png" tvg-rec="3",5Sport HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/2391/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4313" tvg-logo="http://epg.one/img/4313.png" tvg-rec="3",Eurosport 2 orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/7203/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="88006" tvg-logo="http://epg.one/img/88006.png" tvg-rec="0",Viva Istanbul IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12208/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2708" tvg-logo="http://epg.one/img/2708.png" tvg-rec="0",Food Network HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12209/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4011" tvg-logo="http://epg.one/img/4011.png" tvg-rec="0",Yam Tichoni HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12211/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2698" tvg-logo="http://epg.one/img/2698.png" tvg-rec="0",HOT 3 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12214/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2702" tvg-logo="http://epg.one/img/2702.png" tvg-rec="0",HOT Cinema 2 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12215/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5023" tvg-logo="http://epg.one/img/5023.png" tvg-rec="0",HOT 8 IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12216/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5024" tvg-logo="http://epg.one/img/5024.png" tvg-rec="0",HOT Comedy HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12217/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11501" tvg-logo="http://epg.one/img/11501.png" tvg-rec="0",HOT Bidur HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12219/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2703" tvg-logo="http://epg.one/img/2703.png" tvg-rec="0",HOT Cinema 3 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12220/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4014" tvg-logo="http://epg.one/img/4014.png" tvg-rec="0",History HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12223/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4029" tvg-logo="http://epg.one/img/4029.png" tvg-rec="0",Yam Tichoni+ HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12224/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9055" tvg-logo="http://epg.one/img/9055.png" tvg-rec="0",Viva Premium HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12226/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2704" tvg-logo="http://epg.one/img/2704.png" tvg-rec="0",One 2 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12231/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3994" tvg-logo="http://epg.one/img/3994.png" tvg-rec="0",5Sport Stars HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12232/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9049" tvg-logo="http://epg.one/img/9049.png" tvg-rec="0",Channel 24 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12237/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2697" tvg-logo="http://epg.one/img/2697.png" tvg-rec="0",Junior IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12240/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2689" tvg-logo="http://epg.one/img/325.png" tvg-rec="0",Discovery Channel HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12241/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4296" tvg-logo="http://epg.one/img/4296.png" tvg-rec="0",Channel 14 FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12242/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4005" tvg-logo="http://epg.one/img/4005.png" tvg-rec="0",E! HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12243/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2688" tvg-logo="http://epg.one/img/2688.png" tvg-rec="0",HOT Cinema 1 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12245/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2679" tvg-logo="http://epg.one/img/2679.png" tvg-rec="0",Hop! HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12244/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2677" tvg-logo="http://epg.one/img/2677.png" tvg-rec="0",National Geographic HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12247/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4311" tvg-logo="http://epg.one/img/4311.png" tvg-rec="0",National Geographic Wild FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12248/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2684" tvg-logo="http://epg.one/img/2684.png" tvg-rec="0",Sport 1 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12249/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2683" tvg-logo="http://epg.one/img/2683.png" tvg-rec="0",Sport 2 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12250/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2719" tvg-logo="http://epg.one/img/2719.png" tvg-rec="0",Sport 3 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12251/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2720" tvg-logo="http://epg.one/img/2720.png" tvg-rec="0",Sport 4 FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12252/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3992" tvg-logo="http://epg.one/img/3992.png" tvg-rec="0",5Sport Gold HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12254/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3993" tvg-logo="http://epg.one/img/3993.png" tvg-rec="0",5Sport Live HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12255/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9076" tvg-logo="http://epg.one/img/9076.png" tvg-rec="0",Turkish Dramas Plus FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12257/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2972" tvg-logo="http://epg.one/img/2972.png" tvg-rec="0",Yes Docu HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12258/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4311" tvg-logo="http://epg.one/img/4311.png" tvg-rec="0",National Geographic Wild HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12259/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9075" tvg-logo="http://epg.one/img/9075.png" tvg-rec="0",Turkish Dramas 2 FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12262/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4031" tvg-logo="http://epg.one/img/4031.png" tvg-rec="0",Turkish Dramas 3 FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12264/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4014" tvg-logo="http://epg.one/img/4014.png" tvg-rec="0",History FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12265/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5071" tvg-logo="http://epg.one/img/5071.png" tvg-rec="0",BollywooD Indian Films IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12267/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4306" tvg-logo="http://epg.one/img/4306.png" tvg-rec="0",Knesset Channel IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12269/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2966" tvg-logo="http://epg.one/img/2966.png" tvg-rec="0",Yes Movies Action FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12270/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2968" tvg-logo="http://epg.one/img/2968.png" tvg-rec="0",Yes Movies Comedy FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12271/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2965" tvg-logo="http://epg.one/img/2965.png" tvg-rec="0",Yes Movies Drama FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12272/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2967" tvg-logo="http://epg.one/img/2967.png" tvg-rec="0",Yes Movies Kids FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12273/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4023" tvg-logo="http://epg.one/img/4023.png" tvg-rec="0",HOT Real HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12274/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3994" tvg-logo="http://epg.one/img/3994.png" tvg-rec="0",5Sport Stars FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12278/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2966" tvg-logo="http://epg.one/img/2966.png" tvg-rec="0",Yes Movies Action HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12280/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2968" tvg-logo="http://epg.one/img/2968.png" tvg-rec="0",Yes Movies Comedy HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12281/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2965" tvg-logo="http://epg.one/img/2965.png" tvg-rec="0",Yes Movies Drama HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12282/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5087" tvg-logo="http://epg.one/img/5087.png" tvg-rec="0",WIZ HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/12283/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11973" tvg-logo="http://epg.one/img/11973.png" tvg-rec="0",One Edge HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32002/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11974" tvg-logo="http://epg.one/img/11974.png" tvg-rec="0",Sport 6 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32003/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11975" tvg-logo="http://epg.one/img/11975.png" tvg-rec="0",The Design Channel HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32124/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11976" tvg-logo="http://epg.one/img/11976.png" tvg-rec="0",BollywooD Series IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32125/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11977" tvg-logo="http://epg.one/img/11977.png" tvg-rec="0",Viva Telenovella IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32127/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11978" tvg-logo="http://epg.one/img/11978.png" tvg-rec="0",Big Brother HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32128/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11979" tvg-logo="http://epg.one/img/11979.png" tvg-rec="0",One Doco HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32129/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11980" tvg-logo="http://epg.one/img/11980.png" tvg-rec="0",Global Action 1 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32130/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11981" tvg-logo="http://epg.one/img/11981.png" tvg-rec="0",Global Action 2 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32131/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11982" tvg-logo="http://epg.one/img/11982.png" tvg-rec="0",Spanish Drama 1 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32132/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11983" tvg-logo="http://epg.one/img/11983.png" tvg-rec="0",Spanish Drama 2 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32133/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11984" tvg-logo="http://epg.one/img/11984.png" tvg-rec="0",Indian Series 1 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32134/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11985" tvg-logo="http://epg.one/img/11985.png" tvg-rec="0",Indian Series 2 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32135/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11986" tvg-logo="http://epg.one/img/11986.png" tvg-rec="0",Classic Comedy Channel HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32136/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11987" tvg-logo="http://epg.one/img/11987.png" tvg-rec="0",HOT Cinema 5 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32137/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11988" tvg-logo="http://epg.one/img/11988.png" tvg-rec="0",HOT Israeli Cinema HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32138/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11989" tvg-logo="http://epg.one/img/11989.png" tvg-rec="0",HOT Buzz HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32139/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11990" tvg-logo="http://epg.one/img/11990.png" tvg-rec="0",HOT Drama HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32140/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11501" tvg-logo="http://epg.one/img/11501.png" tvg-rec="0",HOT Bidur FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32141/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5023" tvg-logo="http://epg.one/img/5023.png" tvg-rec="0",HOT 8 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32142/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11991" tvg-logo="http://epg.one/img/11991.png" tvg-rec="0",HOT Mind HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32143/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11992" tvg-logo="http://epg.one/img/11992.png" tvg-rec="0",HOT Romantic Cinema HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32144/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11993" tvg-logo="http://epg.one/img/11993.png" tvg-rec="0",Love Channel HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32145/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9056" tvg-logo="http://epg.one/img/9056.png" tvg-rec="0",HOT Cinema Family FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32146/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11995" tvg-logo="http://epg.one/img/11995.png" tvg-rec="0",5Sport Max HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32147/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2675" tvg-logo="http://epg.one/img/2675.png" tvg-rec="0",TeenNick IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32148/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2711" tvg-logo="http://epg.one/img/2711.png" tvg-rec="0",Kan Educational HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32149/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11996" tvg-logo="http://epg.one/img/11996.png" tvg-rec="0",BollywooD Classic Films HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32150/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11997" tvg-logo="http://epg.one/img/11997.png" tvg-rec="0",5Sport Plus HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32151/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4296" tvg-logo="http://epg.one/img/4296.png" tvg-rec="0",Channel 14 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32152/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11998" tvg-logo="http://epg.one/img/11998.png" tvg-rec="0",ZEE TV IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32153/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11999" tvg-logo="http://epg.one/img/11999.png" tvg-rec="0",Foody HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32154/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="93255" tvg-logo="http://epg.one/img/93255.png" tvg-rec="0",The Style Channel HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32155/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="93256" tvg-logo="http://epg.one/img/93256.png" tvg-rec="0",Rain IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32156/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="93257" tvg-logo="http://epg.one/img/93257.png" tvg-rec="0",GTV IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32157/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9111" tvg-logo="http://epg.one/img/9111.png" tvg-rec="0",Game Show Channel HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32158/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="12003" tvg-logo="http://epg.one/img/12003.png" tvg-rec="0",The Reality Channel HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32159/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="12004" tvg-logo="http://epg.one/img/12004.png" tvg-rec="0",The Vacation Channel HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32160/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="93262" tvg-logo="http://epg.one/img/93262.png" tvg-rec="0",The Humor Channel HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32161/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="12006" tvg-logo="http://epg.one/img/12006.png" tvg-rec="0",The Mediterranean Movie 1 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32162/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="93258" tvg-logo="http://epg.one/img/93258.png" tvg-rec="0",The Mediterranean Movie 2 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32163/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="93259" tvg-logo="http://epg.one/img/93259.png" tvg-rec="0",BeautyZ HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32164/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2673" tvg-logo="http://epg.one/img/2673.png" tvg-rec="0",Channel 11 IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32252/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="93262" tvg-logo="http://epg.one/img/93262.png" tvg-rec="0",The Humor Channel IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32316/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2707" tvg-logo="http://epg.one/img/2707.png" tvg-rec="0",Ego Total IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GDS3ZMNDVRFGAT/32317/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2670" tvg-logo="http://epg.one/img2/2670.png" tvg-rec="3",Keshet 12 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2329/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2671" tvg-logo="http://epg.one/img2/2671.png" tvg-rec="3",Reshet 13 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2330/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2672" tvg-logo="http://epg.one/img2/2672.png" tvg-rec="3",Channel 9 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2374/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2672" tvg-logo="http://epg.one/img2/2672.png" tvg-rec="3",Channel 9 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2331/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2700" tvg-logo="http://epg.one/img2/2700.png" tvg-rec="3",Channel 98 IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2369/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2673" tvg-logo="http://epg.one/img2/2673.png" tvg-rec="3",Channel 11 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2332/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2678" tvg-logo="http://epg.one/img2/2678.png" tvg-rec="3",Nick Jr. IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2337/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2679" tvg-logo="http://epg.one/img2/2679.png" tvg-rec="3",Hop! IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2338/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2680" tvg-logo="http://epg.one/img2/2680.png" tvg-rec="3",Home Plus IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2339/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2681" tvg-logo="http://epg.one/img2/2681.png" tvg-rec="3",One HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2340/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2682" tvg-logo="http://epg.one/img2/2682.png" tvg-rec="3",5Sport FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2341/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2974" tvg-logo="http://epg.one/img2/2974.png" tvg-rec="3",Yes Israeli IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2342/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4007" tvg-logo="http://epg.one/img2/4007.png" tvg-rec="3",Yes TV Drama HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2343/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4021" tvg-logo="http://epg.one/img2/4021.png" tvg-rec="3",Yes TV Comedy HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2345/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3999" tvg-logo="http://epg.one/img2/3999.png" tvg-rec="3",Yes TV Action HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2346/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2968" tvg-logo="http://epg.one/img2/2968.png" tvg-rec="3",Yes Movies Comedy IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2348/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2670" tvg-logo="http://epg.one/img2/2670.png" tvg-rec="3",Keshet 12 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2349/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2966" tvg-logo="http://epg.one/img2/2966.png" tvg-rec="3",Yes Movies Action IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2350/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2965" tvg-logo="http://epg.one/img2/2965.png" tvg-rec="3",Yes Movies Drama IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2351/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2685" tvg-logo="http://epg.one/img2/2685.png" tvg-rec="3",HOT HBO HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2354/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2686" tvg-logo="http://epg.one/img2/2686.png" tvg-rec="3",Good Life IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2355/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2687" tvg-logo="http://epg.one/img2/2687.png" tvg-rec="3",HOT Cinema 4 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2356/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2688" tvg-logo="http://epg.one/img2/2688.png" tvg-rec="3",HOT Cinema 1 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2357/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2689" tvg-logo="http://epg.one/img2/325.png" tvg-rec="3",Discovery Channel FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2358/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2690" tvg-logo="http://epg.one/img2/2690.png" tvg-rec="3",Zoom IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2359/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2691" tvg-logo="http://epg.one/img2/2691.png" tvg-rec="3",HOT Zone HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2360/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3993" tvg-logo="http://epg.one/img2/3993.png" tvg-rec="3",5Sport Live FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2362/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9076" tvg-logo="http://epg.one/img2/9076.png" tvg-rec="3",Turkish Dramas Plus IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2363/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2695" tvg-logo="http://epg.one/img2/2695.png" tvg-rec="3",Luli IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2364/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2967" tvg-logo="http://epg.one/img2/2967.png" tvg-rec="3",Yes Movies Kids IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2365/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2697" tvg-logo="http://epg.one/img2/2697.png" tvg-rec="3",Junior HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2366/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2698" tvg-logo="http://epg.one/img2/2698.png" tvg-rec="3",HOT 3 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2367/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2701" tvg-logo="http://epg.one/img2/2701.png" tvg-rec="3",Baby TV IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2370/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2703" tvg-logo="http://epg.one/img2/2703.png" tvg-rec="3",HOT Cinema 3 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2372/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2704" tvg-logo="http://epg.one/img2/2704.png" tvg-rec="3",One 2 IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2373/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2708" tvg-logo="http://epg.one/img2/2708.png" tvg-rec="3",Food Network IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2377/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2709" tvg-logo="http://epg.one/img2/2709.png" tvg-rec="3",Health IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2378/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2711" tvg-logo="http://epg.one/img2/2711.png" tvg-rec="3",Kan Educational IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2380/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2712" tvg-logo="http://epg.one/img2/2712.png" tvg-rec="3",Makan 33 IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2381/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4307" tvg-logo="http://epg.one/img2/4307.png" tvg-rec="3",Disney Channel IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2382/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2717" tvg-logo="http://epg.one/img2/2717.png" tvg-rec="3",i24 News IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2386/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2677" tvg-logo="http://epg.one/img2/2677.png" tvg-rec="3",National Geographic IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2387/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2720" tvg-logo="http://epg.one/img2/2720.png" tvg-rec="3",Sport 4 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2389/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4011" tvg-logo="http://epg.one/img2/4011.png" tvg-rec="3",Yam Tichoni IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2390/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2682" tvg-logo="http://epg.one/img2/2682.png" tvg-rec="3",5Sport HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2391/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4313" tvg-logo="http://epg.one/img2/4313.png" tvg-rec="3",Eurosport 2 orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/7203/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="88006" tvg-logo="http://epg.one/img2/88006.png" tvg-rec="0",Viva Istanbul IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12208/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2708" tvg-logo="http://epg.one/img2/2708.png" tvg-rec="0",Food Network HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12209/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4011" tvg-logo="http://epg.one/img2/4011.png" tvg-rec="0",Yam Tichoni HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12211/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2698" tvg-logo="http://epg.one/img2/2698.png" tvg-rec="0",HOT 3 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12214/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2702" tvg-logo="http://epg.one/img2/2702.png" tvg-rec="0",HOT Cinema 2 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12215/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5023" tvg-logo="http://epg.one/img2/5023.png" tvg-rec="0",HOT 8 IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12216/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5024" tvg-logo="http://epg.one/img2/5024.png" tvg-rec="0",HOT Comedy HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12217/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="11501" tvg-logo="http://epg.one/img2/11501.png" tvg-rec="0",HOT Bidur HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12219/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2703" tvg-logo="http://epg.one/img2/2703.png" tvg-rec="0",HOT Cinema 3 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12220/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4014" tvg-logo="http://epg.one/img2/4014.png" tvg-rec="0",History HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12223/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4029" tvg-logo="http://epg.one/img2/4029.png" tvg-rec="0",Yam Tichoni+ HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12224/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9055" tvg-logo="http://epg.one/img2/9055.png" tvg-rec="0",Viva Premium HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12226/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2704" tvg-logo="http://epg.one/img2/2704.png" tvg-rec="0",One 2 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12231/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3994" tvg-logo="http://epg.one/img2/3994.png" tvg-rec="0",5Sport Stars HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12232/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9049" tvg-logo="http://epg.one/img2/9049.png" tvg-rec="0",Channel 24 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12237/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2697" tvg-logo="http://epg.one/img2/2697.png" tvg-rec="0",Junior IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12240/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2689" tvg-logo="http://epg.one/img2/325.png" tvg-rec="0",Discovery Channel HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12241/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4296" tvg-logo="http://epg.one/img2/4296.png" tvg-rec="0",Channel 14 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12242/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4005" tvg-logo="http://epg.one/img2/4005.png" tvg-rec="0",E! HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12243/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2679" tvg-logo="http://epg.one/img2/2679.png" tvg-rec="0",Hop! HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12244/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2688" tvg-logo="http://epg.one/img2/2688.png" tvg-rec="0",HOT Cinema 1 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12245/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2677" tvg-logo="http://epg.one/img2/2677.png" tvg-rec="0",National Geographic HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12247/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4311" tvg-logo="http://epg.one/img2/4311.png" tvg-rec="0",National Geographic Wild FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12248/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2684" tvg-logo="http://epg.one/img2/2684.png" tvg-rec="0",Sport 1 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12249/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2683" tvg-logo="http://epg.one/img2/2683.png" tvg-rec="0",Sport 2 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12250/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2719" tvg-logo="http://epg.one/img2/2719.png" tvg-rec="0",Sport 3 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12251/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3992" tvg-logo="http://epg.one/img2/3992.png" tvg-rec="0",5Sport Gold HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12254/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3993" tvg-logo="http://epg.one/img2/3993.png" tvg-rec="0",5Sport Live HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12255/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9076" tvg-logo="http://epg.one/img2/9076.png" tvg-rec="0",Turkish Dramas Plus FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12257/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2972" tvg-logo="http://epg.one/img2/2972.png" tvg-rec="0",Yes Docu HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12258/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4311" tvg-logo="http://epg.one/img2/4311.png" tvg-rec="0",National Geographic Wild HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12259/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9075" tvg-logo="http://epg.one/img2/9075.png" tvg-rec="0",Turkish Dramas 2 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12262/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4031" tvg-logo="http://epg.one/img2/4031.png" tvg-rec="0",Turkish Dramas 3 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12264/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4014" tvg-logo="http://epg.one/img2/4014.png" tvg-rec="0",History FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12265/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5071" tvg-logo="http://epg.one/img2/5071.png" tvg-rec="0",BollywooD Indian Films IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12267/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4306" tvg-logo="http://epg.one/img2/4306.png" tvg-rec="0",Knesset Channel IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12269/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2966" tvg-logo="http://epg.one/img2/2966.png" tvg-rec="0",Yes Movies Action FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12270/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2968" tvg-logo="http://epg.one/img2/2968.png" tvg-rec="0",Yes Movies Comedy FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12271/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2965" tvg-logo="http://epg.one/img2/2965.png" tvg-rec="0",Yes Movies Drama FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12272/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2967" tvg-logo="http://epg.one/img2/2967.png" tvg-rec="0",Yes Movies Kids FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12273/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4023" tvg-logo="http://epg.one/img2/4023.png" tvg-rec="0",HOT Real HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12274/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3994" tvg-logo="http://epg.one/img2/3994.png" tvg-rec="0",5Sport Stars FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12278/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2966" tvg-logo="http://epg.one/img2/2966.png" tvg-rec="0",Yes Movies Action HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12280/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2968" tvg-logo="http://epg.one/img2/2968.png" tvg-rec="0",Yes Movies Comedy HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12281/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5087" tvg-logo="http://epg.one/img2/5087.png" tvg-rec="0",WIZ HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12283/index.m3u8
