@@ -1,6 +1,67 @@
 #EXTM3U
-# Playlist: 10.m3u8 — added "Lego & Kids" channel with placeholder URL
-# Replace YOUR_LINK_LEGO_KIDS with a real stream URL (HLS .m3u8) when available
+# Playlist: 10.m3u8 — Israeli and US channels + Jewish/Christian/Arab placeholders
+# Note: All stream URLs are placeholders. Replace with real HLS (.m3u8) URLs or point to a proxy that validates tokens.
+# The TEST token below is a placeholder for an 8-minute test. A server must validate token expiry.
 
-#EXTINF:0 group-title="Kids" tvg-id="" tvg-logo="" ,Lego & Kids
-YOUR_LINK_LEGO_KIDS
+# Israel channels
+#EXTINF:0 group-title="Israel" tvg-id="yes_movies_comedy" tvg-logo="" ,Yes Movies Comedy IL
+https://stream.example.com/proxy/yes_movies_comedy.m3u8?token=TEST_TOKEN_8MIN
+#EXTINF:0 group-title="Israel" tvg-id="hot3" tvg-logo="" ,HOT 3 IL (token test)
+https://stream.example.com/proxy/hot3.m3u8?token=TEST_TOKEN_8MIN
+#EXTINF:0 group-title="Israel" tvg-id="channel14" tvg-logo="" ,Channel 14 IL
+https://stream.example.com/proxy/channel14.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="kan11" tvg-logo="" ,Kan 11 IL
+https://stream.example.com/proxy/kan11.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="kan_educational" tvg-logo="" ,Kan Educational IL
+https://stream.example.com/proxy/kan_educational.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="103fm" tvg-logo="" ,103FM (Radio)
+https://stream.example.com/proxy/103fm.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="107fm" tvg-logo="" ,107FM (Radio)
+https://stream.example.com/proxy/107fm.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="bein_sport" tvg-logo="" ,Bein Sport IL
+https://stream.example.com/proxy/bein_sport.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="one_il" tvg-logo="" ,One IL
+https://stream.example.com/proxy/one_il.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="5live_il" tvg-logo="" ,5LIVE IL
+https://stream.example.com/proxy/5live_il.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="5stars" tvg-logo="" ,5STARS IL
+https://stream.example.com/proxy/5stars.m3u8
+
+# United States channels (not too many news channels)
+#EXTINF:0 group-title="USA" tvg-id="fox_news" tvg-logo="" ,Fox News US
+https://stream.example.com/proxy/fox_news.m3u8
+#EXTINF:0 group-title="USA" tvg-id="espn" tvg-logo="" ,ESPN US
+https://stream.example.com/proxy/espn.m3u8
+#EXTINF:0 group-title="USA" tvg-id="nbcsports" tvg-logo="" ,NBC Sports US
+https://stream.example.com/proxy/nbcsports.m3u8
+#EXTINF:0 group-title="USA" tvg-id="beinsport_us" tvg-logo="" ,Bein Sport (US)
+https://stream.example.com/proxy/beinsport_us.m3u8
+#EXTINF:0 group-title="USA" tvg-id="skysports" tvg-logo="" ,Sky Sports (intl)
+https://stream.example.com/proxy/skysports.m3u8
+#EXTINF:0 group-title="USA" tvg-id="general_entertainment" tvg-logo="" ,General Entertainment US
+https://stream.example.com/proxy/entertainment_us.m3u8
+
+# Jewish channels (English)
+#EXTINF:0 group-title="Jewish" tvg-id="jewish_channel_en" tvg-logo="" ,Jewish Channel (EN)
+https://stream.example.com/proxy/jewish_channel_en.m3u8
+#EXTINF:0 group-title="Jewish" tvg-id="israel_forever" tvg-logo="" ,Israel Forever (EN)
+https://stream.example.com/proxy/israel_forever_en.m3u8
+
+# Christian channels (English/intl)
+#EXTINF:0 group-title="Christian" tvg-id="tbn" tvg-logo="" ,TBN (Trinity Broadcasting Network)
+https://stream.example.com/proxy/tbn.m3u8
+#EXTINF:0 group-title="Christian" tvg-id="ctv_christian" tvg-logo="" ,Christian TV (EN)
+https://stream.example.com/proxy/christian_tv.m3u8
+
+# Arab channels (Arabic/intl)
+#EXTINF:0 group-title="Arab" tvg-id="aljazeera_ar" tvg-logo="" ,Al Jazeera Arabic
+https://stream.example.com/proxy/aljazeera_ar.m3u8
+#EXTINF:0 group-title="Arab" tvg-id="mbc_ar" tvg-logo="" ,MBC (Arabic)
+https://stream.example.com/proxy/mbc_ar.m3u8
+
+# Note about the TEST_TOKEN_8MIN
+# The token in URLs containing TEST_TOKEN_8MIN is a placeholder representing an 8-minute test token. To make this work end-to-end you need a running proxy/auth server that:
+#  - issues a token with 8-minute expiry to the client
+#  - validates the token on /proxy/* requests and allows access only while token is valid
+#  - optionally proxies the upstream HLS stream and enforces HTTPS/CORS/rate-limits
+# See docs/STREAMING_ARCHITECTURE.md in the repo for an example server implementation and how to generate real tokens.
