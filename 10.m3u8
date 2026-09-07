@@ -1,2 +1,6 @@
+#EXTM3U
+# Playlist: 10.m3u8 — added "Lego & Kids" channel with placeholder URL
+# Replace YOUR_LINK_LEGO_KIDS with a real stream URL (HLS .m3u8) when available
 
-YOUR LINK
+#EXTINF:0 group-title="Kids" tvg-id="" tvg-logo="" ,Lego & Kids
+YOUR_LINK_LEGO_KIDS
